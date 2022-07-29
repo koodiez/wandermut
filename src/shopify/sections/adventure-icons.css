@@ -1,0 +1,26 @@
+.adevnture-icon_wrapper {
+  max-width: 1400px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 20px;
+  align-items: center;
+}
+
+.adventure-icon_box {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+  align-items: center;
+  max-width: 140px;
+  overflow-wrap: break-word;
+}
+
+.adventure-icon_paragraph {
+  margin: 5px;
+}
+.li svg {
+  width: 40px;
+}

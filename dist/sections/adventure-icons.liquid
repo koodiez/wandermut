@@ -1,0 +1,57 @@
+<div class="adevnture-icon_wrapper" style="background-color: {{section.settings.background_color}};">
+    {% for block in section.blocks %}
+    <div class="adventure-icon_box">
+        <img src="{{block.settings.image | img_url: '100x'}}" width="100" alt="">
+        <p class="adventure-icon_paragraph" style="color: {{section.settings.background_color_text}};">{{block.settings.text}}</p>
+        <h4 style="color: {{section.settings.background_color_text}};">{{block.settings.heading}}</h4>
+    </div>
+    {% endfor %}
+</div>
+
+{% schema %}
+{
+    "settings": [
+    {
+        "type": "color",
+        "id": "background_color",
+        "label": "Background color",
+        "default": "#ffffff"
+    },
+    {
+        "type": "color",
+        "id": "background_color_text",
+        "label": "Text color",
+        "default": "#ffffff"
+    }
+    ],  
+    "blocks" : [ 
+    {
+        "type": "image",
+        "name" : "image block",
+        "settings" : [
+            {
+                "type": "image_picker",
+                "label": "your image",
+                "id" : "image"
+            },
+            {
+                "type": "text",
+                "label": "kleine Überschrift",
+                "id" : "text"
+            },
+            {
+                "type": "text",
+                "label": "große Überschrift",
+                "id" : "heading"
+            }
+        ]
+    }
+    ],
+   "presets": [
+       {
+           "category": "custom icons",
+           "name":"custom icons"
+       }
+   ]
+}
+{% endschema %}
