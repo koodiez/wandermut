@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16590830151bf1f214": {
+      "type": "video",
+      "settings": {
+        "subheading": "WANDERMUT",
+        "title": "WIR GEHEN DORTHIN, WO NIEMAND HINGEHT.",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=w1rQfmPirQE",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
+        "background_type": "full_width",
+        "video_size": "large",
+        "autoplay": true,
+        "background": "#ffffff",
+        "text_color": "#ffffff"
+      }
+    },
+    "165908320304f9a6d4": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "HIER GEHT'S ALS NÄCHSTES HIN",
+        "content": "<p>Schau dir unser aktuelles Abenteuer an und bewirb dich, um Teil des Teams zu werden.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#030000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659083248ec7e442b": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Gibraleon_Island_4.jpg",
+        "subheading": "PANAMA",
+        "title": "ISLAND SURVIVAL",
+        "content": "<p>Wir lassen uns vor einer einsamen Insel mitten im Pazifik aus einem fliegenden Helikopter ins Meer werfen. Dort müssen wir 10 Tage überleben und versuchen in der Zeit ein Floß bauen, um die Insel wieder zu verlassen.<\/p>",
+        "button_text": "Mehr Infos",
+        "button_link": "",
+        "link_style": "button",
+        "background_type": "boxed",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 50
+      }
+    },
+    "1659083398300fa18e": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "AKTUELLE ABENTEUER",
+        "content": "<p>Schau dir unsere Pläne an und bewirb dich! Bist du eher der kalte oder der heiße Typ fürs Abenteuer?<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#030000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16590838846fb9a45a": {
+      "type": "image-with-text",
+      "blocks": {
+        "165908388469dc2e1b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-534-1.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "UNSICHER, OB DU GEEIGNET BIST?",
+            "content": "<p>Das hier ist Christian auf einer unserer Expeditionen. Finde heraus, ob du ebenfalls geeignet bist!<\/p>",
+            "button_text": "SCHNELLEN SELBSTTEST MACHEN",
+            "button_link": "https:\/\/wandermut.typeform.com\/to\/YDcENwT7?typeform-source=wandermut.de"
+          }
+        }
+      },
+      "block_order": [
+        "165908388469dc2e1b-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#030000",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#f6a429",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659084086315c6a06": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "DAFÜR STEHT WANDERMUT",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#030000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16590840747c49f635": {
+      "type": "slideshow",
+      "blocks": {
+        "1659084073191134a2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Simon-DSC_1717-scaled.jpg",
+            "text_position": "middle_center",
+            "subheading": "Abenteuer: Ein Abenteuer ist für uns eine durchaus riskante Unternehmung mit ungewissem Ausgang.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 44
+          }
+        },
+        "1659084073191134a2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-23.jpg",
+            "text_position": "middle_center",
+            "subheading": "Egal ob Wüste, Tundra oder Dschungel… Wir gehen dorthin, wo niemand hingeht.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "b68610ca-8a68-4f81-9f15-81c65752cdb9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Michael-Leitzinger.jpg",
+            "text_position": "middle_center",
+            "subheading": "Wir sind weder Extremsportler noch Survival-Freaks. Man muss kein Reinhold Messner sein, um mitzukommen. Mit der richtigen Motivation ist beinahe alles möglich.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "66389bc8-4bd6-47fd-82cd-890b584e67bb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF3754-scaled.jpg",
+            "text_position": "middle_center",
+            "subheading": "Wir haben keine Lust auf Massentourismus und Pauschalreisen aus dem Katalog. Deshalb haben wir Wandermut gegründet.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "11eaacc1-cb46-4a50-afd4-351033953db4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Website.png",
+            "text_position": "middle_center",
+            "subheading": "Was wir machen ist nicht für jeden was. Das ist okay. Wenn du allerdings weder Anstrengung noch Risiko scheust, bist du bei uns richtig.",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1659084073191134a2-0",
+        "1659084073191134a2-1",
+        "b68610ca-8a68-4f81-9f15-81c65752cdb9",
+        "66389bc8-4bd6-47fd-82cd-890b584e67bb",
+        "11eaacc1-cb46-4a50-afd4-351033953db4"
+      ],
+      "settings": {
+        "section_height": "large",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16590830151bf1f214",
+    "165908320304f9a6d4",
+    "1659083248ec7e442b",
+    "1659083398300fa18e",
+    "16590838846fb9a45a",
+    "1659084086315c6a06",
+    "16590840747c49f635"
+  ]
+}
