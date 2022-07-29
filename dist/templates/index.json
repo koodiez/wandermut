@@ -1,0 +1,383 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
+            "text_position": "middle_center",
+            "subheading": "WIR GEHEN DORTHIN, WO NIEMAND HINGEHT.",
+            "title": "WANDERMUT",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "section_height": "fit",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "1659013285b7aa0ff2": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "FÜR JEDES ABENTEUER DIE RICHTIGE",
+        "title": "Outdoor Bekleidung",
+        "content": "<p>Nach unzähligen Abenteuern im Dschungel, Wäldern, bei Meeren und jedem erdenklichen Klima mussten bei uns schon einige Kleidungsstücke ihren Tribut zollen. Damit das nicht mehr passieren kann, haben wir uns dazu entschlossen unsere eigene Kleidung zu entwickeln!<br\/>Überzeuge dich selbst und profitiere von unserer Anti-Riss-Garantie.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659014189f77ed609": {
+      "type": "shop-the-look",
+      "blocks": {
+        "1659014189ae7eadf4-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-536-1-scaled.jpg",
+            "dot_type": "inverted",
+            "product_1": "sherpa-fleece-herren-kopie",
+            "product_1_horizontal_position": 40,
+            "product_1_vertical_position": 49,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "wanderhose-allrounder-herren",
+            "product_2_horizontal_position": 64,
+            "product_2_vertical_position": 73,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "mutze",
+            "product_3_horizontal_position": 40,
+            "product_3_vertical_position": 38,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        }
+      },
+      "block_order": [
+        "1659014189ae7eadf4-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": ""
+      }
+    },
+    "16590136878b2643ff": {
+      "type": "multi-column",
+      "blocks": {
+        "16590136873e5c07e6-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/41958038_10156447465965734_7170816146872991744_n-e1593683190220.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Anti Riss Garantie",
+            "content": "<p>Du sollst dich auf deine Outdoor-Kleidung verlasen können. Deine Wandermut Outdoor-Hose ist dir gerissen? Kein Problem! <strong>Wir ersetzen dir deine Outdoor-Hose kostenfrei.<\/strong><\/p>",
+            "link_text": "Überzeuge dich selbst",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16590136873e5c07e6-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/41958038_10156447465965734_7170816146872991744_n-e1593683190220.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Auf den härstesten Abenteuern getestet",
+            "content": "<p>Wir wissen, worauf es wirklich ankommt. Unser Anspruch: <strong>Wir entwickeln nur Produkte, die wir selbst bei unseren Expeditionen nutzen.<\/strong><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16590136873e5c07e6-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/41958038_10156447465965734_7170816146872991744_n-e1593683190220.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Stürze dich mit uns ins Abenteuer",
+            "content": "<p>Wir organisieren Abenteuer & Expeditionen in die abgelegensten Winkel dieser Erde.<br\/><strong>Komm mit, wenn du dich traust.<\/strong><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16590136873e5c07e6-1",
+        "16590136873e5c07e6-2",
+        "16590136873e5c07e6-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "Was unsere Produkte besonders macht",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659014043b2495697": {
+      "type": "faq",
+      "blocks": {
+        "165901404309f3945d-1": {
+          "type": "question",
+          "settings": {
+            "title": "Kostenloser Versand & Retoure",
+            "answer": "<p>Unsere Produkte kannst du<strong>kostenfrei bestellen<\/strong>. Sollten sie dir nicht gefallen oder nicht passen, kannst du sie auch<strong>kostenlos wieder zurückschicken<\/strong>.<\/p>"
+          }
+        },
+        "165901404309f3945d-2": {
+          "type": "question",
+          "settings": {
+            "title": "6 Monate Garantie auf alle Produkte",
+            "answer": "<p><strong>Alle Produkte besitzen eine 6-monatige Garantie<\/strong>. Solltest du Problme haben, kontaktiere uns einfach über E-Mail oder WhatsApp.<\/p>"
+          }
+        },
+        "165901404309f3945d-4": {
+          "type": "question",
+          "settings": {
+            "title": "Einfach, sicher & schnell bezahlen",
+            "answer": "<p>Wir bieten eine vielzahl vonn Zahlungsmöglichkeiten, um es dir so<strong>einfach, sicher und schnell<\/strong>wie möglich zu machen, dich für dein nächsten Abenteuer auszustatten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165901404309f3945d-1",
+        "165901404309f3945d-2",
+        "165901404309f3945d-4"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "Vorteile, wenn du bei uns bestellst",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16590146681089bc6d": {
+      "type": "slideshow",
+      "blocks": {
+        "1659014668cad92a22-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1920_x_1080_px.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "UNSERE ROLLE BEI 7 VS. WILD",
+            "button_1_text": "Mehr Erfahren",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1659014668cad92a22-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0350-scaled.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "ÜBER UNS",
+            "button_1_text": "Mehr erfahren",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "329016ba-c759-4243-97d9-a16e27d5e9f1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "WARUM IR eigene outdoor-kleidung entwickeln",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "4d54e5f8-3df5-4cf2-b27f-74861a4f349d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0950.jpg",
+            "text_position": "middle_center",
+            "subheading": "\"Man lebt nur einmal. Daher wollen wir dich dazu bewegen, genau die Abenteuer zu erleben, von denen du schon immer geträumt hast.\"  Tom Schinker & Martin Druschel",
+            "title": "unser antrieb",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1659014668cad92a22-0",
+        "1659014668cad92a22-1",
+        "329016ba-c759-4243-97d9-a16e27d5e9f1",
+        "4d54e5f8-3df5-4cf2-b27f-74861a4f349d"
+      ],
+      "settings": {
+        "section_height": "large",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 10,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "1659013923b460d2e5": {
+      "type": "featured-product",
+      "blocks": {
+        "165901392384e3de8a-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "dropdown",
+            "color_mode": "variant_image",
+            "size_chart_page": ""
+          }
+        },
+        "165901392384e3de8a-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "165901392384e3de8a-0",
+        "165901392384e3de8a-2"
+      ],
+      "settings": {
+        "product": "wanderhose-allrounder-damen",
+        "subheading": "",
+        "title": "Unser Bestseller",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Kostenfreier Versand",
+            "content": "<p>Ab einem Einkaufswert i.H.v. 80€<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Kundensupport",
+            "content": "<p>Wenn du Fragen hast, kannst du uns jederzeit <a href=\"\/pages\/contact\" title=\"Kontakt\">kontaktieren<\/a>.<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Sicheres Bezahlen",
+            "content": "<p>Egal ob Paypal oder eine andere präferierte Zahlungsmethode. Bei uns bist du sicher.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1659013285b7aa0ff2",
+    "1659014189f77ed609",
+    "16590136878b2643ff",
+    "1659014043b2495697",
+    "16590146681089bc6d",
+    "1659013923b460d2e5",
+    "text-with-icons"
+  ]
+}
