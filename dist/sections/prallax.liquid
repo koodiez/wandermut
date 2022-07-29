@@ -1,0 +1,19 @@
+<div class="parallaxImage" style="background-image: url({{section.settings.image | image_url }});"></div>
+{% schema %}
+{
+"name": "Prallax-Image",
+"settings": [
+    {
+    "type": "image_picker",
+    "label": "Bitte Bild wählen",
+    "id": "image"
+    }
+],
+    "presets": [
+        {
+            "category": "Prallax-Image",
+            "name":"Prallax-Image"
+        }
+    ]
+}
+{% endschema %}

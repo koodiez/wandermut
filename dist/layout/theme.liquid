@@ -33,6 +33,9 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
       <link rel="shortcut icon" href="{{ settings.favicon | img_url: '96x96' }}" type="image/png">
     {%- endif -%}
 
+    {%- comment -%}Load Bundle CSS{%- endcomment -%}
+    <link rel="stylesheet" href="{{ 'bundle.css' | asset_url }}">
+
     {%- comment -%}Few prefech to increase performance on commonly used third-parties{%- endcomment -%}
     <link rel="preconnect" href="https://cdn.shopify.com">
     <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com">
