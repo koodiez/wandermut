@@ -1,0 +1,9 @@
+development:
+  password: PRIVATE_APP_PASSWORD
+  theme_id: 'THEME_ID'
+  store: STORE_DOMAIN.myshopify.com
+  directory: dist
+  ignore_files:
+    - /\.(gif|jpg|jpeg|png|svg)$/
+    - /\.(eot|ttf|woff|woff2)$/
+    - settings_data.json
