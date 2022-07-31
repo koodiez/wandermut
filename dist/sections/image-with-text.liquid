@@ -70,6 +70,11 @@
       {%- endif -%}
     }
   {%- endif -%}
+
+
+      #shopify-section-{{ section.id }} {
+          background-color: {{section.settings.background_color}};
+      }
 </style>
 
 <section class="section {% if section.settings.background_overlap == 'both' and is_boxed == false %}section--flush{% endif %}">
@@ -160,6 +165,12 @@
       "info": "Show animation when section becomes visible.",
       "default": true
     },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#ffffff"
+  },
     {
       "type": "select",
       "id": "background_type",

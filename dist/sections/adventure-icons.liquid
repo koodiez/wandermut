@@ -1,3 +1,9 @@
+<style>
+      #shopify-section-{{ section.id }} {
+          background-color: {{section.settings.background_color}};
+      }
+</style>
+
 <div class="adevnture-icon_wrapper" style="background-color: {{section.settings.background_color}};">
     {% for block in section.blocks %}
     <div class="adventure-icon_box">
