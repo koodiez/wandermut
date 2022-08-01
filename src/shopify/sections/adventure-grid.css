@@ -1,0 +1,41 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .grid-container {
+    grid-template-columns: auto auto;
+  }
+}
+
+.grid-item {
+  padding: 5px;
+  text-align: center;
+  position: relative;
+}
+.adventure-parent_wrapper {
+  max-width: 1300px;
+  margin: 0 auto;
+  text-align: center;
+}
+.centered-heading {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered-text {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered-button {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 10px;
+}
