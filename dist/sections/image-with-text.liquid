@@ -1,3 +1,9 @@
+<style>
+  #shopify-section-{{ section.id }} {
+      background-color: {{section.settings.background_section_color}};
+  }
+</style>
+
 {%- if section.settings.background_type == 'boxed' -%}
   {%- assign is_boxed = true -%}
 {%- else -%}
@@ -277,7 +283,13 @@
       "id": "button_text_color",
       "label": "Button text",
       "default": "rgba(0,0,0,0)"
-    }
+    },
+    {
+      "type": "color",
+      "id": "background_section_color",
+      "label": "Background color",
+      "default": "#ffffff"
+      }
   ],
   "blocks": [
     {

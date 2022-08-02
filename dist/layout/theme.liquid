@@ -164,5 +164,8 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
     {%- if request.page_type != 'gift_card' and request.page_type != 'password' -%}
       {%- section 'footer' -%}
     {%- endif -%}
+
+    {%- comment -%}Page Body schwärzen bei bestimmten handles{%- endcomment -%}
+    {{ shop.metafields.global.background_color.value }}
   </body>
 </html>
