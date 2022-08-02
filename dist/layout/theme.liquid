@@ -165,7 +165,8 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
       {%- section 'footer' -%}
     {%- endif -%}
 
-    {%- comment -%}Page Body schwärzen bei bestimmten handles{%- endcomment -%}
-    {{ shop.metafields.global.background_color.value }}
+    {%- comment -%}Background Farbe des Bodys je nach handle ändern{%- endcomment -%}
+    {%- render 'custom-background' -%}   
+
   </body>
 </html>
