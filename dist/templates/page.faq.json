@@ -2,33 +2,399 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "165952378869f1a874": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Joshua_Grom_Story_Darien_Gap_Panama_192.jpg",
+        "subheading": "",
+        "title": "FRAGEN & ANTWORTEN",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     },
     "faq": {
       "type": "faq",
       "blocks": {
-        "category-1": {
+        "de75c7fd-ee22-4a73-9006-79d859245b46": {
           "type": "category",
           "settings": {
-            "title": "Shipping"
+            "title": "GENERELLES"
           }
         },
-        "question-1": {
+        "0872be20-5897-44eb-9e83-0ba74e15d766": {
           "type": "question",
           "settings": {
-            "title": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+            "title": "WAS MACHT IHR ÜBERHAUPT?",
+            "answer": "<p>Wir planen verrückte Abenteuer und Expeditionen in Gebiete fernab des Massentourismus. Diese Pläne stellen wir in unserem <a href=\"https:\/\/wandermut.de\/newsletter\/\" target=\"_blank\">Newsletter<\/a>, sowie Facebook und Instagram vor und nehmen Leute mit, die genauso verrückt sind wie wir.<\/p><p>Wir sind schon immer verdammt viel gereist, nur konnten wir vor der Gründung von Wandermut niemals solche Abenteuer oder Reisen finden, wie wir sie eigentlich angehen wollten. Deswegen haben wir angefangen sie auf eigene Faust zu planen. Alleine zu reisen macht schon Spaß, aber die Erlebnisse mit Gleichgesinnten zu teilen, ist umso schöner. Indem wir all unsere Reisen eigenständig auf die Beine stellen, ermöglichen wir nicht nur uns selbst, sondern auch anderen ihre Kindheitsträume zu verwirklichen.<\/p><p>Einfach zusammengefasst: Gemeinsam mit Gleichgesinnten wollen wir wilde Abenteuer fernab des Massentourismus erleben. Ganz besonders mit denjenigen, denen Pauschalreisen oder klassisches Backpacking in beliebten Ländern zu langweilig ist und die mal so richtig einen drauf setzen wollen.<\/p><p>Kurz: Wir gehen dorthin, wo niemand hingeht.<\/p>"
+          }
+        },
+        "dbdceeb6-ba9a-4cb0-bd4d-8770bbe11fbf": {
+          "type": "question",
+          "settings": {
+            "title": "WIE LÄUFT DAS GANZE BEI EUCH AB?",
+            "answer": "<p>Im Grunde ist es einfach: Du wartest, bis wir einen Plan für ein neues Abenteuer vorstellen, das dir gefällt. Mit etwas Mut bewirbst du dich auf einen der wenigen Plätze im Team. Im Falle einer Zusage gehen die Vorbereitungen auch schon los. Dann heißt es: Equipment zusammensuchen, Flüge buchen, körperlich vorbereiten und trainieren und dann kann es auch schon losgehen.<\/p>"
+          }
+        },
+        "97d4302d-e191-4a97-8557-88b9a4c477bb": {
+          "type": "question",
+          "settings": {
+            "title": "WARUM MUSS MAN SICH BEI EUCH BEWERBEN, WENN MAN MITKOMMEN MÖCHTE?",
+            "answer": "<p>Unsere Abenteuer sind in der Regel körperlich extrem belastend. Und das über lange Zeit. Dazu kommt die psychische Belastung durch extreme Situationen, mageres Essen und soziale Faktoren, wie das Wegfallen von Hygiene und Privatsphäre. Neben den körperlichen Voraussetzungen spielen auch die richtige Erwartungshaltung und Motivation eine entscheidende Rolle<\/p><p>Deswegen müssen wir natürlich schon im Vorfeld schauen, wer für dieses Abenteuer geeignet ist und wie wir das Team zusammenstellen. Die Gruppendynamik entscheidet oft über das Gelingen oder Scheitern einer solchen Herausforderung. Und schließlich will niemand bei einem solchen Abenteuer ein Arschloch im Team haben. Um uns mal selbst auf die Schulter zu klopfen: Unsere Team sind ausnahmslos der Hammer!<\/p>"
+          }
+        },
+        "14928ae9-60c9-4196-9b79-654c24242677": {
+          "type": "question",
+          "settings": {
+            "title": "SIND EURE TOUREN NICHT GEFÄHRLICH?",
+            "answer": "<p>Ja, sind sie. Zumindest die Meisten. Ein Abenteuer, bei dem alles im Vorhinein geplant und organisiert wird und bei dem nichts mehr schief gehen kann, ist kein richtiges Abenteuer. Wir gehen jedoch kalkulierte Risiken ein. Wir bereiten uns auf alle möglichen Szenarien vor und führen entsprechendes Equipment mit. Dazu gehören neben unserer Notfall-Apotheke natürlich auch unsere Satellitentechnik. So können wir im Notfall Hilfe rufen und Expeditionen überall auf der Welt von unserer Zentrale aus verfolgen, um im Notfall die richtigen Schritte einleiten zu können. Ein Restrisiko bleibt jedoch immer.<\/p>"
+          }
+        },
+        "27a615aa-6721-4fb5-9aeb-1b2eb1ac1ea4": {
+          "type": "question",
+          "settings": {
+            "title": "WIE SEID IHR AUF DIE IDEE GEKOMMEN, ABENTEUER UND EXPEDITIONEN ZU ORGANISIEREN?",
+            "answer": "<p>Die Kurze Antwort lautet: Weil wir Bock drauf hatten. Es war schon immer unser Kindheitstraum an exotische Orte zu gelangen, mit Ureinwohnern durch den Dschungel zu ziehen oder die gleißende Wüstenhitze zu spüren, bis wir endlich an einer erfrischenden Oase mitten im Nirgendwo ankommen… Die ganze Geschichte vom ersten Abenteuer bis zur Entstehung von Wandermut kannst du<a href=\"https:\/\/wandermut.de\/ueber-uns\/\" target=\"_blank\">hier<\/a>nachlesen.<\/p>"
+          }
+        },
+        "bcf97cd9-2d14-46c5-bbfb-f1e2adcad2ef": {
+          "type": "question",
+          "settings": {
+            "title": "WIE LANGE GEHT SO EINE TOUR UNGEFÄHR?",
+            "answer": "<p>Wir wissen, dass die meisten von uns einem regulären Job nachgehen, weswegen wir wir die meisten Touren so planen, dass sie 2-3 Wochen andauern. Manchmal brauchen wir auch mehr Zeit, um unser Ziel zu erreichen.<\/p>"
+          }
+        },
+        "2b14b8c5-8832-4448-bdcb-7eab37833012": {
+          "type": "question",
+          "settings": {
+            "title": "ÜBERNEHMT IHR ÖKOLOGISCH UND SOZIAL VERANTWORTUNG?",
+            "answer": "<p>Selbstverständlich. Nun, uns ist bewusst, was passiert, wenn man ins Flugzeug steigt und einmal um die Welt fliegt. Dennoch wollen wir die Orte, die wir aufsuchen, genauso hinterlassen, wie wir sie vorgefunden haben. Wir lassen keinen Müll zurück und stören das Leben der Tiere so wenig wie möglich. Dies ist nicht immer leicht, da Einheimische, wie unsere Guides, oftmals nur wenig Bewusstsein für ihre schöne Umwelt haben. Aber wir arbeiten daran. Unsere Partner bezahlen wir übrigens sehr fair, weit über dem dort üblichen Lohnniveau. So können sie ihre Familie unterstützen, Brunnen zur Wasserversorgung ausbauen oder sich ein nachhaltiges, kleines Gewerbe als Guide für ihre Region aufbauen. Oftmals sind wir ihre einzige Einkommensquelle, da sie ansonsten von dem leben, was sie selbst anbauen können. Das wissen wir und möchten uns so im Dank für ihren unermüdlichen Einsatz sowie ihre Expertise, ihre Warmherzigkeit und die Verantwortung, die sie tragen, auf diese Weise erkenntlich zeigen.<\/p>"
+          }
+        },
+        "d16bb352-e3fb-4340-922a-3501f8329f73": {
+          "type": "question",
+          "settings": {
+            "title": "REIST IHR BEIDEN (TOM UND MARTIN) SELBST IMMER MIT?",
+            "answer": "<p>Nicht mehr immer, aber immer mal wieder. Wir, Tom und Martin, waren in den letzten Jahren mehr im Ausland als zu Hause in Deutschland. Nach dem Startschuss von Wandermut haben wir selbst 10 solcher Touren durchgeführt. Dabei sind wir an Orte gekommen, von denen wir seit unserer Kindheit geträumt haben und die vermutlich nur die wenigsten von uns jemals zu Gesicht bekommen werden. Wir haben unzählige schöne, aber auch herausfordernde Erfahrungen sammeln bzw. meistern können. Jetzt brauchen wir eine kleine Pause, um das Erlebte zu verarbeiten. Außerdem muss man wissen, dass das eigentliche Abenteuer am Ende die Spitze monatelanger Planungsarbeit ist. Deswegen verbringen wir verdammt viel Zeit vor dem Laptop, um uns auf alle Eventualitäten vorzubereiten und die Reisen sorgfältig zu organisieren. Wir selbst nutzen unsere kleine Pause zum Planen von neuen Abenteuern. Den Spaß vor Ort überlassen wir derweilen unseren Teamleitern. Sie übernehmen vor Ort die Koordination zwischen dir als Teilnehmer und den Guides bzw. dem Expeditionsleiter.<\/p><p>Klingt nach einem Traum für dich? Schau <a href=\"https:\/\/wandermut.de\/jobs-teamleiter\/\">hier<\/a> wie du selbst Teamleiter werden kannst.<\/p>"
+          }
+        },
+        "df0691c2-0cd2-4791-9f1e-92ef5e92a26b": {
+          "type": "question",
+          "settings": {
+            "title": "IST IMMER EIN ARZT MIT DABEI?",
+            "answer": "<p>Diese Frage wird uns komischerweise immer nur von solchen Leuten gestellt, die selbst niemals mitkommen würden. Tatsächlich hat uns das noch nie ein Teilnehmer gefragt. Aber nein, wir planen keine Ärzte fest ins Team ein. Dennoch haben wir oft das Glück, Menschen aus medizinischen Berufen mit im Team zu haben. Aus unerfindlichen Gründen ist oft ein Rettungssanitäter oder eine Ärztin dabei. Aber als Teilnehmer, und nicht beruflich. Solltest du ebenfalls über medizinisches Know-How verfügen, nehmen wir dich natürlich gerne bevorzugt mit. Ansonsten haben wir eine wirklich umfangreiche Notfall-Apotheke, sowie Erste-Hilfe Material dabei, das wir in Zusammenarbeit mit Ärzten, Apothekern, sowie Soldaten im Sanitätsdienst für unsere Touren zusammengestellt haben. Das reicht für unsere Zwecke aus. Bei allen schlimmeren Fällen würden wir evakuieren oder die Tour abbrechen.<\/p>"
+          }
+        },
+        "49dc86ef-2c8f-4c67-b11b-c5e6694a3d11": {
+          "type": "question",
+          "settings": {
+            "title": "KANN ICH EUCH IRGENDWIE KENNENLERNEN?",
+            "answer": "<p>Wir veranstalten immer mal wieder kurze Wanderungen in Deutschland, um uns fit zu halten und die Community miteinander zu vernetzen. Meist im Taunus bei Frankfurt oder bei uns in der Nähe von Köln. Manchmal auch mit anschließender (optionaler) Übernachtung auf einem Zeltplatz mit Grill und Glühweinkessel. Schau einfach mal auf unserer<a href=\"https:\/\/www.facebook.com\/WandermutExpeditions\">Facebook-Seite<\/a>vorbei, denn dort informieren wir, wenn es wieder losgeht. Wir würden uns freuen, dich beim nächsten Wochenend-Abenteuer kennenzulernen.<\/p>"
+          }
+        },
+        "97d7b5c2-aa59-4058-bc9e-a3b1be378b26": {
+          "type": "category",
+          "settings": {
+            "title": "FÜR INTERESSENTEN"
+          }
+        },
+        "b8467777-691d-4352-8c40-c89a6098438f": {
+          "type": "question",
+          "settings": {
+            "title": "WO KANN ICH MICH ANMELDEN \/ EINE REISE BUCHEN?",
+            "answer": "<p>Buchen kannst du gar nichts. Wir sind kein Reisebüro. Du musst warten, bis wir ein neues Abenteuer vorstellen und erst dann kannst du dich auf einen der Plätze bewerben. Die Vorstellung erfolgt auf der Website, im <a href=\"https:\/\/wandermut.de\/newsletter\/\" target=\"_blank\">Newsletter<\/a> und auf Social Media. Du hast sogar die Möglichkeit mitzubestimmen, welcher Abenteuer-Ideen wir weiterentwickeln sollen. Schau dir unsere <a href=\"https:\/\/wandermut.de\/abenteuer\/\" target=\"_blank\">Ideen<\/a> an!<\/p>"
+          }
+        },
+        "9411cddd-5f39-4c9d-9df1-6d72e770254a": {
+          "type": "question",
+          "settings": {
+            "title": "WAS SIND DIE KÖRPERLICHEN VORAUSSETZUNGEN, UM AN EINER EXPEDITION TEILZUNEHMEN?",
+            "answer": "<p>Wir sind ganz normale Menschen und keine Leistungssportler. Um bei unseren Abenteuern mitzukommen, musst auch du kein Reinhold Messner sein. Neben den körperlichen Voraussetzungen spielen auch die richtige Erwartungshaltung und Motivation eine entscheidende Rolle. Die körperlichen Anforderungen variieren natürlich von Tour zu Tour. Dennoch zeigt unsere Erfahrung, dass es immer anders kommt, als gedacht. So müssen wir immer davon ausgehen, dass wir entgegen unserer Planung vielleicht doch mit deutlich schwierigerem Gelände zu tun haben. Daher solltest du regelmäßig Sport treiben und über Ausdauer sowie Trittsicherheit in unebenem Gelände verfügen. Bei manchen Expeditionen müssen wir schwere Rucksäcke mit bis zu 33 kg (für Männer) und 26 kg (für Frauen) wochenlang bergauf und bergab schleppen. Hier ist Vorbereitung alles: packe deinen Rucksack mit Gewichten voll (wir nehmen dafür gerne Wasserflaschen), ziehe deine Wanderschuhe an und wandere einfach mal drauf los. Am besten über 25 km und über unwegsames Gelände. Das hat sich als bestes Training bewährt. Natürlich unterstützen wir dich bei der Vorbereitung bis zum Start der Tour. Du kannst aber auch gerne an einer unserer Wanderungen in Deutschland mitkommen, um zu sehen, ob das was für dich ist.<\/p>"
+          }
+        },
+        "42c35f32-625c-400b-acbc-48a9915af361": {
+          "type": "question",
+          "settings": {
+            "title": "WAS MUSS ICH TUN, UM BEI EUCH MITKOMMEN ZU DÜRFEN?",
+            "answer": "<p>Im Grunde ist es recht einfach. Zunächst einmal musst du wissen, dass die Plätze in all unseren Teams stark begrenzt (und auch sehr beliebt) sind. Deswegen ist es wichtig, dass du früh genug erfährst, wann es bei uns wieder losgeht. Zuallererst veröffentlichen wir neue Ideen in unserem <a href=\"https:\/\/wandermut.de\/newsletter\/\" target=\"_blank\">Newsletter<\/a>. Melde dich also unbedingt für unsere News an, sonst kann es schon schwierig mit einem Platz werden. Wir verschicken auch keinen Spam oder irgendeinen anderen Mist – nur unsere Abenteuer-Ankündigungen. Erst danach veröffentlichen wir unsere Pläne auf den Social Media Kanälen.<\/p><p>Sobald dich eine angekündigte Tour interessiert, füllst du einfach das Bewerbungsformular aus, was du am Ende unserer Tourenbeschreibung findest und wartest ein paar Tage. Du bist unsicher, ob du dich eignest? Im Vorfeld kannst du das selbst überprüfen, indem du <a href=\"https:\/\/wandermut.typeform.com\/to\/YDcENwT7\" target=\"_blank\">unserem Selbsttest<\/a> ausfüllst. <\/p><p>Wir schauen uns alle Bewerbungen an und melden uns dann bei dir. Zögere nur nicht zu lange mit deiner Bewerbung. In der Regel sind die Plätze ziemlich schnell belegt und die Teams vollzählig. Rückblickend sind viele unserer Teilnehmer oft überrascht, wenn wir uns für sie entscheiden, aber geirrt haben wir uns fast noch nie in jemandem.<\/p>"
+          }
+        },
+        "1d68501e-eaf7-4696-86f8-2a3ed8e5f725": {
+          "type": "question",
+          "settings": {
+            "title": "WAS PASSIERT, NACHDEM ICH MEINE BEWERBUNG ABGESCHICKT HABE?",
+            "answer": "<p>Zunächst schauen wir uns deine Bewerbung genau an und melden uns mit einer Zu- oder Absage bei dir. Vorzugsweise machen wir dies ganz unkompliziert und direkt über Whatsapp, sofern du Whatsapp nutzt. Ansonsten per E-Mail. An dieser Stelle können wir natürlich noch sämtliche offenen Fragen deinerseits beantworten. Gleichzeitig bekommst du unsere Finalen Infos zugeschickt, die alle wichtigen Detailinfos enthalten sowie den “genauen” Ablaufplan, den Treffpunkt im Zielland, die Einreisebestimmungen, die empfohlenen Impfungen, der Packliste und anderen nützlichen Tipps und Tricks.<\/p><p>Wenn du eine Zusage von uns bekommst, wird es Zeit dich verbindlich anzumelden. Deinen Platz im Team sicherst du dir endgültig, indem du deinen Teilnahmebeitrag überweist. Bis dahin gilt bei uns das Motto: Wer zuerst kommt, mahlt zuerst. Sobald das Team vollzählig ist, eröffnen wir eine geheime Facebook-Gruppe, die nicht nach außen auftritt.. In dieser Gruppe werden gemeinsam alle weiteren Detailfragen geklärt. Wir schauen, dass jeder die richtige Ausrüstung hat und auch, dass sich jeder körperlich optimal vorbereitet. Außerdem lernt man so schon die anderen Teammitglieder kennen und kann im Austausch gemeinsam die Flüge buchen und fachsimpeln. Die Diskussion in der Gruppe wird von unserem verantwortlichen Teamleiter moderiert. Ab diesem Zeitpunkt steht er oder sie für sämtliche Rückfragen zur Verfügung. Ansonsten heißt es nur noch abwarten bis es endlich losgeht.<\/p>"
+          }
+        },
+        "84bfaad3-bdf4-48d0-a80e-d8725ccdbd91": {
+          "type": "question",
+          "settings": {
+            "title": "NEHMT IHR AUCH FRAUEN MIT?",
+            "answer": "<p>Na klar! Wir bemerken hier oft eine Zurückhaltung bei den Damen, dabei sind sie es in der Regel, die die Zähne zusammen beißen und nicht anfangen zu jammern, wenn es hart auf hart kommt. <\/p>"
+          }
+        },
+        "9834ac7f-77b0-437f-97f9-16162dbd0bcf": {
+          "type": "question",
+          "settings": {
+            "title": "WIE ENTSCHEIDET IHR, WER BEI EUCH MITKOMMEN KANN?",
+            "answer": "<p>Um es vorab zu sagen: du brauchst keine Expeditionserfahrung. Das hat eh so gut wie niemand. Wir achten darauf, interessante Persönlichkeiten mitzunehmen, die mit realistischer Erwartungshaltung und der richtigen Motivation an die Sache rangehen. So können wir sicherstellen, dass sich jeder am Riemen reißt, sobald es hart auf hart kommt. Natürlich ist eine körperliche Grundfitness ebenfalls wichtig. Dennoch bringt sie nichts, wenn einen im Extremfall die Motivation verlässt. Solltest du zusätzliche Fähigkeiten einbringen können, von denen die Gruppe profitiert, hast du sogar bessere Chancen einen Platz im Team von uns angeboten zu bekommen. Am Ende entscheidet auch unser Bauchgefühl, ob du zu uns passt. Das hat in der Vergangenheit garantiert, immer richtig geile Teams auf die Beine zu stellen, mit denen es Spaß macht und auf die man sich verlassen kann. Wir haben auf Touren keinen Platz für zickige Tussis und proletenhafte Machos.<\/p><p>Wenn du unsicher bist, ob du dich für eine unserer Touren eignest, dann mache einfach mal diesen <a href=\"https:\/\/wandermut.typeform.com\/to\/YDcENwT7\" target=\"_blank\">Test<\/a> und schaue selbst. <\/p>"
+          }
+        },
+        "5232fcec-339f-41a5-a5dc-1481eea11e14": {
+          "type": "question",
+          "settings": {
+            "title": "GIBT ES MINDEST- ODER MAXIMALALTER UM MITKOMMEN ZU DÜRFEN?",
+            "answer": "<p>Du musst schon über 18 Jahre alt sein. Ansonsten ist das Alter nach oben hin offen. Allerdings schauen wir bei steigendem Alter genauer auf die körperliche Fitness. Die meisten unserer Teilnehmer sind zwischen Mitte 20 bis Ende 30.<\/p>"
+          }
+        },
+        "b00226ae-75e8-4ccc-9dce-1fb963c90a5d": {
+          "type": "question",
+          "settings": {
+            "title": "WAS KOSTET DIE TEILNAHME? WIE KOMMEN DIE KOSTEN FÜR DIE EXPEDITION ZUSAMMEN?",
+            "answer": "<p>Die Kosten für die Teilnahme hängen sehr von der Tour ab und schwanken auch von Jahr zu Jahr. Du findest sie bei den Fragen und Antworten in der jeweiligen Tourenbeschreibung. Während man für eine Südpol-Expedition oder einer Besteigung des Mount Everest schnell bei über 50.000 € landet, versuchen wir die meisten Abenteuer zwischen 1.500 € und 4.000 € zu organisieren. Dazu kommen noch Flüge in das jeweilige Land und eventuell ein paar Anschaffungen für neues Equipment. Manche vergleichen die Kosten mit denen von Pauschalreisen und wundern sich, wie diese zustande kommen. Sie ergeben sich nicht aus den hohen Ausgaben für erstklassige Unterkünfte und Verpflegung (wir schlafen in Zelten und essen hauptsächlich Reis und Bohnen), sondern durch die extrem lange Planung im Voraus, dem Fehlen von touristischer Infrastruktur und der geringen Anzahl von Teilnehmern, die wir mitnehmen können.<\/p><p>Wir haben jedoch auch gemerkt, dass viele, mit denen wir zusammen reisen wollten, den Teilnahmebeitrag nicht stemmen konnten. Deswegen werden wir in Zukunft versuchen auch günstigere Touren auf die Beine zu stellen.<\/p>"
+          }
+        },
+        "a1e79b53-4edf-436c-a7ed-e071293ea2fa": {
+          "type": "question",
+          "settings": {
+            "title": "WELCHES EQUIPMENT BRAUCHE ICH?",
+            "answer": "<p>In der Regel deutlich weniger als man denkt. Im Falle einer Zusage auf deine Bewerbung, bekommst du unsere Finalen Infos zu der jeweiligen Tour zugeschickt. Dort findest du auch die Packliste mit Empfehlungen für das Abenteuer. Wir versuchen sowohl günstige, als auch professionelle Alternativen vorzustellen und persönliche Empfehlungen und Erfahrungen auszusprechen, wo wir können. Im Grunde braucht es aber meist nicht viel. Teures Equipment (wie beispielsweise Zelte oder Polar-Schlafsäcke) organisieren wir im Vorfeld und stellen sie kostenlos zur Verfügung, damit du dir diese teure Ausrüstung nicht kaufen musst, um sie nur einmal zu benutzen.<\/p>"
+          }
+        },
+        "b54b9220-801b-4af8-bfd8-b8a8c0553362": {
+          "type": "category",
+          "settings": {
+            "title": "ZUKÜNFTIGE ABENTEUER"
+          }
+        },
+        "098eec79-08e0-45dc-b31d-a42d2169abf4": {
+          "type": "question",
+          "settings": {
+            "title": "WO GEHT ES ALS NÄCHSTES HIN?",
+            "answer": "<p>Das können wir (noch) nicht verraten. Alle unsere Planungen können in letzter Sekunde durch unvorhergesehene Ereignisse gekippt werden. Daher veröffentlichen wir unsere Abenteuer erst dann, wenn sie fertig sind. Du kannst dir aber hier einen Überblick über unsere<a href=\"https:\/\/wandermut.de\/abenteuer\/\" target=\"_blank\">Ideen<\/a>verschaffen und dich vorab als Interessent melden. Darüber hinaus solltest du dich dringend in unserem<a href=\"https:\/\/wandermut.de\/newsletter\/\" target=\"_blank\">Newsletter<\/a>anmelden. Hier erfährst du im engsten Kreis zuallererst, wann und wo es wieder losgeht.<\/p>"
+          }
+        },
+        "11ca7777-6227-4d77-80f2-e6dc5e7a330e": {
+          "type": "question",
+          "settings": {
+            "title": "ICH WAR SCHON EINMAL DABEI, KOMME ICH BEIM NÄCHSTEN MAL GÜNSTIGER MIT?",
+            "answer": "<p>Ja. Wir freuen uns auf bekannte Gesichter und schätzen es dich als erfahrenen Abenteurer erneut im Team zu wissen. Deshalb bekommst du von uns einen Freundschaftsbonus. Die Höhe variiert je nach Tour. Schreibe uns einfach eine Nachricht, wenn du wieder dabei sein möchtest. Das Bewerbungsverfahren kannst du dir dann natürlich sparen. Wir kennen dich ja bereits.<\/p>"
+          }
+        },
+        "1b727be7-7152-44fd-bccd-0b18ad463a42": {
+          "type": "question",
+          "settings": {
+            "title": "ICH KANN DIESES MAL NICHT DABEI SEIN. FINDET DIE GLEICHE TOUR NÄCHSTES JAHR WIEDER STATT?",
+            "answer": "<p>Das können wir leider auch nicht mit Gewissheit sagen. Manche Abenteuer sind einmalig. Andere können wir dagegen wiederholen. Ob wir dies tun, hängt aber wiederum von sehr vielen Faktoren ab. Versprechen können wir es daher nicht.<\/p>"
+          }
+        },
+        "76e658fd-799c-4f6f-a951-cbb3539a3f15": {
+          "type": "question",
+          "settings": {
+            "title": "WANN FINDET DIE NÄCHSTE REISE BEI EUCH STATT?",
+            "answer": "<p>Schau mal <a href=\"\/pages\/abenteuer\" target=\"_blank\" title=\"Abenteuer\">hier<\/a>.<\/p>"
+          }
+        },
+        "b0b19415-24cd-4014-abc9-1672d7b3937c": {
+          "type": "question",
+          "settings": {
+            "title": "WIE ERFAHRE ICH, WANN ES WIEDER LOSGEHT?",
+            "answer": "<p>Am besten trägst du dich in unserem<a href=\"https:\/\/wandermut.de\/newsletter\/\" target=\"_blank\">Newsletter<\/a>ein, oder folgst uns auf<a href=\"https:\/\/www.facebook.com\/WandermutExpeditions\" target=\"_blank\">Facebook<\/a>und<a href=\"https:\/\/www.instagram.com\/wandermut\/\" target=\"_blank\">Instagram<\/a>. Dort erfährst du, sobald es wieder losgeht und wir wieder Mitstreiter mitnehmen können.<\/p>"
+          }
+        },
+        "b3f58dfc-e211-44c8-a633-6362768a7e79": {
+          "type": "question",
+          "settings": {
+            "title": "PLANT IHR DEMNÄCHST AUCH ETWAS IN (REISEZIEL XY)?",
+            "answer": "<p>Keine Ahnung. Vielleicht. Wir schauen ständig, wo man noch richtige Abenteuer erleben kann, und nicht, welche Möglichkeiten in einem der gerade angesagten Reisezielen angeboten werden. Wir gehen dorthin, wo niemand hingeht, und nicht dorthin, wo gerade jeder hin will.<\/p>"
+          }
+        },
+        "2e8d5313-5b35-4d51-9eac-d05840e85110": {
+          "type": "category",
+          "settings": {
+            "title": "AUF EXPEDITION"
+          }
+        },
+        "b762a74c-2997-443b-acd8-e45673efacea": {
+          "type": "question",
+          "settings": {
+            "title": "WAS ESST IHR IN DER WILDNIS?",
+            "answer": "<p>Nur das, was wir finden können. Nein, Spaß beiseite. Die Natur gibt nicht so viel an Nahrung her, wie man glauben möchte. Außerdem sind wir nicht bereit unsere Leben zu riskieren, indem wir uns allein auf unsere Survival-Skills verlassen. Daher nehmen wir ausreichend Proviant mit. Dies macht am Ende auch einen großen Teils unseres Gepäcks aus. Reis, Bohnen, Nudeln sowie andere getrocknete Lebensmittel wiegen eine Menge, wenn man damit zwei, drei Wochen auskommen muss. Der Essensplan variiert von Abenteuer zu Abenteuer. In Russland können wir während des Winters so ziemlich alles mitnehmen, da wir von mindestens einem Schneemobil begleitet werden und sich die Lebensmittel im tiefgefrorenen Zustand sehr gut halten. In Panama kaufen wir unser Essen stattdessen in einem Indianerdorf ein und schauen, was die Einheimischen gerade übrig haben. In der Wüste lehren uns die Nomaden, auf traditionelle Weise frisches Brot im Sand zu backen, während unsere Guides im Amazonas gerne mal ihre Flinte nutzen, um Nachts nach Riesenmeerschweinchen zu suchen. Im Grunde essen wir also immer das, was vor Ort bei unseren Guides typisch ist und was sich für den Transport unter den jeweiligen Bedingungen eignet. So bekommen wir auch auf kulinarische Weise einen guten Einblick in die jeweilige Kultur.<\/p>"
+          }
+        },
+        "212fbbdb-9c4c-4707-a941-49ca3f41f0d6": {
+          "type": "question",
+          "settings": {
+            "title": "ICH BIN VEGANER. HABT IHR AUCH VEGANES ESSEN AUF EUREN EXPEDITIONEN?",
+            "answer": "<p>Dies ist ein schwieriges Thema. Erstens, weil wir auf energiereiche und haltbare Nahrung setzen, um die Strapazen über Wochen auszuhalten. Frisches Gemüse und Obst gibt es deswegen in der Regel nie.<\/p><p>Zweitens, weil wir die Gastfreundschaft der Einheimischen nicht verletzen wollen. In der Regel sind wir immer auf sie angewiesen. In den meisten ärmeren Kulturen ist Fleisch etwas sehr wertvolles. Wenn wir es angeboten bekommen, wäre es unhöflich es abzulehnen. Außerdem würden unsere Guides merken, wenn jemand kein Fleisch isst und würden aus Gutherzigkeit und auf Biegen und Brechen damit anfangen, bis tief in die Nacht ein zweites, vegetarisches Essen zuzubereiten. So sind sie nun mal. Es wäre uns extremst unangenehm, die Gastfreundschaft auf diese Art und Weise auszureizen.<\/p><p>Aus diesen Gründen sind wir nicht bereit auf Sonderwünsche jeglicher Form einzugehen. Daher würden wir dich bitten, dass du dir vorher Gedanken machst, ob dir deine Ernährungswünsche wichtiger sind als die Gastfreundschaft, die uns nährt. Bei einigen Touren ist es möglich, das Fleisch wegzulassen bzw. an andere abzugeben, sodass vegetarische Ernährung teilweise möglich ist. Dies ist jedoch von Tour zu Tour anders. Frage im Zweifel vorher einmal nach. Dafür kannst du unser <a href=\"\/pages\/contact\" title=\"Kontakt\">Kontaktformular <\/a>nutzen.<\/p>"
+          }
+        },
+        "86db3a9a-3ff3-4697-8dcd-54b55ed74479": {
+          "type": "question",
+          "settings": {
+            "title": "KÖNNT IHR EUCH UNTERWEGS WASCHEN?",
+            "answer": "<p>Nur selten. Das ist aber auch gar nicht so schlimm, wie man denken mag. Wenn alle stinken, fällt es auch keinem mehr auf. Ist echt so. Das größte Leid muss nur der Busfahrer ertragen, der uns am Ende der Tour aufsammelt und wieder zurück in die nächste Ortschaft fährt. Falls wir auf unserer Tour aber mal an einem Bach oder einer Oase vorbeikommen, wo es genügend Wasser gibt, legen wir natürlich gern einen Stopp ein. Das kann allerdings auch von Tour zu Tour stark variieren.<\/p>"
+          }
+        },
+        "03890430-a6e9-4696-a3a3-3ef95716712e": {
+          "type": "question",
+          "settings": {
+            "title": "WAS PASSIERT IM NOTFALL?",
+            "answer": "<p>Sollte sich jemand trotz aller Vorsichtsmaßnahmen lebensgefährlich verletzten oder erkranken, werden wir alles daran setzen diese Person zu evakuieren. Das ist noch nie vorgekommen, aber für einen solchen Fall haben wir in der Regel ein Satellitentelefon dabei, das uns per Notfall-Knopf sofort mit der internationalen GEOS-Organisation verbindet, die rund um die Uhr Evakuierungen auf der ganzen Welt in die Wege leitet. Zusätzlich haben die meisten Teams eine Art Satelliten-Peilsender dabei. Ebenfalls mit SOS-Funktion. Über dieses Gerät können wir Expeditionsteams von der Zentrale aus beobachten und sehen, wenn etwas nicht nach Plan läuft. In kritischen Regionen stehen wir, bzw. unsere Expeditionsleiter zusätzlich mit Behörden in Verbindung, um in Echtzeit über potentielle Gefahren informiert zu werden und um im Notfall schnelle Hilfe anfordern zu können. Auch das mussten wir bisher noch nie in Anspruch nehmen.<\/p>"
+          }
+        },
+        "13910a15-f997-41c4-be65-2508e186f6b5": {
+          "type": "question",
+          "settings": {
+            "title": "HATTET IHR SCHON EINMAL EIN UNFALL AUF EXPEDITION?",
+            "answer": "<p>Ja, sogar mehrere. Bei uns geht regelmäßig etwas schief oder läuft nicht nach Plan. Schon bei unserem allerersten Abenteuer, einer Huskytour in Russland, ist einer der Teilnehmer beinahe durchs Eis der Wolga eingebrochen. Er hat schnell reagiert, gebremst und die Hunde aus dem Wasser gezogen. Ein anderes Mal, ebenfalls in Russland, diesmal allerdings im Sommer auf der Halbinsel Kamtschatka, wurden wir von einer gewaltigen Mückenplage heimgesucht. Wir wurden über Wochen von abertausenden Mücken begleitet. Es war ein Alptraum. Einen unserer Mitstreiter hat es aber besonders hart erwischt: Kaum aus dem Expeditionsfahrzeug ausgestiegen, das uns zum Startpunkt gebracht hatte, wurde er von so vielen Mücken gestochen, dass er einen anaphylaktischen Schock bekam und schnell wieder zurück in die Stadt zum nächsten Arzt gebracht werden musste. Seitdem führen wir standardmäßig eine Adrenalinspritze für allergische Schocks mit uns mit. Dann gibt es da noch die Geschichte von unserem Gründer Tom, der mit Sandalen in eine scharfe Machete getreten ist und noch vor Ort im Dschungel am Fuß genäht werden musste… Die Liste unsere Unfälle ist lang, Sie reicht von gebrochenen Rippen über attackierende Hornissenschwärme bis zu unserem Wüstenguide Mustapha, der von der Polizei verhaftet wurde, als wir unsere Vorräte mit ihm gekauft haben, weil er keine Touristenführer-Lizenz besitzt. Wir sind mittlerweile mit allen Wassern gewaschen und auf vieles vorbereitet. Ausschließen können wir zukünftige Unfälle aber nicht. Aber dann wäre es wahrscheinlich auch kein richtiges Abenteuer mehr.<\/p>"
+          }
+        },
+        "5c7e60ea-6488-47ee-b3f8-e89d79f76881": {
+          "type": "question",
+          "settings": {
+            "title": "WAS WAR BISHER EUER GRÖSSTES HIGHLIGHT \/ EUER GEILSTES ABENTEUER?",
+            "answer": "<p>Uff, das ist unmöglich zu beantworten und Geschmackssache. Jeder von uns hat andere Dinge erlebt. Zwei Abenteuer ins gleiche Gebiet können auch vollkommen unterschiedlich verlaufen. Eines unserer Lieblings-Highlights war jedoch, als wir mit dem Hochland-Team der Amazonas Expedition 2018 auf eine bisher unbekannte Ruinen-Siedlung der ausgestorbenen Chachapoya Kultur gestoßen sind. Das war ein echtes Highlight. Du kannst dir dazu gerne hier ein paar Presse-Artikel durchlesen oder Interviews anschauen. Ansonsten ist jede Tour durchzogen von vielen, kleinen Highlights. Für manche ist es, diesen Teamgeist unter Gleichgesinnten zu spüren, andere wachsen angesichts der immensen Herausforderung über sich selbst hinaus, wiederum andere erfüllen sich ihren Kindheitstraum oder erleben eine Art Dankbarkeit für alles, was für uns im Alltag selbstverständlich scheint. Am besten kommst du selbst einmal mit und machst dir ein Bild davon.<\/p>"
+          }
+        },
+        "eae7d97b-8b40-4cce-a8ec-bf8c50a12ebc": {
+          "type": "category",
+          "settings": {
+            "title": "ZUSAMMENARBEIT"
+          }
+        },
+        "a05dc30d-6ec6-48c5-b1f0-6a1daf07eaa1": {
+          "type": "question",
+          "settings": {
+            "title": "ICH BIN (HOBBY)- FOTOGRAF \/ FILMEMACHER \/ BLOGGER - NEHMT IHR MICH KOSTENLOS MIT?",
+            "answer": "<p>Nein, sorry, du kannst dir vorstellen, dass uns diese Frage beinahe täglich gestellt wird. Sicher, man kann sein Glück ja mal versuchen und fragen kostet bekanntlich nichts, aber die Antwort wird immer die gleiche sein. Natürlich freuen wir uns über schöne Fotos und schätzen kreative Arbeit wert, trotzdem kann deswegen niemand vergünstigt mitgenommen werden. Dafür fehlen uns selbst die finanziellen Mittel.<\/p>"
+          }
+        },
+        "b81f6e85-ca2e-47b2-a990-595c28cc9dde": {
+          "type": "question",
+          "settings": {
+            "title": "ICH HABE IDEEN \/ PLÄNE ODER KONTAKTE FÜR NEUE ABENTEUER. WIE KÖNNEN WIR ZUSAMMENARBEITEN?",
+            "answer": "<p>Vielleicht können wir tatsächlich etwas zusammen auf die Beine stellen. Wir haben mittlerweile viel Erfahrung mit der Planung und der Logistik, wie auch der Vermarktung neuer Abenteuer und können auf Ressourcen wie Equipment und Versicherungen zurückgreifen. Schreibe uns einfach mal eine möglichst genauen<a href=\"https:\/\/wandermut.de\/kontakt\/\" target=\"_blank\">Mail<\/a>mit deiner Idee und wir melden uns bei dir.<\/p>"
+          }
+        },
+        "812dc275-0587-4f24-b19a-979a6afb8c33": {
+          "type": "question",
+          "settings": {
+            "title": "WIE UNTERSTÜTZT IHR ANDERE ABENTEURER MIT ANDEREN VORHABEN?",
+            "answer": "<p>Wir unterstützen gerne! Wenn du eine wirklich coole und einzigartige Sache planst, können wir dir gerne mit Tipps und Tricks aushelfen oder dir unser Equipment wie beispielsweise GPS-Geräte oder Satellitentelefone leihen. Melde dich einfach bei uns.<\/p>"
+          }
+        },
+        "66f7718b-31f9-4a90-b7cf-c056d0f8afb9": {
+          "type": "question",
+          "settings": {
+            "title": "SUCHT IHR NOCH NACH ÄRZTEN, DIE EUCH BEGLEITEN?",
+            "answer": "<p>Nein. Wir planen keine extra Ärzte in unsere Expeditionsteams ein. Wir nehmen zwar gerne Mediziner mit, aber auch die müssen sich wie jeder andere bewerben.<\/p>"
+          }
+        },
+        "a3a95aa1-033d-415e-9ac7-71291e1ef825": {
+          "type": "question",
+          "settings": {
+            "title": "WIE KANN ICH TEAMLEITER BEI WANDERMUT WERDEN?",
+            "answer": "<p>Indem du uns beweist, dass du in extremen Situationen einen kühlen Kopf bewahren kannst, um die richtigen Entscheidungen zu treffen und Führungsstärke zu beweisen. Bisher haben wir hauptsächlich auf ehemalige Teilnehmer gesetzt, die uns während der Tour positiv aufgefallen sind. Mittlerweile bilden wir einmal im Jahr<a href=\"https:\/\/wandermut.de\/jobs-teamleiter\/\" target=\"_blank\"> unsere eigenen Teamleiter<\/a>in den Bereichen Navigation im Gelände, Gruppenführung, Erste Hilfe, Satellitentechnik und Wasseraufbereitung aus. Du möchtest auch Teamleiter bei Wandermut werden?<br\/>Im besten Fall kommst du einmal mit uns auf Tour! Andernfalls melde dich bei uns, wenn wir wieder mit der Ausbildung starten. TIPP: Besser ist es, wenn du einmal dabei gewesen bist, wir dich kennen und wissen, dass du aus dem richtigen Holz geschnitzt bist.<\/p>"
+          }
+        },
+        "446dcfb2-b41f-465a-832a-c8850dbae07e": {
+          "type": "question",
+          "settings": {
+            "title": "KANN ICH BEI EUCH ARBEITEN?",
+            "answer": "<p>Sobald wir eine freie Stelle haben, erfährst du es <a href=\"\/pages\/jobs\" target=\"_blank\" title=\"Jobs\">hier<\/a>.<\/p>"
+          }
+        },
+        "2de105d5-baab-4bea-b9b3-03980d90ee8d": {
+          "type": "question",
+          "settings": {
+            "title": "ICH MACHE” IRGENDWAS MIT MEDIEN” – LUST AUF EIN INTERVIEW?",
+            "answer": "<p>Na klar, schreib uns einfach an. Bei Bedarf haben wir auch noch unveröffentlichtes Foto- und Videomaterial für dich, sowie die ein oder andere interessante Story.<\/p>"
+          }
+        },
+        "24491936-713c-4abe-b77c-28509ef5dbe4": {
+          "type": "question",
+          "settings": {
+            "title": "SUCHT IHR NOCH EINEN SPONSOR?",
+            "answer": "<p>Kommt drauf an. Wir wollen uns nicht krumm machen und Produkte promoten, hinter denen wir nicht stehen. Darüber hinaus sind wir bereits gut ausgestattet und können mit neuen Outdoor-Produkten nicht viel anfangen. Wenn du aber für eine Firma arbeitest, die gut in die Bereiche Abenteuer, Outdoor und Reisen passt und an einer Zusammenarbeit interessiert bist, können wir gerne einmal quatschen. Wir freuen uns über deine <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Kontakt\">Nachricht<\/a>.<\/p>"
           }
         }
       },
+      "block_order": [
+        "de75c7fd-ee22-4a73-9006-79d859245b46",
+        "0872be20-5897-44eb-9e83-0ba74e15d766",
+        "dbdceeb6-ba9a-4cb0-bd4d-8770bbe11fbf",
+        "97d4302d-e191-4a97-8557-88b9a4c477bb",
+        "14928ae9-60c9-4196-9b79-654c24242677",
+        "27a615aa-6721-4fb5-9aeb-1b2eb1ac1ea4",
+        "bcf97cd9-2d14-46c5-bbfb-f1e2adcad2ef",
+        "2b14b8c5-8832-4448-bdcb-7eab37833012",
+        "d16bb352-e3fb-4340-922a-3501f8329f73",
+        "df0691c2-0cd2-4791-9f1e-92ef5e92a26b",
+        "49dc86ef-2c8f-4c67-b11b-c5e6694a3d11",
+        "97d7b5c2-aa59-4058-bc9e-a3b1be378b26",
+        "b8467777-691d-4352-8c40-c89a6098438f",
+        "9411cddd-5f39-4c9d-9df1-6d72e770254a",
+        "42c35f32-625c-400b-acbc-48a9915af361",
+        "1d68501e-eaf7-4696-86f8-2a3ed8e5f725",
+        "84bfaad3-bdf4-48d0-a80e-d8725ccdbd91",
+        "9834ac7f-77b0-437f-97f9-16162dbd0bcf",
+        "5232fcec-339f-41a5-a5dc-1481eea11e14",
+        "b00226ae-75e8-4ccc-9dce-1fb963c90a5d",
+        "a1e79b53-4edf-436c-a7ed-e071293ea2fa",
+        "b54b9220-801b-4af8-bfd8-b8a8c0553362",
+        "098eec79-08e0-45dc-b31d-a42d2169abf4",
+        "11ca7777-6227-4d77-80f2-e6dc5e7a330e",
+        "1b727be7-7152-44fd-bccd-0b18ad463a42",
+        "76e658fd-799c-4f6f-a951-cbb3539a3f15",
+        "b0b19415-24cd-4014-abc9-1672d7b3937c",
+        "b3f58dfc-e211-44c8-a633-6362768a7e79",
+        "2e8d5313-5b35-4d51-9eac-d05840e85110",
+        "b762a74c-2997-443b-acd8-e45673efacea",
+        "212fbbdb-9c4c-4707-a941-49ca3f41f0d6",
+        "86db3a9a-3ff3-4697-8dcd-54b55ed74479",
+        "03890430-a6e9-4696-a3a3-3ef95716712e",
+        "13910a15-f997-41c4-be65-2508e186f6b5",
+        "5c7e60ea-6488-47ee-b3f8-e89d79f76881",
+        "eae7d97b-8b40-4cce-a8ec-bf8c50a12ebc",
+        "a05dc30d-6ec6-48c5-b1f0-6a1daf07eaa1",
+        "b81f6e85-ca2e-47b2-a990-595c28cc9dde",
+        "812dc275-0587-4f24-b19a-979a6afb8c33",
+        "66f7718b-31f9-4a90-b7cf-c056d0f8afb9",
+        "a3a95aa1-033d-415e-9ac7-71291e1ef825",
+        "446dcfb2-b41f-465a-832a-c8850dbae07e",
+        "2de105d5-baab-4bea-b9b3-03980d90ee8d",
+        "24491936-713c-4abe-b77c-28509ef5dbe4"
+      ],
       "settings": {
         "show_navigation": true,
-        "title": ""
+        "title": "WARUM MUSS MAN SICH BEI EUCH BEWERBEN, WENN MAN MITKOMMEN MÖCHTE?",
+        "content": "<p>Unsere Abenteuer sind in der Regel körperlich extrem belastend. Und das über lange Zeit. Dazu kommt die psychische Belastung durch extreme Situationen, mageres Essen und soziale Faktoren, wie das Wegfallen von Hygiene und Privatsphäre. Neben den körperlichen Voraussetzungen spielen auch die richtige Erwartungshaltung und Motivation eine entscheidende Rolle<\/p><p>Deswegen müssen wir natürlich schon im Vorfeld schauen, wer für dieses Abenteuer geeignet ist und wie wir das Team zusammenstellen. Die Gruppendynamik entscheidet oft über das Gelingen oder Scheitern einer solchen Herausforderung. Und schließlich will niemand bei einem solchen Abenteuer ein Arschloch im Team haben. Um uns mal selbst auf die Schulter zu klopfen: Unsere Team sind ausnahmslos der Hammer!<\/p>",
+        "background": "#0d0d0d",
+        "text_color": "#ffffff"
       }
     }
   },
   "order": [
     "main",
+    "165952378869f1a874",
     "faq"
   ]
 }

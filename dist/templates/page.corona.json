@@ -1,0 +1,125 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16595233499585c954": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/DSCF4631-scaled.jpg",
+        "subheading": "",
+        "title": "REISEN MIT CORONA",
+        "content": "<p><strong>WIE WIR MIT DER SITUATION UMGEHEN.<\/strong><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "165952339958d93367": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659523399f49b4dfa-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1160_photo-full-scaled.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "ETWAS PERSÖNLICHES",
+            "content": "<p>Uns beiden Gründern von Wandermut, Tom und Martin, ist vollkommen bewusst, dass du dir in diesen Zeiten Sorgen darüber machst, ob die geplante Reise stattfinden kann.<\/p><p>Deswegen möchten wir, dass du genau weißt, wie wir mit der Situation umgehen. Da wir selbst nicht auf verschachtelte und komplizierte Formulierungen stehen, machen wir es dir und uns selbst einfach.<\/p><p>Prinzipiell gelten die Allgemeinen Bedingungen, aber sollte die Tour durch Corona ins Wanken geraten, kannst du dich auf Folgendes verlassen:<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659523399f49b4dfa-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#000000",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "background_section_color": "#ffffff"
+      }
+    },
+    "16595234992844640e": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "UNSERE CORONA GARANTIE",
+        "content": "<p>Sollte es durch Corona nicht möglich sein deine Tour durchzuführen, werden du und dein Team demokratisch darüber abstimmen, ob das Abenteuer verschoben oder abgebrochen werden soll. Die Mehrheit entscheidet was gemacht wird. Im Falle des Abbruchs werden wir die angezahlten Teilnahmebeiträge selbstverständlich zurückgeben. Im Falle des Verschiebens, suchen wir einen Zeitraum raus, der dir und deinem Team passt – im Zweifel ist es der selbe Zeitraum im Folgejahr.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "165952354163c29382": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/P9216591.jpg"
+      }
+    },
+    "1659523641d894aeb0": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "WIR FREUEN UNS AUF DICH!",
+        "content": "<p>So haben wir es in den vergangenen Monaten immer gemacht und es hat wunderbar funktioniert. Schließlich sind wir ja keine Pauschaltouristen! Etwas Geduld und Improvisation sind kleine Tugenden, die ohnehin bei jedem Abenteuer unerlässlich sind. <\/p><p>Im Zweifel haben wir immer eine zufriedenstellende Lösung für jeden gefunden. <\/p><p>In diesem Sinne, wir freuen uns auf dich!<\/p><p>Liebe Grüße,<\/p><p>Tom und Martin  <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659523660936627b1": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0950.jpg"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16595233499585c954",
+    "165952339958d93367",
+    "16595234992844640e",
+    "165952354163c29382",
+    "1659523641d894aeb0",
+    "1659523660936627b1"
+  ]
+}

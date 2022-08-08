@@ -1,0 +1,389 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "165943558117b980e8": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg",
+        "subheading": "",
+        "title": "MEDIEN \/ REFERENZEN",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16594356665e447736": {
+      "type": "multi-column",
+      "blocks": {
+        "16594356665b25bf61-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.spiegel.de\/wissenschaft\/mensch\/peru-koelner-entdecken-dorf-der-raetselhaften-chachapoya-kultur-a-1254713.html",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16594356665b25bf61-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Medien-Referenzen-Terra-X-1.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/urlgeni.us\/instagram\/VWGs\/story",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16594356665b25bf61-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Medien-Referenzen-Arte-1.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/urlgeni.us\/instagram\/Pxid\/story",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16594356665b25bf61-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/reisenexclusiv.com\/huskytour-russland-wandermut\/",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "62187fa4-22ab-48c5-bc2d-07c725c9a2d2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.deutschlandfunknova.de\/beitrag\/abenteuerreisen-in-peru-das-dorf-eines-ausgestorbenen-indigenen-volkes-entdeckt",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "8d86eb95-b40f-4c5b-9a22-1f0fa56b40b2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.travelbook.de\/menschen\/globetrotter\/wie-zwei-deutsche-ein-verlassenes-ureinwohner-dorf-in-peru-entdeckten",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "d4be13fb-198f-41f5-ba44-dbbde51ddb87": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.geo.de\/reisen\/reisewissen\/21837-rtkl-trips-ins-extreme-wie-zwei-studenten-das-reisen-aufregender-machen",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "93fa8ddd-2b29-4607-b522-74fc34204c4a": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.geo.de\/reisen\/reisewissen\/21837-rtkl-trips-ins-extreme-wie-zwei-studenten-das-reisen-aufregender-machen",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "84539872-da2b-43e1-88f3-01ebc8db319e": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "0a48163c-69c5-416d-bc3a-51f529700ab1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Medien-Referenzen-12.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.ksta.de\/region\/oberberg-ks\/reise-plattform-gegruendet-linder-lassen-grenzen-hinter-sich-und-erkunden-die-welt-31907304",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "9408005a-20d5-472b-bdba-d5631c5781d9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1e643007-cb3e-4747-8a17-b388bcee8543": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-1.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.geo.de\/reisen\/reisewissen\/20236-rtkl-zufallsfund-peru-zwei-deutsche-entdecken-mitten-im-dschungel-ein",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16594356665b25bf61-0",
+        "16594356665b25bf61-1",
+        "16594356665b25bf61-2",
+        "16594356665b25bf61-3",
+        "62187fa4-22ab-48c5-bc2d-07c725c9a2d2",
+        "8d86eb95-b40f-4c5b-9a22-1f0fa56b40b2",
+        "d4be13fb-198f-41f5-ba44-dbbde51ddb87",
+        "93fa8ddd-2b29-4607-b522-74fc34204c4a",
+        "84539872-da2b-43e1-88f3-01ebc8db319e",
+        "0a48163c-69c5-416d-bc3a-51f529700ab1",
+        "9408005a-20d5-472b-bdba-d5631c5781d9",
+        "1e643007-cb3e-4747-8a17-b388bcee8543"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WANDERMUT IN DEN MEDIEN",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16594362535f4d8a6d": {
+      "type": "multi-column",
+      "blocks": {
+        "1659436252dce3f958-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Medien-TV-3.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.youtube.com\/embed\/C2gYQaRpocQ?wmode=transparent&autoplay=1",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659436252dce3f958-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Medien-TV-2.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.youtube.com\/embed\/OFjLO6o3pg4?wmode=transparent&autoplay=1",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659436252dce3f958-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Medien-TV-1.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.youtube.com\/embed\/CfgqCtyA-8I?wmode=transparent&autoplay=1",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659436252dce3f958-0",
+        "1659436252dce3f958-1",
+        "1659436252dce3f958-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WANDERMUT IM TV",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659436410486cecd2": {
+      "type": "multi-column",
+      "blocks": {
+        "165943640996320799-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/512.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/open.spotify.com\/episode\/1hdGkLg2514tdEwauknjeQ?si=R_tO7IyUThyO-jcfLUMjfg",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "165943640996320799-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/welt-wach_3000x3000_jpg.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/open.spotify.com\/episode\/2HVvYwqezjI2VD8vBJgUVK?si=1lMsHltVSLy_UXimH3D0qw",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "165943640996320799-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/51261408_2764887710195908_3680010558549000192_o-2.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.facebook.com\/radioberg\/photos\/a.240897762594928\/2764887703529242\/?type=3&theater",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "165943640996320799-0",
+        "165943640996320799-1",
+        "165943640996320799-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "PODCASTS UND RADIO",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165943558117b980e8",
+    "16594356665e447736",
+    "16594362535f4d8a6d",
+    "1659436410486cecd2"
+  ]
+}

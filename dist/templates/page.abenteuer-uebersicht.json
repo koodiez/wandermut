@@ -8,19 +8,29 @@
         "page_width": "medium"
       }
     },
-    "16590830151bf1f214": {
-      "type": "video",
-      "settings": {
-        "subheading": "WANDERMUT",
-        "title": "WIR GEHEN DORTHIN, WO NIEMAND HINGEHT.",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=w1rQfmPirQE",
-        "image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
-        "background_type": "full_width",
-        "video_size": "large",
-        "autoplay": true,
-        "background": "#ffffff",
-        "text_color": "#ffffff"
-      }
+    "1659453820b3a78dc7": {
+      "type": "custom-video-hero",
+      "blocks": {
+        "16594538205c3a182a-0": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5f608fea269e4a31afe9f9c3e1962eea.mp4",
+            "video_image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
+            "overlay_opacity": 45,
+            "title": "WANDERMUT",
+            "text": "<p>WIR GEHEN DORT HIN, WO NIEMAND HINGEHT.<\/p>",
+            "color_text": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "color_btn_bg": "#ffffff",
+            "color_btn_text": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16594538205c3a182a-0"
+      ],
+      "settings": {}
     },
     "165908320304f9a6d4": {
       "type": "rich-text",
@@ -62,22 +72,122 @@
         "overlay_opacity": 50
       }
     },
-    "1659083398300fa18e": {
+    "165973079566976502": {
       "type": "rich-text",
       "settings": {
         "subheading": "",
         "title": "AKTUELLE ABENTEUER",
-        "content": "<p>Schau dir unsere Pläne an und bewirb dich! Bist du eher der kalte oder der heiße Typ fürs Abenteuer?<\/p>",
+        "content": "",
         "button_text": "",
         "button_link": "",
         "background_type": "full_width",
-        "text_width": "large",
+        "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
         "background": "#030000",
         "text_color": "#ffffff",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16593405519d479995": {
+      "type": "adventure-grid",
+      "blocks": {
+        "a17a4486-dc08-4e7d-b929-6bf6e2ff8e43": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg",
+            "link": "shopify:\/\/pages\/uber-uns",
+            "linkbutton": "",
+            "linktext": "Mehr Infos",
+            "textimageheading": "SAHARA TOUR",
+            "textimage": "MAROKKO"
+          }
+        },
+        "e7374576-eeaa-44c6-a3a2-79469458b49b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/53.png",
+            "link": "shopify:\/\/pages\/molukken",
+            "linkbutton": "shopify:\/\/pages\/molukken",
+            "linktext": "Mehr Infos",
+            "textimageheading": "MOLUKKEN EXPEDITION",
+            "textimage": "INDONESIEN"
+          }
+        },
+        "041eb7c9-d4be-4b9a-bd06-b4808a7a1388": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "link": "",
+            "linkbutton": "",
+            "linktext": "Mehr Infos",
+            "textimageheading": "PANAMA DSCHUNGEL TOUR",
+            "textimage": "DARIEN GAP"
+          }
+        },
+        "fca05b49-dbc7-4dfe-948b-876284930c4c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/31.png",
+            "link": "",
+            "linkbutton": "",
+            "linktext": "Mehr Infos",
+            "textimageheading": "AMAZONAS EXPEDITION",
+            "textimage": "PERU"
+          }
+        },
+        "17505c2a-9c6d-4497-94db-51286d397070": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/51.png",
+            "link": "",
+            "linkbutton": "",
+            "linktext": "Mehr Infos",
+            "textimageheading": "AUF PFERDEN DURCH DIE MONGOLEI",
+            "textimage": "MONGLISCHE STEPPE"
+          }
+        },
+        "3ce9cf5b-6193-48c0-b82c-aa9622cf7fae": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/52.png",
+            "link": "",
+            "linkbutton": "",
+            "linktext": "Mehr Infos",
+            "textimageheading": "ISLAND SURVIVAL",
+            "textimage": "PANAMA"
+          }
+        },
+        "959206ba-56b1-4a05-867d-97f87a5011dd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": "",
+            "linkbutton": "",
+            "linktext": "Mehr Infos",
+            "textimageheading": "ISLAND TOUR",
+            "textimage": "HORNSTRANDIR"
+          }
+        }
+      },
+      "block_order": [
+        "a17a4486-dc08-4e7d-b929-6bf6e2ff8e43",
+        "e7374576-eeaa-44c6-a3a2-79469458b49b",
+        "041eb7c9-d4be-4b9a-bd06-b4808a7a1388",
+        "fca05b49-dbc7-4dfe-948b-876284930c4c",
+        "17505c2a-9c6d-4497-94db-51286d397070",
+        "3ce9cf5b-6193-48c0-b82c-aa9622cf7fae",
+        "959206ba-56b1-4a05-867d-97f87a5011dd"
+      ],
+      "settings": {
+        "text": "",
+        "overlay": 0.9,
+        "textsmall": "",
+        "imagetextcolor": "#ffffff",
+        "background_color": "#ffffff",
+        "background_button": "#efbc16",
+        "background_color_text": "#ffffff"
       }
     },
     "16590838846fb9a45a": {
@@ -91,7 +201,7 @@
             "subheading": "",
             "title": "UNSICHER, OB DU GEEIGNET BIST?",
             "content": "<p>Das hier ist Christian auf einer unserer Expeditionen. Finde heraus, ob du ebenfalls geeignet bist!<\/p>",
-            "button_text": "SCHNELLEN SELBSTTEST MACHEN",
+            "button_text": "SELBSTTEST MACHEN",
             "button_link": "https:\/\/wandermut.typeform.com\/to\/YDcENwT7?typeform-source=wandermut.de"
           }
         }
@@ -101,19 +211,76 @@
       ],
       "settings": {
         "reveal_on_scroll": true,
+        "background_color": "#000000",
         "background_type": "full_width",
         "background_overlap": "image",
-        "image_position": "left",
+        "image_position": "right",
         "text_alignment": "center",
         "cycle_speed": 8,
         "accent_background": "#030000",
-        "text_color": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
         "button_background": "#f6a429",
-        "button_text_color": "rgba(0,0,0,0)"
+        "button_text_color": "rgba(0,0,0,0)",
+        "background_section_color": "#ffffff"
+      }
+    },
+    "1659749780901481b8": {
+      "type": "testimonials",
+      "blocks": {
+        "f60d15b9-3995-4376-997c-89955c919666": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Abenteuer: Ein Abenteuer ist eine durchaus riskante Unternehmung mit ungewissem Ausgang.",
+            "author": ""
+          }
+        },
+        "18e22dc6-fcd5-4c2d-9280-7dbea79f46ad": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Wir sind weder Extremsportler noch Survival-Freaks. Man muss kein Reinhold Messner sein, um mitzukommen. Mit der richtigen Motivation ist beinahe alles möglich.",
+            "author": ""
+          }
+        },
+        "1659749780fea28856-0": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Was wir machen ist nicht für jeden was. Das ist okay. Wenn du allerdings weder Anstrengung noch Risiko scheust, bist du bei uns richtig.",
+            "author": ""
+          }
+        },
+        "1659749780fea28856-1": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Wir haben keine Lust auf Massentourismus und Pauschalreisen aus dem Katalog. Deshalb haben wir Wandermut gegründet.",
+            "author": ""
+          }
+        },
+        "1659749780fea28856-2": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Egal ob Wüste, Tundra oder Dschungel … Wir gehen dorthin, wo niemand hingeht.",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "f60d15b9-3995-4376-997c-89955c919666",
+        "18e22dc6-fcd5-4c2d-9280-7dbea79f46ad",
+        "1659749780fea28856-0",
+        "1659749780fea28856-1",
+        "1659749780fea28856-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "DAFÜR STEHT WANDERMUT",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
       }
     },
     "1659084086315c6a06": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "DAFÜR STEHT WANDERMUT",
@@ -132,6 +299,7 @@
     },
     "16590840747c49f635": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "1659084073191134a2-0": {
           "type": "image",
@@ -232,7 +400,116 @@
         "11eaacc1-cb46-4a50-afd4-351033953db4"
       ],
       "settings": {
-        "section_height": "large",
+        "section_height": "small",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "16597508388392f127": {
+      "type": "slideshow",
+      "blocks": {
+        "1659750838354bcdf1-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-2.jpg",
+            "text_position": "middle_center",
+            "subheading": "DAFÜR STEHT WANDERMUT",
+            "title": "Abenteuer: Ein Abenteuer ist für uns eine durchaus riskante Unternehmung mit ungewissem Ausgang.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1659750838354bcdf1-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
+            "text_position": "middle_center",
+            "subheading": "Dafür steht Wandermut",
+            "title": "Wir haben keine Lust auf Massentourismus und Pauschalreisen aus dem Katalog. Deshalb haben wir Wandermut gegründet.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1fce2f5a-cc7a-4d23-bb1f-82e3d8a357a8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Website.png",
+            "text_position": "middle_center",
+            "subheading": "Dafür steht Wandermut",
+            "title": "Wir sind weder Extremsportler noch Survival-Freaks. Man muss kein Reinhold Messner sein, um mitzukommen. Mit der richtigen Motivation ist beinahe alles möglich.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "6c598615-5802-4dbd-8768-314725ff324e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1000788.jpg",
+            "text_position": "middle_center",
+            "subheading": "Dafür steht Wandermut",
+            "title": "Was wir machen ist nicht für jeden was. Das ist okay. Wenn du allerdings weder Anstrengung noch Risiko scheust, bist du bei uns richtig.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "2b172c45-d849-41d6-a113-da2f7f7abb62": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Andi-DSC_0485-scaled.jpg",
+            "text_position": "middle_center",
+            "subheading": "Dafür steht Wandermut",
+            "title": "Egal ob Wüste, Tundra oder Dschungel… Wir gehen dorthin, wo niemand hingeht.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1659750838354bcdf1-0",
+        "1659750838354bcdf1-1",
+        "1fce2f5a-cc7a-4d23-bb1f-82e3d8a357a8",
+        "6c598615-5802-4dbd-8768-314725ff324e",
+        "2b172c45-d849-41d6-a113-da2f7f7abb62"
+      ],
+      "settings": {
+        "section_height": "small",
         "transition_type": "sweep",
         "autoplay": true,
         "cycle_speed": 5,
@@ -242,12 +519,15 @@
   },
   "order": [
     "main",
-    "16590830151bf1f214",
+    "1659453820b3a78dc7",
     "165908320304f9a6d4",
     "1659083248ec7e442b",
-    "1659083398300fa18e",
+    "165973079566976502",
+    "16593405519d479995",
     "16590838846fb9a45a",
+    "1659749780901481b8",
     "1659084086315c6a06",
-    "16590840747c49f635"
+    "16590840747c49f635",
+    "16597508388392f127"
   ]
 }

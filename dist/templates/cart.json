@@ -9,18 +9,27 @@
         },
         "order_note": {
           "type": "order_note",
-          "settings": {}
+          "settings": {
+            "open_by_default": false
+          }
         }
       },
       "block_order": [
         "totals",
         "order_note"
       ],
-      "settings": {}
+      "settings": {
+        "show_payment_methods": true,
+        "show_shipping_estimator": true,
+        "shipping_estimator_default_country": "United States",
+        "empty_button_link": "shopify:\/\/collections\/all"
+      }
     },
     "cart-recommendations": {
       "type": "cart-recommendations",
-      "settings": {}
+      "settings": {
+        "title": "Das könntest du auch gebrauchen"
+      }
     }
   },
   "order": [

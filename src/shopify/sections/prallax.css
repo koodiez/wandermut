@@ -6,4 +6,12 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+@media (hover: none) {
+  .parallaxImage {
+    background-attachment: initial;
+  }
 }

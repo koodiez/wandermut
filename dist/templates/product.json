@@ -21,24 +21,31 @@
             "buy_now_button_background": "rgba(0,0,0,0)",
             "buy_now_button_text_color": "rgba(0,0,0,0)"
           }
+        },
+        "0cd17a47-1555-48f6-a707-9c345a393ee5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Besonders robust<\/p><p>✓ gute Bewegungsfreiheit<\/p><p>✓ Allrounder für fast alle Abenteuer<\/p>"
+          }
         }
       },
       "block_order": [
         "variant_picker",
-        "buy_buttons"
+        "buy_buttons",
+        "0cd17a47-1555-48f6-a707-9c345a393ee5"
       ],
       "settings": {
         "show_vendor": false,
         "show_sku": false,
-        "show_taxes_included": true,
+        "show_taxes_included": false,
         "show_product_rating": false,
         "show_sticky_add_to_cart": true,
         "show_share_buttons": false,
         "help_page": "",
         "enable_video_autoplay": true,
-        "enable_video_looping": false,
+        "enable_video_looping": true,
         "enable_image_zoom": true,
-        "show_thumbnails_on_mobile": false,
+        "show_thumbnails_on_mobile": true,
         "desktop_thumbnails_position": "left",
         "transition_effect": "slide"
       }
@@ -64,30 +71,123 @@
             "title": "Mach deinen Look perfekt",
             "products": "{{ product.metafields.custom.buy_it_with.value }}"
           }
+        },
+        "d80973f2-1d29-4d95-82a6-8eef69c4c303": {
+          "type": "content",
+          "settings": {
+            "title": "BERATUNG",
+            "content": "<p>Bei deiner perfekten Wanderhose solltest du auf folgendes achten: <\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "description",
         "48d8dce3-535a-4925-b71f-242b076ad734",
-        "28c7ba1e-43be-4983-b327-0e617dba7ba8"
+        "28c7ba1e-43be-4983-b327-0e617dba7ba8",
+        "d80973f2-1d29-4d95-82a6-8eef69c4c303"
       ],
       "settings": {}
+    },
+    "165989282462583c1c": {
+      "type": "timeline",
+      "blocks": {
+        "1659892824ff4cd7da-0": {
+          "type": "item",
+          "settings": {
+            "label": "1",
+            "title": "Perfekt zum Wandern",
+            "content": "<p>Egal ob du durch die heimischen Wälder ziehst, im Gebirge wanderst, oder du ein großes Abenteuer planst. Mit dieser Outdoor-Hose bist du allzeit bereit. <\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1659892824ff4cd7da-1": {
+          "type": "item",
+          "settings": {
+            "label": "2",
+            "title": "Robust und flexibel zugleich",
+            "content": "<p>Robustester Segeltuch-Stoff und reißfester Stretch bieten dir Schutz und Bewegungsfreiheit zugleich.  Und lassen dich darüber hinaus auch noch gut aussehen 😉<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1659892824ff4cd7da-2": {
+          "type": "item",
+          "settings": {
+            "label": "3",
+            "title": "Doppelt und dreifach vernäht",
+            "content": "<p>Diese Outdoor-Hose ist so robust und langlebig wie du, damit der Impact für die Umwelt so gering ist wie möglich.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "181f1ecd-392a-42a9-b64b-c22b18da1dcb": {
+          "type": "item",
+          "settings": {
+            "label": "4",
+            "title": "Beste Belüftung",
+            "content": "<p>Lüftungsschlitze an den Innenseiten der Oberschenkel bringen frische Luft dorthin, wo sonst kaum Luft hinkommt.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659892824ff4cd7da-0",
+        "1659892824ff4cd7da-1",
+        "1659892824ff4cd7da-2",
+        "181f1ecd-392a-42a9-b64b-c22b18da1dcb"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Was dieses Produkt so besonders macht",
+        "text_position": "top",
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
     },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
         "subheading": "",
-        "title": "You may also like",
+        "title": "Das könntest du ebenfalls gebrauchen",
         "recommendations_count": 4,
         "products": [],
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "background": "#2e2e2e",
+        "text_color": "#ffffff"
+      }
+    },
+    "16598924016df900e4": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_10.jpg",
+        "subheading": "",
+        "title": "UNSER EIGENER ANSPRUCH:",
+        "content": "<p>Wir entwickeln ausschließlich Outdoor-Bekleidung, die wir selbst auf unseren Abenteuern und Expeditionen nutzen.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "small",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 50
       }
     }
   },
   "order": [
     "main",
     "product-content",
-    "product-recommendations"
+    "165989282462583c1c",
+    "product-recommendations",
+    "16598924016df900e4"
   ]
 }

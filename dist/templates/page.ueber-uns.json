@@ -1,0 +1,346 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "1659420595899cbf1a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0195.jpg",
+        "subheading": "",
+        "title": "Über uns",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "165942065743e28d4a": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "WIR GEHEN DORTHIN, WO NIEMAND HINGEHT!",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=w1rQfmPirQE&feature=youtu.be",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
+        "background_type": "boxed",
+        "video_size": "small",
+        "autoplay": true,
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659420732065b3cd2": {
+      "type": "image-with-text",
+      "blocks": {
+        "16594207329e491ebe-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1160_photo-full-1.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Wir sind die Gründer von Wandermut",
+            "content": "<p>Wir sind Abenteurer und Entdecker, die es sich zum Ziel gesetzt haben, die abgelegensten Orte dieser Welt zu bereisen.<\/p><p>Da wir keine Lust auf Massentourismus und Standard-Touren aus dem Katalog haben, organisieren wir unsere eigenen Abenteuer und Expeditionen. Unternehmungen wie diese bergen immer auch ein Risiko und Anstrengung, ansonsten wäre es einfach nur Urlaub.<br\/>Doch bis jetzt läuft alles gut, mehr noch: Es ist unfassbar geil! Für uns gibt es daher nur eine einzige Entscheidung, die sich richtig anfühlt: Weiter nach Vorne! Noch mehr Abenteuer! Neue Gebiete erschließen und noch mehr Menschen ermöglichen aus ihrem Alltag raus zu kommen und über sich selbst hinauszuwachsen. Das war schon immer unser Traum, jetzt ist es unsere Mission. Wir gehen dorthin, wo niemand hingeht.<br\/>Wir hoffen euch zukünftig unter dem Namen Wandermut zu mehr Abenteuer im Leben inspirieren zu können und freuen uns auf alle, die uns in Zukunft begleiten werden.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16594207329e491ebe-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#000000",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "background_section_color": "#ffffff"
+      }
+    },
+    "165991108695a72ad9": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Husky_Expedition_Kostroma_2017_055.jpg",
+        "subheading": "Der Start",
+        "title": "Alles begann mit einer Huskytour durch Russland",
+        "content": "<p>Eines Tages erfuhren wir von einer abgelegenen Huskyfarm in Russland. Die Neugierde war geweckt und so machten wir uns ran, diese Farm zu kontaktieren, um eine einzigartige Huskytour zu organisieren. Sich irgendwo auf einen Schlitten zu setzen und rumkutschieren zu lassen wie bei den meisten touristischen Anbietern schien uns zu langweilig.<\/p><p>Wir wollten unser eigenes Rudel führen und eigenständig navigieren. Zu diesem Zeitpunkt hatten weder wir, noch die Huskyfarm Erfahrung mit solchen Touren. Als wir anfingen unsere Freunde zu überreden, mitzukommen, waren die meisten Reaktionen: „Was? Nach Russland? Im Winter? Ihr seid doch verrückt!“<\/p><p>So stellten wir unseren Plan in diversen Facebook Gruppen vor und fanden schnell enormen Zuspruch. In nur wenigen Tagen war das Team für eine Pioniertour zusammen. <\/p><p>Die erste Huskytour war ein voller Erfolg. Dabei merkten wir schnell, dass es für uns das Größte ist, mit neuen und interessanten Menschen an entlegene Orte dieser Welt zu reisen und sich gemeinsam den dortigen Herausforderungen zu stellen. Als Belohnung gibt es nicht nur neue Freundschaften, sondern vor allem Erinnerungen, die uns für den Rest des Lebens prägen werden.<\/p><p>Von da an verlief alles in einer rasanten Geschwindigkeit. Alte Kontakte, die wir über die Zeit aufgebaut hatten, eröffneten ungeahnte Möglichkeiten und neue Abenteuer konnten geplant werden. Als Logo wird uns der Husky aber auch in Zukunft an das allererste Abenteuer erinnern, und dazu ermutigen auch weite Strecken zurückzulegen und immerzu den Weg in die unberührte Natur anzustreben. Er verkörpert das, wofür wir stehen wollen:<\/p><p>Nämlich dafür, die Courage aufzubringen um etablierten Pfade zu verlassen und neue Wege einzuschlagen.<\/p>",
+        "button_text": "Sei selbst bei einem unserer Abenteuer oder Expeditionen dabei",
+        "button_link": "shopify:\/\/pages\/abenteuer",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 50
+      }
+    },
+    "16599114276c62f4af": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Husky_Expedition_Kostroma_2017_427.jpg"
+      }
+    },
+    "1659913142b3d0091a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/IMG_6026.jpg",
+        "subheading": "Nächster Schritt",
+        "title": "Nun entwickeln wir unsere eigene Outdoor-bekleidung",
+        "content": "<p>Das hat angefangen, weil wir von Beginn an quasi wöchentlich Nachrichten von euch aus der Community bekommen haben, in denen gefragt wurde, welches Equipment wir für Wanderungen und Abenteuer empfehlen würden. Die Expertise geben wir natürlich immer noch gerne weiter!<br\/><br\/>Dazu kam, dass wir auf unseren Touren die gesamte Ausrüstung namhafter Hersteller immer wieder auf Herz und Nieren getestet haben und uns aufgefallen ist, was man alles besser machen könnte.<br\/><br\/>Irgendwann haben wir 1 + 1 zusammengezählt und begonnen Teile unserer Ausrüstung selbst entwickeln und anfertigen zu lassen - zum Beispiel Wandersocken und Wandeshirts.<br\/>Dabei haben wir nicht nur unsere eigene, sondern auch die Erfahrung von Spezialisten aus Textil Universitäten oder von Produzenten selbst einfließen lassen, da Letztere auch für absolute Top-Markenhersteller produzieren.<br\/><br\/>In den letzten Monaten haben wir uns dann immer öfter die Frage gestellt, ob wir unser eigenes Equipment in unserer abenteuerlichen Community anbieten sollten. Außerdem hätten wir Lust dazu, weitere Teile des Equipments mit dir und dem Rest der Community zusammen zu entwickeln! Da könnten wahre Meisterstücke entstehen!<br\/><br\/>Hättest du Bock deine Handschrift auf Wandermut Equipment zu verewigen? Beantworte uns dafür bitte ein paar kurze Fragen. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 80
+      }
+    },
+    "1659912623def55dd8": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659912623ac0958a4-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Spiegel_-_Zerissene_Hose.png",
+            "tab_label": "Item",
+            "subheading": "Mega peinlich:",
+            "title": "Das geht besser!",
+            "content": "<p>Am Tag unserer bisher größten Entdeckung, waren wir schon 5 Wochen auf Expedition gewesen. Als dieses Foto entstand, hatte bereits die zweite Wanderhose aufgegeben. Und so kam es, dass man mich bis heute mit zerissenen Hosen sieht, wenn man meinen Namen googelt. <\/p><p>In Zukunft wollen wir nicht mehr in zerrissenen Hosen unterwegs sein. Daher entwickeln wir mittlerweile eigenes Equipment, das unserem Anspruch gerecht wird.<\/p>",
+            "button_text": "Entdecke unsere Produkte",
+            "button_link": "shopify:\/\/collections\/alle-produkte-1"
+          }
+        }
+      },
+      "block_order": [
+        "1659912623ac0958a4-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#ffffff",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "background_section_color": "#ffffff"
+      }
+    },
+    "16594208468548e3ed": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "1659420846a8952e7d-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Eines Tages erfuhren wir von einer abgelegenen Huskyfarm in Russland. Die Neugierde war geweckt und so machten wir uns ran, diese Farm zu kontaktieren, um eine einzigartige Huskytour zu organisieren. Sich irgendwo auf einen Schlitten zu setzen und rumkutschieren zu lassen wie bei den meisten touristischen Anbietern schien uns zu langweilig.<\/p><p>Wir wollten unser eigenes Rudel führen und eigenständig navigieren. Zu diesem Zeitpunkt hatten weder wir, noch die Huskyfarm Erfahrung mit solchen Touren. Als wir anfingen unsere Freunde zu überreden, mitzukommen, waren die meisten Reaktionen: „Was? Nach Russland? Im Winter? Ihr seid doch verrückt!“<\/p><p>So stellten wir unseren Plan in diversen Facebook Gruppen vor und fanden schnell enormen Zuspruch. In nur wenigen Tagen war das Team für eine Pioniertour zusammen. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659420846a8952e7d-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Die erste Huskytour war ein voller Erfolg. Dabei merkten wir schnell, dass es für uns das Größte ist, mit neuen und interessanten Menschen an entlegene Orte dieser Welt zu reisen und sich gemeinsam den dortigen Herausforderungen zu stellen. Als Belohnung gibt es nicht nur neue Freundschaften, sondern vor allem Erinnerungen, die uns für den Rest des Lebens prägen werden.<\/p><p>Von da an verlief alles in einer rasanten Geschwindigkeit. Alte Kontakte, die wir über die Zeit aufgebaut hatten, eröffneten ungeahnte Möglichkeiten und neue Abenteuer konnten geplant werden. Als Logo wird uns der Husky aber auch in Zukunft an das allererste Abenteuer erinnern, und dazu ermutigen auch weite Strecken zurückzulegen und immerzu den Weg in die unberührte Natur anzustreben. Er verkörpert das, wofür wir stehen wollen:<\/p><p>Nämlich dafür, die Courage aufzubringen um etablierten Pfade zu verlassen und neue Wege einzuschlagen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659420846a8952e7d-0",
+        "1659420846a8952e7d-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "ALLES BEGANN IM VERREGNETEN WINTER 2016: MAN HÄTTE FAST ALLES GETAN, UM DEM MATSCHIGEN WETTER ZU ENTKOMMEN.",
+        "title": "WIE ALLES BEGANN",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659914120ea8bb863": {
+      "type": "timeline",
+      "blocks": {
+        "a36ac080-9113-4737-ade2-a5d9c59cad11": {
+          "type": "item",
+          "settings": {
+            "label": "2022",
+            "title": "7 vs. Wild - Staffel 2",
+            "content": "<p>Write content about your store<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "7acad755-0ef9-4340-ab9f-425774691390": {
+          "type": "item",
+          "settings": {
+            "label": "2022",
+            "title": "Launch unserer Produkte",
+            "content": "<p>Write content about your store<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "16599141206ffc2892-2": {
+          "type": "item",
+          "settings": {
+            "label": "2019",
+            "title": "Zusammenarbeit mit ZDF Terra X",
+            "content": "<p>Write content about your store<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "16599141206ffc2892-1": {
+          "type": "item",
+          "settings": {
+            "label": "2018",
+            "title": "Ruinenfund im Amazonas",
+            "content": "<p>Write content about your store<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "16599141206ffc2892-0": {
+          "type": "item",
+          "settings": {
+            "label": "2017",
+            "title": "Startschuss",
+            "content": "<p>Write content about your store<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a36ac080-9113-4737-ade2-a5d9c59cad11",
+        "7acad755-0ef9-4340-ab9f-425774691390",
+        "16599141206ffc2892-2",
+        "16599141206ffc2892-1",
+        "16599141206ffc2892-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "MEILENSTEINE",
+        "text_position": "middle",
+        "background": "#5b5b5b",
+        "text_color": "#ffffff",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659421033a894bef0": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/IMG_7752-scaled.jpg",
+        "subheading": "",
+        "title": "DAS TEAM",
+        "content": "<p>Anfangs waren wir nur zwei Jungs, die Lust auf ein gewaltiges Abenteuer hatten. Mit der Zeit haben wir allerdings so viele Menschen kennengelernt, mit denen wir die Sehnsucht nach Reisen fernab der normalen Touri-Destinationen teilen. Und mit der Zeit haben wir uns weiterentwickelt. Von zwei verrückten Typen haben wir uns zu einem Abenteuer-Startup entwickelt. Ehemalige Teilnehmer sind mittlerweile ausgebildete Teamleiter und führen Teams durch die exotischsten Gebiete der Welt. Auch unser Team in der Zentrale wächst langsam und unterstützt uns immer weitere Abenteuer zu planen.<\/p><p>Wir sind stolz darauf, mit solch tollen Menschen zusammenzuarbeiten und gemeinsam etwas aufzubauen. Und über jeden einzelnen können wir sagen: verdammt, du hast Abenteuer im Blut.<\/p>",
+        "button_text": "Werde Teil von Team Wandermut",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16599122924daff98a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/DSC08164.jpg",
+        "subheading": "Subheading",
+        "title": "Die Community",
+        "content": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "boxed",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1659420595899cbf1a",
+    "165942065743e28d4a",
+    "1659420732065b3cd2",
+    "165991108695a72ad9",
+    "16599114276c62f4af",
+    "1659913142b3d0091a",
+    "1659912623def55dd8",
+    "16594208468548e3ed",
+    "1659914120ea8bb863",
+    "1659421033a894bef0",
+    "16599122924daff98a"
+  ]
+}

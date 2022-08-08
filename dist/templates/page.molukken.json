@@ -12,7 +12,8 @@
       "type": "image-with-text-overlay",
       "settings": {
         "reveal_on_scroll": true,
-        "section_height": "auto",
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/unsplash-alexandra-k-O_B1LTxHb98-unsplash-1.jpg",
         "subheading": "AUF DER SPUR DES VERSCHOLLENEN SILBERWARANS",
         "title": "MOLUKKEN EXPEDITION",
         "content": "<p>Wir begeben uns in die Untiefen des dichten Urwalds der abgeschiedenen Gewürzinseln. Umgeben von speienden Vulkanen liegt ein einzigartiger Lebensraum für unzählige Tiere. Eines von ihnen wurde seit Jahrzehnten nicht mehr gesichtet. Wir machen uns auf die Suche.<\/p>",
@@ -29,17 +30,17 @@
         "overlay_opacity": 30
       }
     },
-    "1659084864a76110a7": {
+    "16597324032d20c495": {
       "type": "multi-column",
       "blocks": {
-        "16590848639ebe4103-0": {
+        "16597324039b06677c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/goal.png",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Wandermut_Flag_Maps_Icon_1fc96c00-59d7-4016-b561-188c2feae0bc.png",
+            "image_width": 15,
             "image_border": "rgba(0,0,0,0)",
-            "title": "ZIEL",
-            "content": "<p><strong>INDONESIEN<\/strong><\/p>",
+            "title": "LAND",
+            "content": "<p>INDONESIEN<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -47,57 +48,57 @@
             "vertical_alignment": "center"
           }
         },
-        "16590848639ebe4103-1": {
+        "16597324039b06677c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/time.png",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/time-8-128.png",
+            "image_width": 15,
             "image_border": "rgba(0,0,0,0)",
             "title": "DAUER",
-            "content": "<p><strong>CA. 2 WOCHEN<\/strong><\/p>",
+            "content": "<p>ca. 2 Wochen<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
             "text_alignment": "center",
-            "vertical_alignment": "start"
+            "vertical_alignment": "center"
           }
         },
-        "16590848639ebe4103-2": {
+        "16597324039b06677c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tent.png",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/add-user-128.png",
+            "image_width": 15,
             "image_border": "rgba(0,0,0,0)",
             "title": "TEILNEHMER",
-            "content": "<p><strong>CA. 12 PERSONEN<\/strong><\/p>",
+            "content": "<p>Ca. 12 Perosnen<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
             "text_alignment": "center",
-            "vertical_alignment": "start"
+            "vertical_alignment": "center"
           }
         },
-        "16590848639ebe4103-3": {
+        "16597324039b06677c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/calendar.png",
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 15,
             "image_border": "rgba(0,0,0,0)",
             "title": "ZEITRAUM",
-            "content": "<p><strong>OKTOBER \/ NOVEMBE<\/strong><\/p>",
+            "content": "<p>OKTOBER \/ NOVEMBER<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
             "text_alignment": "center",
-            "vertical_alignment": "start"
+            "vertical_alignment": "center"
           }
         }
       },
       "block_order": [
-        "16590848639ebe4103-0",
-        "16590848639ebe4103-1",
-        "16590848639ebe4103-2",
-        "16590848639ebe4103-3"
+        "16597324039b06677c-0",
+        "16597324039b06677c-1",
+        "16597324039b06677c-2",
+        "16597324039b06677c-3"
       ],
       "settings": {
         "reveal_on_scroll": true,
@@ -107,27 +108,33 @@
         "content": "",
         "column_alignment": "center",
         "mobile_item_size": "small",
-        "desktop_item_size": "small",
-        "spacing": "loose",
-        "background": "#ffffff",
-        "text_color": "#080808"
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
       }
     },
-    "1659085198281f40da": {
+    "16591119933865cdff": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Varanus-reinerguentheri-1.jpg"
+      }
+    },
+    "165973950846941f6b": {
       "type": "image-with-text-overlay",
       "settings": {
         "reveal_on_scroll": true,
-        "section_height": "small",
-        "image": "shopify:\/\/shop_images\/Boiga-irregularis-1.jpg",
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/unsplash-sam-5qu17cF-Jv0-unsplash-1.jpg",
         "subheading": "",
-        "title": "",
-        "content": "",
+        "title": "DAS ZIEL",
+        "content": "<p>Im zentralen Norden Indonesiens ragen die Vulkaninseln der Molukken aus dem Pazifischen Ozean. Die größte Insel des Archipels ist Halmahera, die weitestgehend völlig unbewohnt ist. Besonders im undurchdringlichen Inland sind viele Gebiete noch absolut unerforscht. Unser Ziel ist es, den Regenwald zu durchkreuzen, denn nur so können wir dem Geheimnis des berüchtigtsten Bewohners dieses Dschungels auf die Schliche kommen:<strong>Wir wollen den verschollenen Silberwaran aufspüren.<\/strong><\/p>",
         "button_text": "",
         "button_link": "",
         "link_style": "link",
         "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "middle_center",
+        "text_width": "large",
+        "text_position": "middle_left",
         "text_color": "#ffffff",
         "button_background": "#ffffff",
         "button_text_color": "#000000",
@@ -135,43 +142,673 @@
         "overlay_opacity": 30
       }
     },
-    "1659085289c3dddb2f": {
-      "type": "image-with-text",
+    "16597333594eb2be54": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/13.jpg"
+      }
+    },
+    "16597389529fcbdf38": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/unsplash-boudhayan-bardhan-60tataLkJ0U-unsplash-1-scaled_1.jpg",
+        "subheading": "",
+        "title": "DER PLAN",
+        "content": "<p>In Begleitung unseres Expeditionsleiters Michael, der die Molukkeninseln wie seine Westentasche kennt, wagen wir uns tief in den Regenwald vor. Unterwegs passieren wir einen der aktiven Vulkane der Insel. Abends, bei wolkenfreier Sicht, können wir seine Eruption beobachten – etwa alle dreißig Minuten spukt er gleich aus mehreren Kratern Asche und Lavafontänen in den Nachthimmel.<\/p><p>Im Herzen des Dschungels angekommen, errichten wir unser Forschungscamp und machen uns auf die Suche nach dem einzigartigen Reptil. Das Lager wird unsere Base sein, von der wir tagsüber in den Dschungel ausschwärmen. Alle Teammitglieder werden bei allen Aufgaben der Forschung, aber auch dem Suchen von Nahrung, Trinkwasser und Feuerholz gebraucht.<\/p><p>Wenn wir es nach hoffentlich erfolgreicher Mission wohlbehalten aus dem Dschungel geschafft haben, werden wir nicht nur mit neuen Entdeckungen und Erfahrungen belohnt: Es wartet dort eine kleine, palmenüberladene Tropeninsel auf uns. Hier erholen wir uns von den Strapazen der Expedition.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "16591664096b85bc4a": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Boiga-irregularis-1.jpg"
+      }
+    },
+    "1659740270b90d6f47": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "DIE HERAUSFORDERUNGEN",
+        "content": "<p>Wir werden uns tagelang abseits jeglicher Zivilisation alleine im Dschungel durchschlagen müssen. Uns erwartet ein noch gänzlich unerforschtes Gebiet. Michaels Kenntnisse über den Dschungel sind deshalb unabdinglich für diese Expedition.Bei tropisch feuchter Hitze müssen wir mit schwerer Expeditionsausrüstung so manchen anspruchsvollen Anstieg bezwingen.<br\/><br\/>Die Distanzen werden meistens nicht mehr als fünf Kilometer am Tag betragen, doch erschweren hüfttiefe Flüsse, heftiges Dickicht und andere Hindernisse unser Vorankommen. Etappen von acht bis zehn Stunden fordern Ausdauer. Alle weiteren Herausforderungen, die uns der Dschungel stellt, werden wir vor Ort bewältigen müssen. Der genaue Ausgang dieser Expedition bleibt auch für uns ungewiss!<\/p>",
+        "button_text": "WERDE TEIL DES TEAMS",
+        "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#030000",
+        "overlay_opacity": 60
+      }
+    },
+    "16598775101070ffc6": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Varanus-reinerguentheri-1.jpg"
+      }
+    },
+    "16598776592755fb88": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "Der Hintergrund",
+        "content": "<p>Für diese Expedition haben wir uns mit renommierten Biologen und Herpetologen (Reptilienforschern) zusammengetan. Denn: Halmahera ist der einzige Sichtungsort der verschollenen Echse Varanus Zugorum, auch als Silberwaran oder <a href=\"https:\/\/www.globalwildlife.org\/zugs-monitor\/\" target=\"_blank\">Zugs‘ Monitor<\/a> bekannt. Sie gilt als eine der von der Global Wildlife Conservation festgelegten <a href=\"https:\/\/www.globalwildlife.org\/search-for-lost-species\/\" target=\"_blank\">„25 Lost Species“<\/a>, denn seit 1980 wurde sie nicht mehr gesichtet.<\/p><p>Es ist, bis auf wenige Fotos eines inGefangenschaft lebenden Exemplars, nichts über den Waran und seine Lebensweise bekannt. Doch für die Wissenschaft sind diese Daten enorm wichtig. Mehr dazu erklärt euch der Evolutionsbiologe Dr. André Koch vom Zoologischen Forschungsmuseum Koenig in Bonn höchstpersönlich. Die Erforschung von Waranen, insbesondere in den indo-australischen Gebieten, ist nämlich sein Spezialgebiet:<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "16591666662bd4da67": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Urwaldtrekking-1.jpg"
+      }
+    },
+    "16591666827362880b": {
+      "type": "multi-column",
       "blocks": {
-        "1659085289019c5b02-0": {
+        "1659166682e18926ec-0": {
           "type": "item",
           "settings": {
-            "tab_label": "Item",
-            "subheading": "Subheading",
-            "title": "Image with text",
-            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LANDSCHAFT",
+            "content": "<p>Halmahera ist, wie alle der über 1.000 Molukkeninseln, vulkanischen Ursprungs. Auf der Insel finden sich deshalb gut ein halbes Dutzend Vulkane wieder. Der Urwald, der fast die gesamte, hügelige Insel überzieht, ist einer der spannendsten Lebensräume dieser Welt und ein Paradies für Naturforscher: Da die Inseln nie mit dem Festland verbunden waren, ist die biologische Vielfalt hier nicht nur extrem hoch, sondern oft auch einzigartig.<\/p><p>So wuchsen zum Beispiel wertvolle Gewürze wie Muskatnuss oder Nelke nur auf den Molukken und wurden von hier in die ganze Welt verschifft. Deswegen sind die Inseln heute noch als Gewürzinseln bekannt.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TIERWELT",
+            "content": "<p>Neben dem vermuteten Silberwaran leben drei weitere eindrucksvolle Waranarten auf Halmahera. Auch endemische Schlangenarten, bunte Papageien, Flughunde oder größere Beuteltiere wie der Molukkenkuskus bewohnen die dichte Dschungelvegetation – alleine 8 Reptilien- und 25 Vogelarten kommen nur auf dieser Insel vor. Tatsächlich stellt keines der Tiere eine besondere Gefahr für uns dar.<\/p><p>Über viele der exotischen Tierarten ist wenig bekannt, auch vermuten Wissenschaftler hier weitere, bisher unentdeckte Spezies. So machte beispielsweise letztes Jahr die Entdeckung der „Wallace-Riesenbiene“ auf Halmahera weltweit Schlagzeilen – ebenfalls eine der „25 Lost Species“.<\/p><p>Der Silberwaran ist also nicht die einzige Entdeckung, die wir im Regenwald von Halmahera machen können!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "KULTUR",
+            "content": "<p>Halmahera ist extrem dünn besiedelt, größere Gemeinschaften finden sich nur an den Küsten. Auf unserer Expedition werden wir vermutlich mit dem Naturstamm der Togutils in Kontakt kommen, die abgeschieden in den Wäldern der Insel fernab jeglicher Form der Moderne leben. Sie haben ihre traditionelle Lebensweise seit jeher bewahrt. Dieses halbnomadische Urvolk lebt von und mit der reichen Natur des Dschungels und bezeichnet sich selbst als „Waldmenschen“ – im Gegensatz zu dem an der Küste lebenden Stamm der Tobelo.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
           }
         }
       },
       "block_order": [
-        "1659085289019c5b02-0"
+        "1659166682e18926ec-0",
+        "1659166682e18926ec-1",
+        "1659166682e18926ec-2"
       ],
       "settings": {
         "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "DAS GEBIET",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659166832699028e3": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Lagerfeuer-1.jpg"
+      }
+    },
+    "1659166849897f437b": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166848ef083972-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "VERLETZUNG",
+            "content": "<p>Für die Versorgung von leichteren Verletzungen haben wir ein Erste-Hilfe-Set dabei. Wenn nötig, können Teilnehmer sich im Camp ausruhen. Bei größeren Wunden müssen Verletzte aus dem Dschungel gebracht werden. Unweit entfernt gibt es auf Halmahera ein Krankenhaus mit internationalem Ärztepersonal. Im Notfall können wir immer per Satellitentelefon einen Notruf absetzen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166848ef083972-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ORIENTIERUNG",
+            "content": "<p>Neben unserem Expeditionsleiter Michael werden uns auch Einheimische begleiten, die sowohl beim Tragen als auch beim Fährtenlesen helfen werden. Das Kartenmaterial der Gegend ist ungenügend, auch wenn teils schmale Pfade existieren. Wir werden uns deshalb mithilfe von GPS-Geräten orientieren.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166848ef083972-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "NATURKATASTROPHEN",
+            "content": "<p>Die Inselgruppe der Molukken liegt auf dem sogenannten Pazifischen Feuerring. Vier Kontinentalplatten treffen hier aufeinander. Deswegen werden die Inseln regelmäßig von Naturkatastrophen wie Erdbeben heimgesucht, auch die regelmäßig ausbrechenden Vulkane sind eine Folge davon. Deshalb errichten wir unsere Camps immer in weitreichender Entfernung zu potenziellen Gefahren.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166848ef083972-0",
+        "1659166848ef083972-1",
+        "1659166848ef083972-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "SICHERHEIT",
+        "content": "<p>Halmahera gilt als politisch sicheres Reiseziel. Sollte sich dies ändern, werden wir natürlich entsprechend umplanen. Die folgenden Aspekte werden wir für eine erfolgreiche Expedition dennoch beachten müssen.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659166921576383f9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unsplash-alexandra-k-O_B1LTxHb98-unsplash-1.jpg"
+      }
+    },
+    "16591669413d6027dd": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166941e486a1ec-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Michael-Leitzinger.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MICHAEL",
+            "content": "<p><strong>Unser Expeditionsleiter vor Ort<\/strong><\/p><p>Es waren die Komodo Warane, die ihn nach Indonesien zogen, was mittlerweile seine neue Heimat geworden ist. Seit 25 Jahren organisiert und leitet Micha Expeditionen in Urwaldregionen und betreut internationale Filmteams bei ihren Projekten. Seine langjährige Expertise ist bei dieser Expedition unverzichtbar.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166941e486a1ec-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-18.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "PADDY",
+            "content": "<p><strong>Verantwortlich für Koordination und Planung<\/strong><\/p><p>Nachdem er sich die letzten Jahre durch die Sahara, den Amazonas Regenwald und den tropischen Darien Gap in Panama geschlagen hat, ist sein Drang nach neuen Erfahrungen ungestillt. Er organisiert diese Expedition mit Michael.<\/p><p>Wenn du uns begleiten möchtest oder Fragen hast – melde dich bei mir!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166941e486a1ec-0",
+        "1659166941e486a1ec-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "WIR SIND WANDERMUT",
+        "title": "WER MACHT DENN SOWAS?",
+        "content": "<p>Unser Ziel ist es, die verrücktesten Abenteuer in die Tat umzusetzen. Herausfordernde Landschaften und abgelegene Gebiete fernab des Massentourismus ziehen uns magisch an. Dabei scheuen wir weder körperliche Anstrengung, noch die Gefahren. Zusammen mit Gleichgesinnten brechen wir auf, um Abenteuer hautnah zu erleben, die sich sonst kaum einer traut.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659167042b58da512": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unsplash-boudhayan-bardhan-60tataLkJ0U-unsplash-1-scaled_1.jpg"
+      }
+    },
+    "16591670606142721f": {
+      "type": "faq",
+      "blocks": {
+        "16591670600498d9d8-1": {
+          "type": "question",
+          "settings": {
+            "title": "WAS KOSTET DIE EXPEDITION?",
+            "answer": "<p><strong>DER TEILNAHMEBEITRAG FÜR DIE EXPEDITION BETRÄGT 3.892€.<\/strong><\/p><p><strong>DABEI SIND:<\/strong><\/p><p>✓ Unterkünfte ab Tourstart bis in den Dschunge<\/p><p>✓ Zelte<\/p><p>✓ Guides<\/p><p>✓ Koch-, Sicherheits- und Expeditions-Equipment<\/p><p>✓ GPS-Geräte und Satellitentelefon<\/p><p>✓ Wissenschaftliches Equipment<\/p><p>✓ Verpflegung während der Expedition<\/p><p><strong>NICHT DABEI SIND<\/strong><\/p><p>☓ Flüge nach Ternate<\/p><p>☓ Unterkünfte in Ternate bis zum Start der Expedition<\/p><p>☓ Restaurantbesuche und alkoholische Getränke<\/p>"
+          }
+        },
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09": {
+          "type": "question",
+          "settings": {
+            "title": "WANN GEHT ES LOS?",
+            "answer": "<p>Für dieses Jahr haben wir schon Teams geplant. Dies sind die Daten:<\/p><p>25. Oktober – 8. November 2022<\/p><p>13. – 27. November 2022<\/p>"
+          }
+        },
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad": {
+          "type": "question",
+          "settings": {
+            "title": "KÖNNEN AUCH FRAUEN MIT?",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU ESSEN\/ TRINKEN",
+            "answer": "<p>Wir kaufen vorab haltbare Lebensmittel wie Reis und Nudeln ein. Fisch und Huhn, sowie frisches Gemüse werden wir für die ersten Tage mitnehmen. Im Urwald werden wir außerdem gemeinsam mit unseren Guides Urwaldgemüse suchen. Das Trinkwasser entnehmen wir nahegelegenen Flüssen und desinfizieren es vor dem Trinken.<\/p><p>Auf spezielle Wünsche oder Unverträglichkeiten können wir leider nicht eingehen. Wer beim Essen wählerisch ist, wird die Strapazen langfristig kaum wegstecken können.<\/p>"
+          }
+        },
+        "39b63c4b-010d-4620-9140-65ef5d643e7a": {
+          "type": "question",
+          "settings": {
+            "title": "WIE KANN ICH MITKOMMEN?",
+            "answer": "<p>Um bei uns mitzukommen musst du dich über das Bewerbungsformular bewerben. Das ist sehr wichtig, da wir dort über gezielte Fragen herausfinden, ob diese Expedition das richtige für dich ist. Sobald du das Formular abgeschickt hast, melden wir uns umgehend bei dir!<\/p>"
+          }
+        },
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3": {
+          "type": "question",
+          "settings": {
+            "title": "WELCHE KÖRPERLICHEN ANFORDERUNGEN GIBT ES?",
+            "answer": "<p>Die Expedition kann einige von uns an ihre Grenzen bringen. Allerdings werden wir nicht jeden Tag große Strecken zurücklegen, da wir von unseren Campspots immer wieder mit leichterem Gepäck zur Suche ausschwärmen werden.<\/p><p>Du musst also kein Reinhold Messner sein oder 5 Mal die Woche Sport treiben, um an dieser Expedition teilzunehmen. Dennoch solltest du vor Aufbruch viele Male mit Rucksack und Gepäck (ca. 17kg) über längere Strecken wandern, um dich an die Zusatzbelastung zu gewöhnen und deine Schuhe einzulaufen. Stabile Kniegelenke, Trittsicherheit und eine gute Rückenmuskulatur solltest du ebenfalls mitbringen.<br\/>Sobald das finale Team steht, unterstützen wir dich selbstverständlich bei der Vorbereitung. Wenn es passt, organisieren wir auch ein Vortreffen, bei dem wir gemeinsam wandern gehen werden.<\/p>"
+          }
+        },
+        "f5ac558d-0e8c-4f6c-924f-d30777d13f25": {
+          "type": "question",
+          "settings": {
+            "title": "WELCHE AUSRÜSTUNG BRAUCHE ICH?",
+            "answer": "<p>Du brauchst nicht viel: Das Wichtigste neben Kleinigkeiten wie Stirnlampe und Regenjacke sind vor allem ein passender Rucksack, ein Schlafsack, sowie gut eingelaufene Trekking-Schuhe. Die genaue Packliste mit Dingen, die sich bewährt haben, bekommst du, sobald du unsere Zusage erhalten hast.<\/p>"
+          }
+        },
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808": {
+          "type": "question",
+          "settings": {
+            "title": "WAS PASSIERT IM NOTFALL?",
+            "answer": "<p>Jeder von uns wird seine eigene kleine Notfall-Apotheke dabei haben, sodass wir die meisten und am wahrscheinlichsten auftretenden Krankheiten selbst behandeln können. Am wahrscheinlichsten sind Magen-Darm Infekte, Erkältungen und oberflächliche Schürfwunden. Hierzu werden wir dir nochmal ganz gezielte Informationen zukommen lassen, sobald du Teil des Teams bist.<\/p><p>Für den Ernstfall haben wir auch ein Satellitentelefon dabei, um eine Evakuierung anzufordern. Wir müssen jedoch mit Verzögerungen und Komplikationen bei einer Bergung rechnen, da wir den Weg aus dem Dschungel zurück laufen müssen. Helikopter gibt es keine. Ein einfacher Abbruch der Expedition oder „mal eben“ evakuieren lassen, ist nicht möglich.<\/p>"
+          }
+        },
+        "8060a9ae-4244-4e2b-8ed9-210d17a2ffa4": {
+          "type": "question",
+          "settings": {
+            "title": "WIE HOCH IST DAS VERLETZUNGSRISIKO?",
+            "answer": "<p>Wie hoch das Verletzungsrisiko ist, hängt ganz von deinem subjektiven Empfinden ab. Wir fühlen uns recht wohl im Dschungel. Andere halten unsere Abenteuer für extrem waghalsig und lebensmüde.<br\/>Natürlich sind wir abgeschieden und auf uns selbst gestellt. Allerdings ist bisher noch nie etwas passiert, das wir nicht selbst vor Ort lösen konnten. Blutige Blasen an den Füßen sowie Schürfwunden sind bei uns normal. Durchfallerkrankungen und leichte Lebensmittelvergiftungen können durch die schlechten Hygienebedingungen vorkommen, was wir aber durch einfache Regeln versuchen zu vermeiden. Bisher sind wir immer in einem Stück aus dem Dschungel rausgekommen.<\/p>"
+          }
+        },
+        "008ce8bd-0589-4aec-bd4c-7b74fa557f56": {
+          "type": "question",
+          "settings": {
+            "title": "WIE VIELE KILOMETER LAUFEN WIR AM TAG?",
+            "answer": "<p>Da wir nicht jeden Tag ein neues Camp aufschlagen, werden die Etappen unterschiedlich ausfallen. Während wir von Camp zu Camp mit vollem Gepäck auf schmalen, ursprünglichen Pfaden unterwegs sind, können wir im Lager mit Tagesrucksack, dafür in schwierigerem Gelände, auf Waransuche gehen. Beim Ausschwärmen stößt man schnell auf Sackgassen und unüberwindbare Hindernisse. Unsere Tagesdistanzen im Dschungel beschränken sich dabei auf 4 bis maximal 8 Kilometer.<\/p><p>Kurze Strecken bedeuten aber nicht, dass es einfach wird. Ganz im Gegenteil: Da wir durch unwegsames Gelände, steile Abschnitte und Flüsse wandern müssen, fühlen sich 5 Kilometer mit Gepäck schnell wie 30 Kilometer daheim an.<\/p>"
+          }
+        },
+        "94b62848-3e4e-4643-a39c-8606c95af048": {
+          "type": "question",
+          "settings": {
+            "title": "WIE BEREITE ICH MICH AUF DIE EXPEDITION VOR?",
+            "answer": "<p>Du musst kein Spitzensportler sein, um hier mithalten zu können. Allerdings erwarten wir von dir eine ernste Vorbereitung vor der Expedition. Da wir an den Tagen von Camp zu Camp mit schweren Rucksäcken von 16 bis über 25 Kilogramm in unebenen Gelände unterwegs sein werden, empfehlen wir dir, dich so realitätsnah wie möglich vorzubereiten. Am besten ziehst du dir deinen Rucksack an, füllst ihn mit Gewicht und wanderst weite Strecken, gerne auch Querfeldein. Möglichst mit vielen Steigungen und auf unebenem Gelände wie in den Bergen oder Wäldern. Eine gute Ausdauer sollte dementsprechend vorhanden sein, Joggen ist hier zusätzlich eine gute Übung.<\/p><p>Genauere Hinweise zu einer geeigneten Vorbereitung bekommst du von uns, sobald du dich erfolgreich für einen Platz im Team beworben hast.<\/p>"
+          }
+        },
+        "38d53924-4ac3-41cf-9bd4-7ef82b8b0953": {
+          "type": "question",
+          "settings": {
+            "title": "KANN DIE EXPEDITION ABGEBROCHEN WERDEN?",
+            "answer": "<p>Das kommt drauf an. Je tiefer wir in den Dschungel reingehen, desto schwieriger. Wenn man der Sache psychisch oder physisch nicht gewachsen sein sollte, müssen wir an den ersten Tagen eine Evakuierung vorbereiten. Später ist dies meist aus verschiedenen Gründen nicht mehr möglich.<\/p><p>Eine Evakuierung mit dem Helikopter ist nicht möglich. Die zurückgelegte Strecke müssen wir wieder zurück laufen, um zum nächsten Dorf und zur nächsten Straße zu kommen. Erschöpfung und nicht lebensbedrohliche Verletzungen wie Prellungen oder verstauchte Knöchel gehören nicht dazu. Hier heißt es Zähne zusammenbeißen und durch. Natürlich werden Verletze so gut es geht vom restlichen Team entlastet und unterstützt. Das ist für uns selbstverständlich.<\/p>"
+          }
+        },
+        "d5c5884e-31a1-4186-9fb2-36b02a32b110": {
+          "type": "question",
+          "settings": {
+            "title": "SEHEN WIR SCHLANGEN, SPINNEN UND GRÖSSERE SÄUGETIERE",
+            "answer": "<p>Der Dschungel auf Halmahera wimmelt nur so von Tieren aller Art.<\/p><p>Neben dem vermuteten Silberwaran leben drei weitere eindrucksvolle Waranarten auf Halmahera. Auch endemische Schlangenarten, bunte Papageien, Flughunde oder größere Beuteltiere wie der Molukkenkuskus bewohnen die dichte Dschungelvegetation – alleine 8 Reptilien- und 25 Vogelarten kommen nur auf dieser Insel vor. Keines der Tiere stellt eine besondere Gefahr für uns dar.<\/p><p>Über viele der exotischen Tierarten ist wenig bekannt, auch vermuten Wissenschaftler hier weitere, bisher unentdeckte Spezies. So machte beispielsweise letztes Jahr die Entdeckung der „Wallace-Riesenbiene“ auf Halmahera weltweit Schlagzeilen – ebenfalls eine der „25 Lost Species“.<\/p><p>Um größere Beuteltiere, (ungiftige) Schlangen und den Waran schlussendlich zu finden brauchen wir natürlich jede Menge Glück.<\/p>"
+          }
+        },
+        "79baee20-0f05-45f6-9e2f-b1f6267d190b": {
+          "type": "question",
+          "settings": {
+            "title": "WO WERDEN WIR SCHLAFEN?",
+            "answer": "<p>WO WERDEN WIR SCHLAFEN?Während der Expedition schlafen wir in Zelten. Diese schützen uns vor Krabbeltierchen und Moskitos. So halten wir das Risiko einer Ansteckung mit Malaria gering. Bevor es in den Dschungel geht, werden wir noch ein, zwei Nächte in den letzten Dörfern nächtigen.<\/p>"
+          }
+        },
+        "29fbacdc-2bb3-4164-a38e-83081a9799da": {
+          "type": "question",
+          "settings": {
+            "title": "WER ORGANISIERT DIE ANREISE?",
+            "answer": "<p>Dies ist keine Pauschalreise aus dem Reisebüro um die Ecke.<\/p><p>Du kümmerst dich selbst um Hin- und Rückflug nach Ternate \/ Indonesien. Dort triffst du das Team, mit dem wir gemeinsam mit dem Boot nach Halmahera fahren. Natürlich werden wir dir bei der Planung helfen. Gleichzeitig lässt sich die Anreise über unsere Facebook-Gruppe, in die wir dich einladen werden, mit den anderen Teilnehmern koordinieren.<\/p>"
+          }
+        },
+        "a711ef3a-e1a2-4d94-8603-cbcc324e30b2": {
+          "type": "question",
+          "settings": {
+            "title": "WIE IST ES, BEI SO EINER EXPEDITION DABEI ZU SEIN?",
+            "answer": "<p>Die kurze Antwort: Unbeschreiblich!<\/p><p>Man bekommt gefühlt 1000 neue Eindrücke von Landschaft, Kultur und Menschen. Man lernt sehr viel über sich selbst. Der ungewisse Verlauf der Expedition sowie die vielen Risiken, die mit einem solchen Unterfangen einhergehen, sorgen für einen ganz besonderen Nervenkitzel. Gleichzeitig sind wir völlig abgeschnitten von der Außenwelt und damit auch von Alltagsproblemen. Das Einzige, was hier zählt: Abends einen trockenen Schlafplatz haben und eine warme Mahlzeit im Magen.<\/p><p>Das gibt vielen noch einmal Klarheit über die wirklich wichtigen Dinge im Leben. Nicht selten werden nach unseren Touren unliebsame Berufe gewechselt oder sogar Beziehungen beendet (oder neu begonnen). Am Ende bleiben allerdings immer zwei Dinge: Stolz diese Herausforderung gemeistert zu haben und Erinnerungen, die uns für immer bleiben werden.<\/p>"
+          }
+        },
+        "a4e4ad01-66da-4080-adb6-6a6c25c46cfc": {
+          "type": "question",
+          "settings": {
+            "title": "WEN KÖNNEN WIR MITNEHMEN?",
+            "answer": "<p>Am Ende entscheiden wir nach Bauchgefühl, wen wir auf diese Expedition mitnehmen können und wen nicht.<\/p><p>Letztendlich wollen wir ein tolles Team zusammenbekommen, mit dem es einfach Spaß macht unterwegs zu sein. Das erstaunliche ist immer: Obwohl wir alle aus völlig verschiedenen Richtungen stammten, sind meist alle auf einer Wellenlänge. Das Abenteuer steht ganz klar im Vordergrund.<\/p><p>Wir gehen davon aus, dass du ein wenig verrückt sein musst, wenn du dich auf diese Expedition meldest. Das gefällt uns. Ansonsten ist deine eigene Erwartungshaltung sehr wichtig. Es muss jedem klar sein, dass es sich hierbei nicht um eine touristische Tour handelt, die schon hunderte Male durchgeführt wurde. Erfahrungsgemäß wird nicht alles nach Plan verlaufen. Du solltest also Bock auf Abenteuer haben, und einen ruhigen Geist mitbringen, wenn wir improvisieren müssen.<\/p><p>Wenn du wissen willst, ob du für diese Expedition geeignet bist, kannst du dir folgende Fragen stellen:<\/p><p>Kann ich in stressigen Situationen wie beim Kontakt mit wilden Tieren oder beim Passieren von Flüssen einen kühlen Kopf bewahren?<\/p><p>Kann ich die Zähne zusammenzubeißen, wenn der Marsch länger und anstrengender wird als geplant, der Schlaf nur kurz ausfällt oder es seit Tagen regnet?<\/p><p>Bin ich bereit andere Teammitglieder zu unterstützen, sofern sie Hilfe benötigen und den Anweisungen der Guides und Leiter Folge zu leisten?<\/p><p>Passt es bei mir zeitlich und finanziell?<\/p>"
+          }
+        },
+        "4d0f4c7e-52cf-4520-b1ce-0cbc352ef1b4": {
+          "type": "question",
+          "settings": {
+            "title": "WIE UNTERSTÜTZEN WIR DIE FORSCHUNG?",
+            "answer": "<p>Wir werden vor Ort, angeleitet durch Michael, eine Art Tagebuch führen. Dafür arbeiten wir mit entsprechenden Formularen, in denen wir relevante Daten wie Temperatur, Höhe, Luftfeuchtigkeit, etc. sammeln werden. Dadurch bekommen wir am Ende ein besseres Bild vom Habitat des gesuchten Warans uns seinen Verwandten. Alle gesammelten Daten inkl. Fotos werden wir am Ende an den Evolutionsbiologen Dr. André Koch weiterreichen, der diese für seine wissenschaftliche Arbeit nutzen kann.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16591670600498d9d8-1",
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09",
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad",
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c",
+        "39b63c4b-010d-4620-9140-65ef5d643e7a",
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3",
+        "f5ac558d-0e8c-4f6c-924f-d30777d13f25",
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808",
+        "8060a9ae-4244-4e2b-8ed9-210d17a2ffa4",
+        "008ce8bd-0589-4aec-bd4c-7b74fa557f56",
+        "94b62848-3e4e-4643-a39c-8606c95af048",
+        "38d53924-4ac3-41cf-9bd4-7ef82b8b0953",
+        "d5c5884e-31a1-4186-9fb2-36b02a32b110",
+        "79baee20-0f05-45f6-9e2f-b1f6267d190b",
+        "29fbacdc-2bb3-4164-a38e-83081a9799da",
+        "a711ef3a-e1a2-4d94-8603-cbcc324e30b2",
+        "a4e4ad01-66da-4080-adb6-6a6c25c46cfc",
+        "4d0f4c7e-52cf-4520-b1ce-0cbc352ef1b4"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FRAGEN UND ANTWORTEN",
+        "content": "",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659742626286f0bf9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg"
+      }
+    },
+    "16597407557412a78d": {
+      "type": "multi-column",
+      "blocks": {
+        "1659740755753e25a9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TERMIN",
+            "content": "<p>Für dieses Jahr haben wir schon Teams geplant. Dies sind die Daten: <strong>1) 25. Oktober – 8. November 2022 2) 13. – 27. November 2022<\/strong><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downloads.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNAHMBEITRAG",
+            "content": "<p>Der Teilnahmebeitrag für die Expedition beträgt <strong>3.892 €<\/strong><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anforderung_Icon_b008f061-6182-48e4-9dff-58ab9b800a93.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ANFORDERUNGEN",
+            "content": "<p>Hohe körperliche Belastbarkeit in tropischen Gebieten, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659740755753e25a9-1",
+        "1659740755753e25a9-0",
+        "1659740755753e25a9-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WICHTIGE HARD FACTS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659742838e503b999": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unsplash-alexandra-k-O_B1LTxHb98-unsplash-1.jpg"
+      }
+    },
+    "1659167555c1fbcd40": {
+      "type": "multi-column",
+      "blocks": {
+        "1659167555cca07099-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1: BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2: AUF ZUSAGE WARTEN",
+            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3: PLATZ SICHERN",
+            "content": "<p>Wenn von unserer Seite alles passt, bekommst du den Platz im Team.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "4: VORFREUDE GENIESSE",
+            "content": "<p> …und los gehts!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659167555cca07099-0",
+        "1659167555cca07099-1",
+        "1659167555cca07099-2",
+        "1659167555cca07099-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#d4af37"
+      }
+    },
+    "16591676412d8cc68f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659167641c39da9ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-18.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "SICHERE DIR EINEN PLATZ",
+            "content": "<p>Wenn du bereit für die Expedition auf den Molukken bist und immer schon einmal etwas machen wolltest, wofür dich deine Freunde für verrückt erklären, stelle dir noch folgende Fragen:<\/p><p>✓ Kann ich die Zähne zusammenbeißen, wenn der schwere Rucksack dich quält und der nächste Schlafplatz auf sich warten lässt?<\/p><p>✓ Habe ich2 Wochen Zeit und kann ich den Teilnahmebeitrag von 3.892 Euro aufbringen? <\/p><p>✓ Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
+            "button_text": "Jetzt bewerben",
+            "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe"
+          }
+        }
+      },
+      "block_order": [
+        "1659167641c39da9ab-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#dfdfdf",
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",
-        "text_alignment": "center",
-        "cycle_speed": 8,
-        "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
+        "text_alignment": "left",
+        "cycle_speed": 5,
+        "accent_background": "#030000",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#030000",
+        "background_section_color": "#ffffff"
       }
     }
   },
   "order": [
     "main",
     "165908476867615e27",
-    "1659084864a76110a7",
-    "1659085198281f40da",
-    "1659085289c3dddb2f"
+    "16597324032d20c495",
+    "16591119933865cdff",
+    "165973950846941f6b",
+    "16597333594eb2be54",
+    "16597389529fcbdf38",
+    "16591664096b85bc4a",
+    "1659740270b90d6f47",
+    "16598775101070ffc6",
+    "16598776592755fb88",
+    "16591666662bd4da67",
+    "16591666827362880b",
+    "1659166832699028e3",
+    "1659166849897f437b",
+    "1659166921576383f9",
+    "16591669413d6027dd",
+    "1659167042b58da512",
+    "16591670606142721f",
+    "1659742626286f0bf9",
+    "16597407557412a78d",
+    "1659742838e503b999",
+    "1659167555c1fbcd40",
+    "16591676412d8cc68f"
   ]
 }
