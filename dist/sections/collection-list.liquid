@@ -75,9 +75,19 @@
                 <p class="heading {% if settings.heading_text_transform == 'uppercase' %}h4{% else %}h3{% endif %}" {% if section.settings.reveal_on_scroll %}reveal{% endif %}>{{ block.settings.title | escape }}</p>
               {%- endif -%}
 
-              {%- if block.settings.link_text != blank -%}
-                <span class="heading heading--small link" {% if section.settings.reveal_on_scroll %}reveal{% endif %}>{{ block.settings.link_text | escape }}</span>
-              {%- endif -%}
+              <div style="display: flex; padding: 10px; justify-content: space-around; max-width:350px; margin: 0 auto; ">
+                {%- if block.settings.link_text_1 != blank -%}
+                <a href="{{ block.settings.link_url_1 }}">            
+                        <span class="heading heading--small link"   {% if block.settings.button_css %} style=" background-color: {{ block.settings.button_color1 }}; padding: 9px; text-decoration: none; color: {{ block.settings.text_color1 }};" {% endif %} {% if section.settings.reveal_on_scroll %}reveal{% endif %}>{{ block.settings.link_text_1 | escape }}</span>
+                </a>
+                {%- endif -%}
+
+                {%- if block.settings.link_text_2 != blank -%}
+                <a href="{{ block.settings.link_url_2 }}">            
+                    <span class="heading heading--small link" {% if block.settings.button_css %} style=" background-color: {{ block.settings.button_color2 }}; padding: 9px; text-decoration: none; color: {{ block.settings.text_color2 }};" {% endif %} {% if section.settings.reveal_on_scroll %}reveal{% endif %}>{{ block.settings.link_text_2 | escape }}</span>
+                 </a>
+                {%- endif -%}
+              </div>
             {%- endcapture -%}
 
             {%- if section.settings.layout == 'collage' -%}
@@ -132,7 +142,7 @@
 
             {%- assign collection = block.settings.collection -%}
 
-            <a id="block-{{ section.id }}-{{ block.id }}" href="{{ block.settings.link_url | default: collection.url }}" class="list-collections__item {% if is_highlighted %}list-collections__item--highlight {% if is_shifted %}list-collections__item--shift{% endif %}{% endif %} {% if collection_content != blank %}has-overlay{% endif %} image-zoom" {{ block.shopify_attributes }}>
+            <div id="block-{{ section.id }}-{{ block.id }}" class="list-collections__item {% if is_highlighted %}list-collections__item--highlight {% if is_shifted %}list-collections__item--shift{% endif %}{% endif %} {% if collection_content != blank %}has-overlay{% endif %} image-zoom" {{ block.shopify_attributes }}>
               <div class="list-collections__item-image-wrapper">
                 {%- assign collection_image = block.settings.image | default: collection.featured_image -%}
 
@@ -170,7 +180,7 @@
                   {{- collection_content -}}
                 </div>
               {%- endif -%}
-            </a>
+            </div>
           {%- endfor -%}
         </div>
       {%- endcapture -%}
@@ -236,14 +246,25 @@
         },
         {
           "type": "text",
-          "id": "link_text",
-          "label": "Link text"
+          "id": "link_text_1",
+          "label": "Link text 1"
+        },
+        {
+          "type": "text",
+          "id": "link_text_2",
+          "label": "Link text 2"
         },
         {
           "type": "url",
-          "id": "link_url",
+          "id": "link_url_1",
           "label": "Link URL",
-          "info": "If none is set, collection URL is used."
+          "info": "Link 1: If none is set, collection URL is used."
+        },
+        {
+          "type": "url",
+          "id": "link_url_2",
+          "label": "Link URL",
+          "info": "Link 2: If none is set, collection URL is used."
         },
         {
           "type": "header",
@@ -270,6 +291,36 @@
           "step": 1,
           "unit": "%",
           "default": 30
+        },
+        {
+            "type": "checkbox",
+            "id": "button_css",
+            "label": "Button Css Aktivieren",
+            "default": false
+        },
+        {
+            "type": "color",
+            "id": "button_color1",
+            "label": "Button Color 1",
+            "default": "#000000"
+        },
+        {
+            "type": "color",
+            "id": "button_color2",
+            "label": "Button Color 2",
+            "default": "#000000"
+        },
+        {
+            "type": "color",
+            "id": "text_color1",
+            "label": "Text Color 1",
+            "default": "#000000"
+        },
+        {
+            "type": "color",
+            "id": "text_color2",
+            "label": "Text Color 2",
+            "default": "#000000"
         }
       ]
     }
@@ -334,7 +385,7 @@
   ],
   "presets": [
     {
-      "name": "Collection list",
+      "name": "Collection list-new",
       "blocks": [
         {
           "type": "collection"
