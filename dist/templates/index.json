@@ -1,7 +1,41 @@
 {
   "sections": {
+    "1659974857ccc352b6": {
+      "type": "slideshow",
+      "blocks": {
+        "1659974857c13f980b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_6.jpg",
+            "text_position": "middle_center",
+            "subheading": "OUTDOOR KLAMOTTEN GETESTE AM LIMIT",
+            "title": "WANDERMUT",
+            "button_1_text": "Frauen",
+            "button_1_link": "shopify:\/\/products\/outdoor-hemd-frauen",
+            "button_2_text": "Männer",
+            "button_2_link": "shopify:\/\/collections\/outdoor-begleidung-herren",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 54
+          }
+        }
+      },
+      "block_order": [
+        "1659974857c13f980b-0"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
     "1659722518bc32cb71": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "",
@@ -704,6 +738,7 @@
     }
   },
   "order": [
+    "1659974857ccc352b6",
     "1659722518bc32cb71",
     "1659453022b401c75f",
     "1659868575a59a3e67",

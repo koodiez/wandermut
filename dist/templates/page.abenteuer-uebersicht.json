@@ -72,31 +72,13 @@
         "overlay_opacity": 50
       }
     },
-    "165973079566976502": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "AKTUELLE ABENTEUER",
-        "content": "",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#030000",
-        "text_color": "#ffffff",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
     "16593405519d479995": {
       "type": "adventure-grid",
       "blocks": {
         "a17a4486-dc08-4e7d-b929-6bf6e2ff8e43": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg",
+            "image": "shopify:\/\/shop_images\/3_5f81694d-3c97-4010-bff7-d42bc0eefb11.png",
             "link": "shopify:\/\/pages\/uber-uns",
             "linkbutton": "",
             "linktext": "Mehr Infos",
@@ -181,13 +163,13 @@
         "959206ba-56b1-4a05-867d-97f87a5011dd"
       ],
       "settings": {
-        "text": "",
+        "text": "AKTUELLE ABENTEUER",
         "overlay": 0.9,
-        "textsmall": "",
+        "textsmall": "Entdecke dein nächstes Abenteuer",
         "imagetextcolor": "#ffffff",
         "background_color": "#ffffff",
         "background_button": "#efbc16",
-        "background_color_text": "#ffffff"
+        "background_color_text": "#030000"
       }
     },
     "16590838846fb9a45a": {
@@ -226,6 +208,7 @@
     },
     "1659749780901481b8": {
       "type": "testimonials",
+      "disabled": true,
       "blocks": {
         "f60d15b9-3995-4376-997c-89955c919666": {
           "type": "testimonial",
@@ -515,6 +498,39 @@
         "cycle_speed": 5,
         "background": "rgba(0,0,0,0)"
       }
+    },
+    "16600002671c094577": {
+      "type": "slideshow",
+      "blocks": {
+        "1660000267a889337c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC08164.jpg",
+            "text_position": "middle_center",
+            "subheading": "Jetzt Entdecken",
+            "title": "Wanderhosen",
+            "button_1_text": "Männer",
+            "button_1_link": "",
+            "button_2_text": "Frauen",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1660000267a889337c-0"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
@@ -522,12 +538,12 @@
     "1659453820b3a78dc7",
     "165908320304f9a6d4",
     "1659083248ec7e442b",
-    "165973079566976502",
     "16593405519d479995",
     "16590838846fb9a45a",
     "1659749780901481b8",
     "1659084086315c6a06",
     "16590840747c49f635",
-    "16597508388392f127"
+    "16597508388392f127",
+    "16600002671c094577"
   ]
 }
