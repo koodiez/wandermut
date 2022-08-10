@@ -1,3 +1,11 @@
+{% if page.url contains "pages"   %}
+<style>
+    #shopify-section-{{ section.id }}{
+      display: none;
+    }
+</style>
+{% endif %}
+
 <style>
   :root {
     --enable-sticky-announcement-bar: {% if section.settings.announcement_bar_position == 'non_sticky' or section.settings.announcement_bar_position == 'sticky_desktop' %}0{% else %}1{% endif %};
@@ -36,6 +44,7 @@
     }
   }
 </style>
+
 
 {%- if section.blocks.size > 0 -%}
   <section>
