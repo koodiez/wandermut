@@ -401,6 +401,9 @@
           </div>
         {%- endif -%}
 
+        {%- comment -%}Payment Icons on PDP{%- endcomment -%}
+        {% render 'payment-icons' %}
+
         {%- if template.suffix != 'quick-buy-popover' -%}
           <store-pickup form-id="{{ product_form_id }}" class="product-form__store-availability-container">
             {%- render 'store-availability', product_variant: product.selected_or_first_available_variant -%}

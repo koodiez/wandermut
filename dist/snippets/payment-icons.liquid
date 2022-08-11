@@ -1,0 +1,13 @@
+{% assign enabled_payment_types = 'paypal,klarna,master,visa,apple_pay,american_express' | remove: ' ' | split: ',' %}
+          
+{%- capture payment_methods -%}
+  {%- for type in enabled_payment_types -%}
+    <li class="payment-icons__item">{{ type | payment_type_svg_tag }}</li>
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- if payment_methods != blank -%}
+  <ul class="payment-icons">
+    {{ payment_methods }}
+  </ul>
+{%- endif -%}

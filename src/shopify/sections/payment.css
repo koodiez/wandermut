@@ -1,0 +1,8 @@
+.payment-icons {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  padding: 0%;
+  padding: 0px 0px;
+  margin: 3px;
+}
