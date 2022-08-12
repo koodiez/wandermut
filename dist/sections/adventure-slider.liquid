@@ -1,0 +1,176 @@
+<style> 
+    #shopify-section {{ section.id }} {
+
+        --section-overlay-color: {{ section.settings.overlay_color.red }}, {{ section.settings.overlay_color.green }}, {{ section.settings.overlay_color.blue }};
+        --section-overlay-opacity: {{ section.settings.overlay_opacity | divided_by: 100.0 }};    
+    }
+  </style>
+
+
+
+<!-- Swiper -->
+<div class="insta-swiper_container" style="background-image: url({{section.settings.image_background | image_url }}); opacity: {{ section.settings.overlaybackground }};">
+    <div class="adventure_heading-wrapper">
+    <h2 style="color: {{ section.settings.imagetextcolor }};">{{ section.settings.section-heading }}</h2>
+    </div>
+    <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+        {% for block in section.blocks %}
+        <div class="swiper-slide">
+            <img src="{{block.settings.image | img_url: '475x'}}" alt="">
+            {% if block.settings.text-heading != blank  %}
+            <div class="slider-image_heading">
+                <h3 style="color: {{ section.settings.imagetextcolor }};">{{ block.settings.text-heading }}</h3>
+                <p style="color: {{ section.settings.imagetextcolor }};">{{ block.settings.text }}</p>
+            </div>
+            {% endif %}
+            {% if block.settings.url != blank  %}
+                            <div class="slider-image_button">
+                <a class="adv-custom_button" href="{{ block.settings.url }}">{{ block.settings.urltext }}</a>
+            </div>
+            {% endif %}
+            {% if block.settings.tag != blank  %}
+            <div class="slider-image_tag">
+            <p class="tag_adventure" style="background-color: {{ block.settings.tagcolor }}; color: {{ block.settings.tagtextcolor }};">{{ block.settings.tag }}</p>
+            </div>
+            {% endif %}
+        </div>
+        {% endfor %} 
+    </div>
+    {%- comment -%}
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    {%- endcomment -%}
+        <div class="swiper-pagination"></div>
+    </div>
+    </div>
+
+    <!-- Initialize Swiper -->
+    <script>
+      var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 1,
+        spaceBetween: 10,
+        loop: true,
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+        breakpoints: {
+          640: {
+            slidesPerView: 2,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 4,
+            spaceBetween: 40,
+          },
+          1024: {
+            slidesPerView: 5,
+            spaceBetween: 50,
+          },
+        },
+      });
+    </script>
+
+    
+      {% schema %}
+        {
+           "settings": [
+           {
+            "type": "image_picker",
+            "label": "Background Image",
+            "id" : "image_background"
+           },
+           {
+            "type": "text",
+            "label": "Überschrift",
+            "id" : "section-heading"
+           },
+        {
+            "type": "color",
+            "id": "imagetextcolor",
+            "label": "Bild Schrift Farbe",
+            "default": "#FFFFFF"
+        },
+        {
+            "type": "range",
+            "label": "Overlay Stärke Hintergrundbild",
+            "id" : "overlaybackground",
+            "min": 0,
+            "max": 1,
+            "step": 0.1,
+            "default": 1
+
+           },
+           {
+            "type": "color",
+            "id": "overlay_color",
+            "label": "Overlay",
+            "default": "#000000"
+          }
+           ],
+
+        "blocks" : [ 
+        {
+            "type": "image",
+            "name" : "image block",
+            "settings" : [
+                {
+                    "type": "image_picker",
+                    "label": "your image",
+                    "id" : "image"
+                },
+                {
+                    "type": "text",
+                    "label": "Überschrift Abenteuer",
+                    "id" : "text-heading"
+                },
+                {
+                    "type": "text",
+                    "label": "Text auf dem Bild Klein",
+                    "id" : "text"
+                },
+                {
+                    "type": "url",
+                    "label": "Link",
+                    "id" : "url"
+                },
+                {
+                    "type": "text",
+                    "label": "Button Text",
+                    "id" : "urltext"
+                },
+                {
+                    "type": "text",
+                    "label": "Tag Text",
+                    "id" : "tag"
+                },
+                {
+                    "type": "color",
+                    "id": "tagtextcolor",
+                    "label": "Tag Schrift Farbe",
+                    "default": "#FFFFFF"
+                },
+                {
+                    "type": "color",
+                    "id": "tagcolor",
+                    "label": "Tag color",
+                    "default": "#FFFFFF"
+                }
+            ]
+        }
+        ],
+
+           "presets": [
+         {
+           "name": "Adventure-Swiper",
+           "category": "Heading"
+           
+         }
+         ]
+      }
+      {% endschema %}
