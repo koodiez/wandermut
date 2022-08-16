@@ -1,0 +1,727 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "166056379051991623": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Lost-city-of-Chachapoya-with-round-house-covered-by-forest.jpg",
+        "subheading": "PERU",
+        "title": "AMAZONAS EXPEDITION",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16605639054e96a58a": {
+      "type": "multi-column",
+      "blocks": {
+        "1660563904cacb6a88-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wandermut-Icon-Wegweiser.png",
+            "image_width": 36,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LAND",
+            "content": "<p>PERU<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660563904cacb6a88-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/muscle-icon-10-small.png",
+            "image_width": 36,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "NIVEAU",
+            "content": "<p>BRUTAL<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660563904cacb6a88-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wandermut-Icon-Zelt.png",
+            "image_width": 51,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNEHMER",
+            "content": "<p>CA. 12 PERSONEN<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660563904cacb6a88-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 37,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ZEITRAUM",
+            "content": "<p>AUGUST-SEPTEMBER 2022<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1660563904cacb6a88-0",
+        "1660563904cacb6a88-1",
+        "1660563904cacb6a88-2",
+        "1660563904cacb6a88-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1660564127a9e058d8": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Urwaldtrekking-1.jpg",
+        "subheading": "",
+        "title": "DAS ZIEL",
+        "content": "<p><strong>Im Amazonas Regenwald gibt es eines der letzten unerforschten Gebiete der Welt: Das ehemalige Reich der Chachapoya-Kultur.<\/strong><\/p><p>Das Ziel unserer Expeditionen ist es tief im Dschungel vollkommen unerschlossenes Gebiet zu erkunden, um so Ruinen, Grabkammern oder gar versunkene Städte der seit 500 Jahren ausgestorbenen Chachapoya aufzuspüren und zu dokumentieren.<\/p><p>Zusammen mit unseren peruanischen Freunden und den örtlichen Behörden ist es uns bereits gelungen die überwucherten Ruinen eines vollständigen Dorfes aufzuspüren. Doch eines ist sicher: Da gibt es noch viel mehr und unsere Suche wird weitergehen!<\/p><p>Für dieses Ziel suchen wir top motivierte Mitstreiter, die Bock haben sich mit uns ins Abenteuer zu stürzen.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 79
+      }
+    },
+    "166056421223b6de8f": {
+      "type": "image-with-text",
+      "blocks": {
+        "16605642122e604605-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-07-11_082749.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "UNSERE LETZTE ENTDECKUNG",
+            "content": "<p><strong>So kann Erfolg aussehen!<\/strong><br\/>Bei unserer „Hochland Expedition“ sind wir im August 2018 in der Nähe des „See der Kondore“ auf eine bisher unbekannte Ruinen-Siedlung der Chachapoya gestoßen.<\/p><p>Sie lag unbemerkt auf dem Gipfel eines Berges auf rund 3500 Metern Höhe im für Touristen unzugänglichen Sperrgebiet Perus und umfasste über 30 Ruinen klassischer Chachapoya-Rundhäuser.<\/p><p>Der Medienrummel war groß. Viele namhafte Magazine, Nachrichten sowie Fernseh- und Radiosender haben über unseren Neufund berichtet. Du kannst die Berichte beispielsweise bei Spiegel Online und GEO nachlesen oder unsere Interviews beim WDR anschauen.<\/p><p>Wir sind uns sicher: Es gibt in dem Gebiet noch weitaus beeindruckendere Städte und Grabkammern der Chachapoya zu finden.<\/p><p>Wir nehmen die Strapazen auf uns, um das zu finden, was andere nur aus Filmen wie India Jones kennen.<br\/>Wenn du schon immer von solch einer Chance geträumt hast, geht es dir genauso wie uns.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16605642122e604605-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#ffffff",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "background_section_color": "#ffffff"
+      }
+    },
+    "1660564267def6a7c4": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ziel-Bild-2-scaled.jpg"
+      }
+    },
+    "1660564303089f71a7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Mummy-at-Laguna-de-los-Condores.jpg",
+        "subheading": "",
+        "title": "DER PLAN",
+        "content": "<p>Das Gebiet, in dem die Chachapoya vor über 500 Jahren gelebt haben, ist ungefähr so groß wie die heutige Schweiz. Betreten wird es von niemandem.<\/p><p>Heutige Dörfer, wie das unserer Guides, gehörten einst zu den Siedlungen der Chachapoya. Es ist unstrittig, dass  es noch viele weitere Siedlungen tief im Regenwald geben muss. Doch das Wissen wo sie zu finden sind, ist über die Jahrhunderte verloren gegangen.<\/p><p>Deswegen organisieren wir immer wieder Expeditionen und durchkämmen das Gebiet mit neuen Routen – immer auf der Suche nach dem nächsten Großen Fund!<\/p><p>Pfade gibt es dabei nicht. Oft müssen wir uns den Weg auf der Suche nach Spuren mit Macheten freischlagen. Dabei hilft uns manchmal das Verhalten von Tieren wie Brillenbären oder Pumas. Seit Jahrhunderten nutzen sie die alten Wege der Menschen als Trampelpfade und erhalten sie somit bis zum heutigen Tag. <\/p><p>Es wird verdammt anstrengend und auch riskant! Niemand weiß, was sich hier im Regenwald verbirgt. Nicht mal unsere einheimischen Freunde. Nur mit viel Kraft, einem starken Teamgeist und den besten Guides wird es möglich sein vorwärts zu kommen. Doch die Strapazen werden sich lohnen. Neben dem puren Dschungel-Feeling haben wir bei dieser Expedition die Chance auf etwas wirklich Großes zu stoßen.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 80
+      }
+    },
+    "1660564383d34dd304": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_4.jpg"
+      }
+    },
+    "1660564405e47e5a65": {
+      "type": "multi-column",
+      "blocks": {
+        "166056440581e4e1c1-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Die Tücken fernab der Zivilisation",
+            "content": "<p>Unser Expeditionsgebiet ist nicht umsonst eines der letzten unerforschten Gebiete der Welt. Dichte Vegetation und der felsige Untergrund werden es uns schwer machen vorwärts zu kommen.<br\/>In einer Höhe bis zu 3500 Metern wird die Luft spürbar dünner und es fällt uns deutlich schwerer unsere Rucksäcke zu schleppen.<\/p><p>So weit entfernt von der Zivilisation mit all ihren Annehmlichkeiten müssen wir uns selbst um Feuerholz kümmern, nach Schlangen Ausschau halten und sicher zum Ziel navigieren. Unsere einheimischen Guides werden uns dafür alles beibringen, was wir wissen müssen und auf uns achten.<\/p><p>Es gibt keinen Pfad. Das unendliche Dickicht muss mit Macheten freigeschlagen werden, auch zahlreiche Steigungen müssen jeden Tag aufs Neue bestiegen werden. Damit ist das Gelände für unterstützende Maulesel zu uneben. Das bedeutet, dass wir bei dieser Expedition die gesamte Ausrüstung und die Verpflegung ausnahmslos selbst schleppen müssen. Die Rucksäcke werden mit Sicherheit über 25 kilo wiegen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "166056440581e4e1c1-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Erfahrungen der letzten Expeditionen",
+            "content": "<p>Bei unserem ersten Versuch 2017 hatten wir das anspruchsvolle Gelände unterschätzt und zu viel (im Nachhinein unnötiges) Equipment mitgeführt. Zusätzlich sind wir durch verunreinigtes Wasser an Durchfall erkrankt. Beides hat dazu geführt, dass wir unsere geplante Route nicht bis zum Ende geschafft haben.<\/p><p>Letztes Jahr waren wir dank dieser Erfahrungen deutlich erfolgreicher. Wir haben uns mit dem Gepäck auf das Nötigste beschränkt und das Wasser noch besser desinfiziert. Sicherlich gab es wieder einige Verletzungen und Erkrankungen aber das gehört bei einem echten Abenteuer dazu.<\/p><p>Solche Erfahrungen nimmt einem keiner mehr. Für uns ist es jedes Mal wieder der absolute Wahnsinn.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "166056440581e4e1c1-0",
+        "166056440581e4e1c1-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "DIE HERAUSFORDERUNGEN",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "166056445471436bfe": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_5.jpg"
+      }
+    },
+    "1660568113593c7c97": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/unsplash-alexandra-k-O_B1LTxHb98-unsplash-1.jpg",
+        "subheading": "",
+        "title": "DIE CHACHAPOYA",
+        "content": "<p>Das Volk der Chachapoya lebte in den Nebelwäldern in den peruanischen Anden. Die Inka gaben ihnen den Namen „Wolkenmenschen“.<\/p><p>Geschichte<\/p><p>Die frühesten Zeichen der Chachapoya-Kultur stammen aus dem 6. Jahrhundert. Bis vor ca. 500 Jahren lebten in dieser Region etwa 500.000 Menschen. Als die Spanier eintrafen verbündeten sie sich mit ihnen gegen die Inka, welche bereits zahlreiche Versuche unternahmen die Chachapoya zu versklaven und zu deportieren.<\/p><p>Durch eingeschleppte Krankheiten der Europäer dezimierte sich die Population jedoch auf lediglich 17.000 Menschen. Unzählige Städte und Siedlungen waren schlagartig unbewohnt und wurden langsam vom Dschungel zurückerobert.<\/p><p>Stand der Forschung<\/p><p>Viel ist über das Volk der Chachapoya nicht bekannt. Dennoch gab es schon einige bedeutende Funde, die Aufschluss über ihre Kultur gegeben haben. In den 90ern erfuhren Archäologen von einer großen Grabanlage am „See der Kondore“. Dies war der bisher größte Fund in der Andenarchäologie. Allzu oft werden neu entdeckte Gräber von Einheimischen geplündert.<\/p><p>Dieses Mal gelang es den Behörden jedoch die Funde zu sichern. Unser Expeditionsleiter Ronald Wagter hat diese Bergung damals begleitet und geholfen Mumien und Objekte in die Stadt zu bringen. Sie sind nun im Museum von Leymebamba zu besichtigen, dem wir im Vorfeld natürlich auch einen Besuch abstatten werden.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 81
+      }
+    },
+    "16605681801feb3233": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unsplash-boudhayan-bardhan-60tataLkJ0U-unsplash-1-scaled.jpg"
+      }
+    },
+    "1660568205917394db": {
+      "type": "multi-column",
+      "blocks": {
+        "1660568205c362bc67-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/27973275_10210088116710371_4564959294152813491_n.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "RONALD WAGTER",
+            "content": "<p><strong>Expeditionsleiter<\/strong><br\/>Verantwortlich für die Logistik vor Ort<\/p><p>Seit 20 Jahren leitet Ronald biologische und archäologische Expeditionen in das ehemalige Reich der Chachapoya. 1998 half er bei der Bergung der berühmten Mumien aus dem See der Kondore. Seine Expertise, sowie Kontakte zu den Guides und Behörden, sind unerlässlich für diese Expedition.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660568205c362bc67-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MARTIN DRUSCHEL",
+            "content": "<p><strong>Expeditionsplaner<\/strong><br\/>Verantwortlich für Koordination und Planung<\/p><p>Martin ist Mitgründer von Wandermut. Er kümmert sich zusammen mit Ronald um die Planung vor Ort. Angestachelt von dem Überraschungsfund – die Ruinen einen kompletten Dorfes mitten im Dschungel – kann es nur eine Richtung geben: Immer weiter!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1660568205c362bc67-0",
+        "1660568205c362bc67-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "WIR SIND WANDERMUT",
+        "title": "WER MACHT DENN SOWAS?",
+        "content": "<p>Unser Ziel ist es die verrücktesten Abenteuer in die Tat umzusetzen. Herausfordernde Landschaften und abgelegene Gebiete fernab des Massentourismus ziehen uns magisch an. Dabei scheuen wir weder körperliche Anstrengung, noch die Gefahren. Zusammen mit Gleichgesinnten brechen wir auf, um Abenteuer hautnah zu erleben, die sich sonst kaum einer traut.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16605683003ddf36fb": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pampa-Hermosa.jpg"
+      }
+    },
+    "16605683429a43c8ec": {
+      "type": "multi-column",
+      "blocks": {
+        "1660568342e5adaefa-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 33,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TERMIN",
+            "content": "<p>Die Termine für die Expedition stehen bereits fest:<\/p><p>21. August – 11. September<\/p><p>18. September – 9. Oktober<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660568342e5adaefa-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downloads.png",
+            "image_width": 34,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNAHMBEITRAG",
+            "content": "<p>DER TEILNAHMEBEITRAG FÜR DIE EXPEDITION BETRÄGT 4.473 €.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660568342e5adaefa-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/muscle-icon-10-white.png",
+            "image_width": 34,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ANFORDERUNGEN",
+            "content": "<p>Hohe körperliche Belastbarkeit in tropischen Gebieten, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1660568342e5adaefa-0",
+        "1660568342e5adaefa-1",
+        "1660568342e5adaefa-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "Subheading",
+        "title": "HARD FACTS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1660568330202acead": {
+      "type": "faq",
+      "blocks": {
+        "166056833004093f91-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist alles dabei?",
+            "answer": "<p>DABEI SIND<\/p><p>Unterkünfte (Hotels und Hütten während An- und Abreise)<\/p><p>GuidesKoch-, Sicherheits- und Expeditions-EquipmentGPS-Geräte und Satellitentelefon<\/p><p>Verpflegung während der Expedition<\/p><p>Eintritt in das Chachapoya-Museum und die Chachapoya-Festung Kuelap<\/p><p>Maulesel zum Transportieren der Ausrüstung<\/p><p>Gegengift<\/p><p>Sondergenehmigungen der Behörden und der anliegenden Dörfer.<\/p><p><\/p><p>NICHT DABEI SIND<\/p><p>Flüge nach Lima und von dort nach Jaén.<\/p><p>(Danach geht es mit dem Bus in die Stadt Chachapoyas, von wo aus wir starten werden.)<\/p><p>Unterkünfte in Lima (ab ca. 20 €<\/p><p>)Restaurantbesuche und alkoholische Getränke<\/p>"
+          }
+        },
+        "166056833004093f91-2": {
+          "type": "question",
+          "settings": {
+            "title": "KÖNNEN AUCH FRAUEN MIT?",
+            "answer": "<p>Diese Frage wird uns oft gestellt. Natürlich können auch Frauen mit! Sie müssen allerdings auch, wie jeder andere, körperlich in der Lage den schweren Rucksack über viele Tagen zu tragen (in der Regel ein paar Kilo weniger als Männer). Ansonsten zeigt unsere Erfahrung: Frauen beißen oftmals die Zähne fester zusammen als Männer. Also los, traut euch!<\/p>"
+          }
+        },
+        "166056833004093f91-4": {
+          "type": "question",
+          "settings": {
+            "title": "WIE KANN ICH MITKOMMEN?",
+            "answer": "<p>Um bei uns mitzukommen musst du dich über das<a href=\"https:\/\/wandermut.typeform.com\/to\/d61X1V\" target=\"_blank\">Bewerbungsformular<\/a>bewerben. Das ist sehr wichtig, da wir dort über gezielte Fragen herausfinden, ob diese Expedition das richtige für dich ist. Sobald du das Formular abgeschickt hast, melden wir uns umgehend bei dir!<\/p>"
+          }
+        },
+        "c4cd47f1-4cdd-4099-8d93-2e8ed4b4fba6": {
+          "type": "question",
+          "settings": {
+            "title": "WEN KÖNNEN WIR MITNEHMEN?",
+            "answer": "<p>Am Ende entscheiden wir nach Bauchgefühl, wen wir auf diese Expedition mitnehmen können und wen nicht.<\/p><p>Letztendlich wollen wir ein tolles Team zusammenbekommen, mit dem es einfach Spaß macht unterwegs zu sein. Das erstaunliche beim letzen Mal war: Obwohl wir alle aus völlig verschiedenen Richtungen stammten, waren alle auf einer Wellenlänge. Das Abenteuer stand ganz klar im Vordergrund.<\/p><p>Wir gehen davon aus, dass du ein wenig verrückt sein musst, wenn du dich auf diese Expedition meldest. Das gefällt uns. Ansonsten ist deine eigene Erwartungshaltung sehr wichtig. Es muss jedem klar sein, dass es sich hierbei nicht um eine touristische Tour handelt, die schon hunderte Male durchgeführt wurde. Erfahrungsgemäß wird nicht alles nach Plan verlaufen. Du solltest also Bock auf Abenteuer haben, und einen ruhigen Geist mitbringen, wenn wir improvisieren müssen.<\/p><p><strong>Wenn du wissen willst, ob du für diese Expedition geeignet bist, kannst unseren <\/strong><a href=\"https:\/\/www.wandermut.de\/selbsttest\" target=\"_blank\"><strong>Selbsttest<\/strong><\/a><strong> machen und dir die folgende Fragen stellen:<\/strong><\/p><p>Kann ich in stressigen Situationen wie beim Kontakt mit wilden Tieren oder beim Passieren von steilen Abhängen einen kühlen Kopf bewahren?<\/p><p>Kann ich die Zähne zusammenzubeißen, wenn der Marsch länger und anstrengender wird als geplant, der Schlaf nur kurz ausfällt oder es seit Tagen regnet?<\/p><p>Bin ich bereit andere Teammitglieder zu unterstützen, sofern sie Hilfe benötigen und den Anweisungen der Guides und Leiter Folge zu leisten?<\/p><p>Passt es bei mir zeitlich und finanziell?<\/p>"
+          }
+        },
+        "d02bea81-1074-4ed8-af55-df9068c31d23": {
+          "type": "question",
+          "settings": {
+            "title": "WELCHE KÖRPERLICHEN ANFORDERUNGEN GIBT ES?",
+            "answer": "<p>Wenn du dir unsicher bist, ob du dich für ein Wandermut Abenteuer eignest, empfehlen wir dir, unseren <a href=\"https:\/\/www.wandermut.de\/selbsttest\" target=\"_blank\">Selbsttest<\/a> zu machen. Eines steht fest: Die Expedition wird viele von uns an ihre Grenzen bringen. <\/p><p>Doch nur so können wir Gebiete erreichen, die bisher niemand sonst erreicht hat. Das ständige Auf und Ab, sowie die dünnere Luft in den Anden werden uns mehr abfordern, als wir es aus Deutschland gewohnt sind. Du musst aber kein Reinhold Messner sein, um an dieser Expedition teilzunehmen. Dennoch solltest du vor Aufbruch viele Male mit Rucksack und Gepäck über längere Strecken wandern, um dich an die Zusatzbelastung zu gewöhnen und deine Schuhe einzulaufen. Stabile Kniegelenke, Trittsicherheit und eine gute Rückenmuskulatur solltest du ebenfalls mitbringen.<br\/>Sobald das finale Team steht, unterstützen wir dich selbstverständlich bei der Vorbereitung. Wenn es passt, organisieren wir auch ein Vortreffen, bei dem wir gemeinsam wandern gehen werden.<\/p>"
+          }
+        },
+        "61975799-8ead-4523-a1e1-6cf7a5d0a33b": {
+          "type": "question",
+          "settings": {
+            "title": "WELCHE AUSRÜSTUNG BRAUCHE ICH?",
+            "answer": "<p>Du brauchst nicht viel: Das Wichtigste neben Kleinigkeiten wie Stirnlampe und Campinggeschirr sind vor allem ein passender Rucksack, ein warmer Schlafsack, sowie Regenponcho und Gummistiefel. Ja, du liest richtig: Gummistiefel! Die genaue Packliste mit Dingen, die sich bewährt haben, bekommst du, sobald du unsere Zusage erhalten hast.<\/p>"
+          }
+        },
+        "e7d16801-858e-419b-9280-2399c1e53196": {
+          "type": "question",
+          "settings": {
+            "title": "WAS PASSIERT IM NOTFALL?",
+            "answer": "<p>Jeder von uns wird seine eigene kleine Notfall-Apotheke dabei haben, sodass wird die meisten und am wahrscheinlichsten auftretenden Krankheiten selbst behandeln können. Am wahrscheinlichsten sind Magen-Darm Infekte, Erkältungen und oberflächliche Schürfwunden. Hierzu werden wir dir nochmal ganz gezielte Informationen zukommen lassen, sobald du Teil des Teams bist.<\/p><p>Selbst für den unwahrscheinlichen Fall eines Bisses der am häufigsten (trotzdem seltenen) Schlagenart, führen wir das entsprechende Gegengift mit. Für den Ernstfall haben wir auch ein Satellitentelefon dabei, um eine Evakuierung anzufordern. Wir müssen jedoch mit Verzögerungen und Komplikationen bei einer Helikopterbergung durch die Bergwache rechnen. Ein einfacher Abbruch der Expedition oder „mal eben“ evakuieren lassen, ist nicht möglich.<\/p>"
+          }
+        },
+        "cad0f238-022f-46ec-892d-78c112da9c8d": {
+          "type": "question",
+          "settings": {
+            "title": "WIE HOCH IST DAS VERLETZUNGSRISIKO?",
+            "answer": "<p>Vorweg: Der berüchtigte Penis-Fisch kommt in unserem Gebiet zum Glück nicht vor.<\/p><p>Wie hoch das Verletzungsrisiko ist, hängt ganz von deinem subjektiven Empfinden ab. Wir fühlen uns recht wohl im Dschungel. Andere halten unsere Abenteuer für extrem waghalsig und lebensmüde.<br\/>Natürlich sind wir abgeschieden und auf uns selbst gestellt. Allerdings ist bisher noch nie etwas passiert, das wir nicht selbst vor Ort lösen konnten. Blutige Blasen an den Füßen sowie Schürfwunden sind bei uns normal. Einige waren von Durchfallerkrankungen und leichten Lebensmittelvergiftungen betroffen. Das liegt an den schlechten Hygienebedingungen, denen wir in der Praxis kaum etwas entgegen setzen können. In sehr seltenen Fällen kam es bei Stürzen zu gebrochenen Rippen, Blutergüssen oder verdrehten Knöcheln. Diese sind aber nicht weiter schlimm und können nach der Expedition leicht behandelt werden. Bisher sind wir immer ein einem Stück aus dem Dschungel rausgekommen.<\/p>"
+          }
+        },
+        "076c7d7d-937f-404e-b8ac-2b2e601ba69d": {
+          "type": "question",
+          "settings": {
+            "title": "WIE VIELE KILOMETER LAUFEN WIR AM TAG?",
+            "answer": "<p>Weniger als du denkst. Während wir auf Pfaden noch verhältnismäßig weite Strecken laufen können (20 – 30 km), beschränken sich Tagesdistanzen im Dschungel meist auf 2 bis maximal 5 Kilometern je Tag.<br\/>Kurze Strecken bedeuten aber nicht, dass es einfach wird. Ganz im Gegenteil: 5 Kilometer mit dem Gepäck durch den Dschungel sind so anstrengend wie 30 Kilometer wandern daheim. Und das jeden Tag ohne Pause.<\/p><p>Die Pfade müssen erst mit Macheten freigeschlagen werden. Oftmals stoßen unsere Guides dabei auch auf Sackgassen oder unüberwindbare Hindernisse wie tiefe Schluchten oder steile Wände. Dann heißt es „kehrt marsch“, um einen anderen Weg zu finden.<\/p>"
+          }
+        },
+        "5d7524e4-6c76-4381-9366-2ab889030a3a": {
+          "type": "question",
+          "settings": {
+            "title": "WIE BEREITE ICH MICH AUF DIE EXPEDITION VOR?",
+            "answer": "<p>Du musst kein Spitzensportler sein um hier mithalten zu können. Allerdings erwarten wir von dir eine ernste Vorbereitung vor der Expedition. Da wir den ganzen Tag mit schweren Rucksäcken von 25 bis über 30 Kilogramm in unebenen Gelände mit hoher Steigung unterwegs sein werden, empfehlen wir dir, dich so realitätsnah wie möglich vorzubereiten. Am besten ziehst du dir deinen Rucksack an, füllst ihn mit Gewicht und wanderst weite Strecken, gerne auch Querfeldein. Möglichst mit vielen Steigungen und auf unebenem Gelände wie in den Bergen oder Wäldern. Eine gute Ausdauer sollte auch vorhanden sein, da die Luft in Höhen von über 2500 Metern deutlich sauerstoffärmer ist als bei uns daheim. Joggen sollte hier eine gute Übung sein.<\/p><p>Genauere Hinweise zu einer geeigneten Vorbereitung bekommst du von uns, sobald du dich erfolgreich für einen Platz im Team beworben hast.<\/p>"
+          }
+        },
+        "f36f6aac-5dab-4236-ab92-f25003ddca3f": {
+          "type": "question",
+          "settings": {
+            "title": "KANN DIE EXPEDITION ABGEBROCHEN WERDEN?",
+            "answer": "<p>Das kommt drauf an. Anfangs werden wir noch einige Tage über Pfade gehen, um zu unseren Startpunkten zu gelangen. Hier ist es noch möglich die Teilnahme abzubrechen, wenn man der Sache psychisch oder physisch nicht gewachsen sein sollte. Danach ist dies meist aus verschiedenen Gründen nicht mehr möglich.<\/p><p>Eine Evakuierung mit dem Helikopter ist auch dann nur noch in lebensbedrohlichen Notfällen möglich und kompliziert. Erschöpfung und nicht lebensbedrohliche Verletzungen wie Prellungen oder verstauchte Knöchel gehören nicht dazu. Hier heißt es Zähne zusammenbeißen und durch. Natürlich werden Verletze so gut es geht vom restlichen Team entlastet und unterstützt. Das ist für uns selbstverständlich.<\/p>"
+          }
+        },
+        "e739bf6c-5404-46e2-93a0-3d0705b6560b": {
+          "type": "question",
+          "settings": {
+            "title": "SEHEN WIR SCHLANGEN, SPINNEN ODER RAUBKATZEN?",
+            "answer": "<p>Der Amazonas wimmelt nur so von Tieren aller Art. Pumas, Jaguare, die verschiedensten Affenarten und hunderte Insektenarten, die es nur dort zu sehen gibt, leben in den Wäldern.<br\/>Wir befinden uns aber im Gebirgs-Regenwald, auch „Cloud Forest“ genannt. Dort unterschiedet sich die Tierwelt deutlich von der, die im tropischeren Tiefland lebt. Es gibt weitaus weniger Leben auf dem Boden. Man könnte sogar direkt im Schlafsack auf dem Boden schlafen. Ein paar Blätter reichen aus als Unterlage. Dennoch werden wir in Zelten schlafen..sicher ist sicher.<\/p><p>Außerdem sind wir in einer größeren Gruppe unterwegs und, da die größeren Säugetiere sehr scheu sind, werden wir nur mit sehr viel Glück einen Puma oder Ähnliches zu sehen bekommen. Ihre Fußspuren am Rande von Flussbetten verraten jedoch ihre Anwesenheit.<br\/>Eine Gefahr geht, solange wir geschlossen im Team bleiben nicht von ihnen aus. Im Gegenteil: Es wäre der absolute Hammer, wenn wir etwas sichten würden. Geh aber eher nicht davon aus.<\/p>"
+          }
+        },
+        "e0626826-d18c-4aa3-be9e-057e6b890d03": {
+          "type": "question",
+          "settings": {
+            "title": "WIE HOCH IST DIE WAHRSCHEINLICHKEIT AUF NEUE GRÄBER UND STÄDTE ZU STOSSEN?",
+            "answer": "<p>Das können wir nicht sagen. Auch, wenn es in dieser Region schon hunderte (leider meist geplünderte) Grabstätten und Siedlungen gab, werden noch viele Weitere tief im Dschungel vermutet.<\/p>"
+          }
+        },
+        "551ab430-bab9-41ff-8731-0ca536aa57e3": {
+          "type": "question",
+          "settings": {
+            "title": "WER SIND UNSERE GUIDES?",
+            "answer": "<p>Wir werden von den erfahrensten Guides der Region geführt. Unser Haupt-Guide ist Ernesto Briones „Don José“, der Schwiegervater von Ronald. Er lebt autark in dem abgelegenen Dorf „Los Chilchos“ ohne fließendes Wasser oder Strom. Er und seine Söhne, die uns ebenfalls begleiten, kennen das Gebiet wie niemand sonst. Gleichzeitig werden wir durch sie die peruanische Kultur kennenlernen.<\/p><p>Wir werden viel Zeit haben und mit ihnen kochen, singen und Koka-Blätter kauen. Zusätzlich begleiten uns vermutlich Vertrauenspersonen der umliegenden Dorfgemeinschaft. Sie werden von den Dörfern geschickt, um im Falle relevanter Funde sicherzustellen, dass diese bleiben, wo sie bleiben sollen. Durch unsere vorherigen Expeditionen genießen wir jedoch ein hohes Maß an Vertrauen bei den Einheimischen und werden von vielen Seiten unterstützt.<\/p>"
+          }
+        },
+        "7446e041-4170-47ea-9470-0c0b78adc81b": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU ESSEN\/ TRINKEN",
+            "answer": "<p>Wir ernähren uns von dem, was bei unseren einheimischen Freunden in Peru üblich ist und, was sich gut transportieren lässt: Nudeln, Reis, Nüsse, getrocknetes Schweinefleisch und Suppe.<br\/>Auf spezielle Wünsche oder Unverträglichkeiten können wir daher leider nicht eingehen. Wer beim Essen wählerisch ist, wird die Strapazen langfristig kaum wegstecken können.<\/p><p>Dadurch werden wir jedoch die peruanische Kultur auf eine sehr authentische Weise kennenlernen. Das Trinkwasser entnehmen wir nahegelegenen Flüssen und desinfizieren es vor dem Trinken.<\/p>"
+          }
+        },
+        "b3193446-0c77-44c3-adf1-9225b9376aa2": {
+          "type": "question",
+          "settings": {
+            "title": "WO WERDEN WIR SCHLAFEN?",
+            "answer": "<p>Während der Expedition schlafen wir in Zelten. Hängematten eignen sich aufgrund der Vegetation weniger. Gleichzeitig schützen uns die Zelte vor Krabbeltierchen und Schlangen. Moskitos gibt es in diesen Höhen kaum. Deswegen ist eine Ansteckung mit Malaria extrem unwahrscheinlich. Bevor es in den Dschungel geht, werden wir noch ein, zwei Nächte in den letzten Dörfern nächtigen. Dort sind fremde Gäste sehr selten. Wir werden also auf die Gastfreundschaft der Dorfältesten angewiesen sein.<\/p>"
+          }
+        },
+        "ef26d8b9-e66c-45bf-9527-d23daa92b161": {
+          "type": "question",
+          "settings": {
+            "title": "WER ORGANISIERT DIE ANREISE?",
+            "answer": "<p>Dies ist keine Pauschalreise aus dem Reisebüro um die Ecke.<\/p><p>Du kümmerst dich selbst um Hin- und Rückflug nach Lima \/ Peru. Dort triffst du das Team und hast die Möglichkeit gemeinsam mit den Anderen weiterzureisen. Ronald, sowie Tom bzw. Tim werden schon vorher in der Stadt Chachapoyas im Norden Perus sein, um die letzten Vorkehrungen zu treffen. Natürlich werden wir dir bei der Planung helfen. Gleichzeitig lässt sich die Anreise über unsere Facebook- Gruppe, in die wir dich einladen werden, mit den anderen Teilnehmern koordinieren.<\/p>"
+          }
+        },
+        "c4c275a9-4130-44c0-8520-bf0553c8a468": {
+          "type": "question",
+          "settings": {
+            "title": "WIE IST ES, BEI SO EINER EXPEDITION DABEI ZU SEIN?",
+            "answer": "<p>Die kurze Antwort: Unbeschreiblich!<\/p><p>Man bekommt gefühlt 1000 neue Eindrücke von Landschaft, Kultur und Menschen. Dazu kommt die körperliche Herausforderung, die einen über die eigenen Grenzen hinaus zwingt. Man lernt sehr viel über sich selbst. Der ungewisse Verlauf der Expedition sowie die vielen Risiken, die mit einem solchen Unterfangen einhergehen, sorgen für einen ganz besonderen Nervenkitzel. Gleichzeitig sind wir völlig abgeschnitten von der Außenwelt und damit auch von Alltagsproblemen. Das Einzige was hier zählt: Abends einen trockenen Schlafplatz haben und eine warme Mahlzeit im Magen.<\/p><p>Das gibt vielen noch einmal Klarheit über die wirklich wichtigen Dinge im Leben. Nicht selten werden nach unseren Touren unliebsame Berufe gewechselt oder sogar Beziehungen beendet (oder neu begonnen). Am Ende bleiben allerdings immer zwei Dinge: Stolz diese Herausforderung gemeistert zu haben und Erinnerungen, die uns für immer bleiben werden.<\/p><p>Wenn du sehen willst wie es uns 2018 während der „Tiefland Expedition“ erging, dann kannst du dir gerne unsere kurzen Lageberichts-Videos auf Facebook oder Youtube anschauen. Hier erzählen wir und unsere Teilnehmer von unseren Erfahrungen und den Problemen, mit denen wir uns rumschlagen mussten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166056833004093f91-1",
+        "166056833004093f91-2",
+        "166056833004093f91-4",
+        "c4cd47f1-4cdd-4099-8d93-2e8ed4b4fba6",
+        "d02bea81-1074-4ed8-af55-df9068c31d23",
+        "61975799-8ead-4523-a1e1-6cf7a5d0a33b",
+        "e7d16801-858e-419b-9280-2399c1e53196",
+        "cad0f238-022f-46ec-892d-78c112da9c8d",
+        "076c7d7d-937f-404e-b8ac-2b2e601ba69d",
+        "5d7524e4-6c76-4381-9366-2ab889030a3a",
+        "f36f6aac-5dab-4236-ab92-f25003ddca3f",
+        "e739bf6c-5404-46e2-93a0-3d0705b6560b",
+        "e0626826-d18c-4aa3-be9e-057e6b890d03",
+        "551ab430-bab9-41ff-8731-0ca536aa57e3",
+        "7446e041-4170-47ea-9470-0c0b78adc81b",
+        "b3193446-0c77-44c3-adf1-9225b9376aa2",
+        "ef26d8b9-e66c-45bf-9527-d23daa92b161",
+        "c4c275a9-4130-44c0-8520-bf0553c8a468"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "WELCHE KÖRPERLICHEN ANFORDERUNGEN GIBT ES?",
+        "content": "",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1660568963467e2b5b": {
+      "type": "multi-column",
+      "blocks": {
+        "1660568962cb704e07-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1 BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660568962cb704e07-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2 AUF ZUSAGE WARTEN",
+            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660568962cb704e07-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3 AUSRÜSTUNG BESORGEN",
+            "content": "<p> …und körperlich vorbereiten!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660568962cb704e07-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "4 VORFREUDE GENIESSE",
+            "content": "<p> …und los gehts!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1660568962cb704e07-0",
+        "1660568962cb704e07-1",
+        "1660568962cb704e07-2",
+        "1660568962cb704e07-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1660569070a29f634b": {
+      "type": "multi-column",
+      "blocks": {
+        "1660569070b22c4e88-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>BEWIRB DICH HIER!<\/p><p><strong>Stelle dir folgende Fragen, wenn du dabei sein willst:<\/strong><\/p><p>Kann ich die Zähne zusammenbeißen, wenn der Dschungel mich quält und die nächste Pause auf sich warten lässt?Habe ich überhaupt Zeit und4.473Euro für die Tour? Wir fragen im Bewerbungsformular Termine ab und schauen, wann die meisten können.Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
+            "link_text": "Bewirb dich jetzt",
+            "link_url": "https:\/\/wandermut.de\/bewerbung",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660569070b22c4e88-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MARTIN",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1660569070b22c4e88-2",
+        "1660569070b22c4e88-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "BEWIRB DICH HIER!",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166056379051991623",
+    "16605639054e96a58a",
+    "1660564127a9e058d8",
+    "166056421223b6de8f",
+    "1660564267def6a7c4",
+    "1660564303089f71a7",
+    "1660564383d34dd304",
+    "1660564405e47e5a65",
+    "166056445471436bfe",
+    "1660568113593c7c97",
+    "16605681801feb3233",
+    "1660568205917394db",
+    "16605683003ddf36fb",
+    "16605683429a43c8ec",
+    "1660568330202acead",
+    "1660568963467e2b5b",
+    "1660569070a29f634b"
+  ]
+}

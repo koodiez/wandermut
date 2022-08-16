@@ -1,0 +1,354 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "1660320285405e2de1": {
+      "type": "slideshow",
+      "blocks": {
+        "16603202854fb8da87-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-733-2_1.jpg",
+            "text_position": "middle_center",
+            "subheading": "Bewirb dich als",
+            "title": "SOCIAL MEDIA MANAGER (M\/W\/D)",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "16603202854fb8da87-0"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "heading_size": 32,
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "166032047795e079dc": {
+      "type": "multi-column",
+      "blocks": {
+        "1660320475d615b6c4-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kisspng-alarm-clocks-computer-icons-clip-art-timer-clock-svg-png-icon-free-download-4-7929-onlin-5b6bff319d04d5.4179051215338043376432.png",
+            "image_width": 30,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "UMFANG",
+            "content": "<p>Vollzeit<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660320475d615b6c4-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/location-png-icon-location-icon-png-free-11562933803vththezlcl.png",
+            "image_width": 30,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "STANDORT",
+            "content": "<p>Büro in Köln. Home Office möglich<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1660320475d615b6c4-1",
+        "1660320475d615b6c4-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "HARD FACTS",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1660320593f86201ca": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/DSC08164.jpg",
+        "subheading": "",
+        "title": "DEINE MISSION",
+        "content": "<p>Bei uns bereitest du einzigartigste Geschichten unserer Abenteuer für Social Media auf und baust eine Community auf, die auf Outdoor, Abenteuer und Extremreisen steht. Es entstehen so viele coole Geschichten und Videomaterial auf unseren Abenteuern, Zeit diese in neuen Formaten aufzuarbeiten und mit der Welt zu teilen. <\/p><p>Du bist kreativ, hast ein Auge für Design, bist Meister des Storytellings und hast Bock, mit unserer Community zu interagieren? Dann hilf uns, die wohl abenteuerlichste Community der Welt aufzubauen. Bist du dabei? <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 80
+      }
+    },
+    "1660320688b9d5353e": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/P1060589.jpg"
+      }
+    },
+    "1660320787b03f08e0": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_8.jpg",
+        "subheading": "",
+        "title": "DEINE AUFGABEN",
+        "content": "<p>Von der wöchentlichen Planung, über den Prozess des Postens, bis hin zum Community Management bist du der Allrounder auf all unseren Kanälen.<\/p><p>Neuen, kreativen & außergewöhnliche Formate für Instagram, Facebook, TikTok und YouTube entwickeln. (Auch mithilfe von Freelancern)<\/p><p>Dein Ziel: Engagement und Reichweite unseres organischen Content erhöhen<\/p><p>Geile (Offline) Events wie Wanderrungen oder Outdoor-Challenges für die Community planen<\/p><p>Kooperationen mit Influencern und Marken eintüten<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 73
+      }
+    },
+    "1660320837d5a6746c": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_5.jpg"
+      }
+    },
+    "1660320948002328cb": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Husky_Expedition_Kostroma_2017_606.jpg",
+        "subheading": "",
+        "title": "DAS SOLLTEST DU MITBRINGEN:",
+        "content": "<p>Du hast Bock auf Social Media<\/p><p>Konkrete Referenzen im Aufbau von Social Media Kanälen<\/p><p>Talent und kreative Ideen zum Produzieren von eigenem Content, der gut ankommt<\/p><p>Tiefes Verständnis über Algorithmen und Trends auf allen großen Social Media Kanälen<\/p><p>Du denkst kreativ und hast Spaß am Schreiben (Und verstehst wie du Text nutzt, um unser Branding zu kommunizieren)<\/p><p>Gutes Auge für ästhetisches Design<\/p><p>Eigenständiges Arbeiten und Lösen von Problemen<\/p><p>Erste Erfahrungen im Video-Schnitt<\/p><p>Exzellente Deutsch-Kenntnisse<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 77
+      }
+    },
+    "16603210703372abe5": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fullsizeoutput_2a7c.jpg"
+      }
+    },
+    "1660321099838e19ed": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-07-06_082109.png",
+        "subheading": "",
+        "title": "WAS WIR DIR BIETEN:",
+        "content": "<p>Mehr Abenteuer, als du dir gerade vorstellen kannst.<\/p><p>Dynamik, anspruchsvolle Projekte, eine steile Lernkurve & extrem viel kreativer Spielraum <\/p><p>Wir unterstützen dich mit Online-Kursen, Workshops und Experten auf dem Weg zum Social-Media-Master<\/p><p>Top ausgestattetes Kameraequipment mit ganz viel Raum zum austoben <\/p><p>Du bist selbst bei spannendes Abenteuern dabei, beispielsweise, wenn wir zusammen mit Influencern auf Tour gehen<\/p><p>Flache Hierarchien, flexibles Arbeiten und die Option auf Home Office<\/p><p>Technische Ausstattung mit neuesten Apple Produkten<\/p><p>Du wirst selbst zum Abenteurer und wirst eigene Erlebnisse berichten können. (Hast du eher Bock zu Fuß durch die Wüste zu wandern, oder lieber mit dem Hundeschlitten durch Russland zu fahren?)<\/p><p>Du wirst bezahlt um auf Social Media abzuhängen und pflegst deine eigenen Accounts<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 83
+      }
+    },
+    "1660321295f2ceb431": {
+      "type": "multi-column",
+      "blocks": {
+        "166032129577cf0dec-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1 BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich online!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "166032129577cf0dec-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2 KONTAKT",
+            "content": "<p>Wir werden uns mit dir in Verbindung setzen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "166032129577cf0dec-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3 WILLKOMMEN IM TEAM",
+            "content": "<p>Wenn von beiden Seiten alles passt, startest du durch!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "166032129577cf0dec-0",
+        "166032129577cf0dec-1",
+        "166032129577cf0dec-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16603213801c92bc20": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "https:\/\/wandermut.typeform.com\/to\/l8HOZDBL",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#030000",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16603214352abb5c16": {
+      "type": "multi-column",
+      "blocks": {
+        "16603214356ded8a5b-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Amazonas-Expedition-Tom-Schinker.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MARTIN DRUSCHEL",
+            "content": "<p><strong>Gründer von Wandermut<\/strong><\/p><p>Es gibt mittlerweile viel im Hintergrund zu organisieren, sodass wir selbst nicht mehr bei jeder Tour dabei sein können. Deswegen freuen wir uns auf Verstärkung! <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16603214356ded8a5b-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TOM SCHINKER",
+            "content": "<p><strong>Gründer von Wandermut<br\/><\/strong><\/p><p>In der letzen Zeit sind so viele neue Abenteuer dazugekommen. Nun brauchen wir starke Teamleiter, denen wir die Teams anvertrauen können. Melde dich, wenn du Bock auf den besten Job der Welt hast.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16603214356ded8a5b-1",
+        "16603214356ded8a5b-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "DEINE ANSPRECHPARTNER",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1660320285405e2de1",
+    "166032047795e079dc",
+    "1660320593f86201ca",
+    "1660320688b9d5353e",
+    "1660320787b03f08e0",
+    "1660320837d5a6746c",
+    "1660320948002328cb",
+    "16603210703372abe5",
+    "1660321099838e19ed",
+    "1660321295f2ceb431",
+    "16603213801c92bc20",
+    "16603214352abb5c16"
+  ]
+}

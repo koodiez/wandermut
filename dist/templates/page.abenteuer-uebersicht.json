@@ -8,29 +8,19 @@
         "page_width": "medium"
       }
     },
-    "1659453820b3a78dc7": {
-      "type": "custom-video-hero",
-      "blocks": {
-        "16594538205c3a182a-0": {
-          "type": "video",
-          "settings": {
-            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5f608fea269e4a31afe9f9c3e1962eea.mp4",
-            "video_image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
-            "overlay_opacity": 45,
-            "title": "WANDERMUT",
-            "text": "<p>WIR GEHEN DORT HIN, WO NIEMAND HINGEHT.<\/p>",
-            "color_text": "#ffffff",
-            "button_label": "",
-            "button_link": "",
-            "color_btn_bg": "#ffffff",
-            "color_btn_text": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "16594538205c3a182a-0"
-      ],
-      "settings": {}
+    "16600247046e76d556": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/DJn98tmavSc",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
     },
     "165908320304f9a6d4": {
       "type": "rich-text",
@@ -74,12 +64,13 @@
     },
     "16593405519d479995": {
       "type": "adventure-grid",
+      "disabled": true,
       "blocks": {
         "a17a4486-dc08-4e7d-b929-6bf6e2ff8e43": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/3_5f81694d-3c97-4010-bff7-d42bc0eefb11.png",
-            "link": "shopify:\/\/pages\/uber-uns",
+            "link": "shopify:\/\/pages\/sahara",
             "linkbutton": "",
             "linktext": "Mehr Infos",
             "textimageheading": "SAHARA TOUR",
@@ -90,8 +81,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/53.png",
-            "link": "shopify:\/\/pages\/molukken",
-            "linkbutton": "shopify:\/\/pages\/molukken",
+            "link": "shopify:\/\/pages\/molukken-abenteuer",
+            "linkbutton": "shopify:\/\/pages\/molukken-abenteuer",
             "linktext": "Mehr Infos",
             "textimageheading": "MOLUKKEN EXPEDITION",
             "textimage": "INDONESIEN"
@@ -101,7 +92,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/1.png",
-            "link": "",
+            "link": "shopify:\/\/pages\/panama-dschungel-tour",
             "linkbutton": "",
             "linktext": "Mehr Infos",
             "textimageheading": "PANAMA DSCHUNGEL TOUR",
@@ -112,7 +103,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/31.png",
-            "link": "",
+            "link": "shopify:\/\/pages\/peru",
             "linkbutton": "",
             "linktext": "Mehr Infos",
             "textimageheading": "AMAZONAS EXPEDITION",
@@ -123,7 +114,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/51.png",
-            "link": "",
+            "link": "shopify:\/\/pages\/mongolei",
             "linkbutton": "",
             "linktext": "Mehr Infos",
             "textimageheading": "AUF PFERDEN DURCH DIE MONGOLEI",
@@ -134,7 +125,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/52.png",
-            "link": "",
+            "link": "shopify:\/\/pages\/island",
             "linkbutton": "",
             "linktext": "Mehr Infos",
             "textimageheading": "ISLAND SURVIVAL",
@@ -145,7 +136,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/2.png",
-            "link": "",
+            "link": "shopify:\/\/pages\/island-tour",
             "linkbutton": "",
             "linktext": "Mehr Infos",
             "textimageheading": "ISLAND TOUR",
@@ -170,6 +161,118 @@
         "background_color": "#ffffff",
         "background_button": "#efbc16",
         "background_color_text": "#030000"
+      }
+    },
+    "16602815824145cdee": {
+      "type": "adventure-slider",
+      "blocks": {
+        "8db6130a-5816-40be-80da-b2ca2e6f083c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/51.png",
+            "text-heading": "Auf Pferden durch die Mongolei",
+            "text": "Mongolische Steppe",
+            "url": "shopify:\/\/pages\/mongolei",
+            "urltext": "Mehr Infos",
+            "tag": "Ausgebucht",
+            "tagtextcolor": "#030000",
+            "tagcolor": "#de2a2a"
+          }
+        },
+        "aaad0697-5503-4324-b2f4-87b80f00b2c3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "text-heading": "ISLAND TOUR",
+            "text": "HORNSTRANDIR",
+            "url": "shopify:\/\/pages\/island-tour",
+            "urltext": "Mehr Infos",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "28b6aced-3b43-4e68-82e2-0689f0c979ad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/52.png",
+            "text-heading": "ISLAND SURVIVAL",
+            "text": "PANAMA",
+            "url": "shopify:\/\/pages\/island",
+            "urltext": "Mehr Infos",
+            "tag": "Nur noch 1 Platz",
+            "tagtextcolor": "#030000",
+            "tagcolor": "#d4af37"
+          }
+        },
+        "94610c70-2aec-450c-9e4f-17a7628b751f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/31.png",
+            "text-heading": "AMAZONAS EXPEDITION",
+            "text": "PERU",
+            "url": "shopify:\/\/pages\/peru",
+            "urltext": "Mehr Infos",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "2f96b5cf-fa65-4164-93e4-b60c89533be0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "text-heading": "PANAMA DSCHUNGEL TOUR",
+            "text": "DARIEN GAP",
+            "url": "shopify:\/\/pages\/panama-dschungel-tour",
+            "urltext": "Mehr Infos",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "b9b9c175-3b26-4327-a69f-9ffd96f57e02": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/53.png",
+            "text-heading": "MOLUKKEN EXPEDITION",
+            "text": "INDONESIEN",
+            "url": "shopify:\/\/pages\/molukken-abenteuer",
+            "urltext": "Mehr Infos",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "27945cc4-0991-4ea1-8b92-bcd88afc113e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_5f81694d-3c97-4010-bff7-d42bc0eefb11.png",
+            "text-heading": "SAHARA TOUR",
+            "text": "MAROKKO",
+            "url": "shopify:\/\/pages\/sahara",
+            "urltext": "Mehr Infos",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "8db6130a-5816-40be-80da-b2ca2e6f083c",
+        "aaad0697-5503-4324-b2f4-87b80f00b2c3",
+        "28b6aced-3b43-4e68-82e2-0689f0c979ad",
+        "94610c70-2aec-450c-9e4f-17a7628b751f",
+        "2f96b5cf-fa65-4164-93e4-b60c89533be0",
+        "b9b9c175-3b26-4327-a69f-9ffd96f57e02",
+        "27945cc4-0991-4ea1-8b92-bcd88afc113e"
+      ],
+      "settings": {
+        "image_background": "shopify:\/\/shop_images\/3_b8b55cf7-72e7-4527-8856-1ee2e963a250.png",
+        "section-heading": "ENTDECKE UNSERE AKTUELLEN ABENTEUER",
+        "imagetextcolor": "#ffffff",
+        "overlaybackground": 0.8,
+        "overlay_color": "#ffffff"
       }
     },
     "16590838846fb9a45a": {
@@ -384,6 +487,7 @@
       ],
       "settings": {
         "section_height": "small",
+        "heading_size": 22,
         "transition_type": "sweep",
         "autoplay": true,
         "cycle_speed": 5,
@@ -493,57 +597,25 @@
       ],
       "settings": {
         "section_height": "small",
+        "heading_size": 22,
         "transition_type": "sweep",
         "autoplay": true,
-        "cycle_speed": 5,
-        "background": "rgba(0,0,0,0)"
-      }
-    },
-    "16600002671c094577": {
-      "type": "slideshow",
-      "blocks": {
-        "1660000267a889337c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC08164.jpg",
-            "text_position": "middle_center",
-            "subheading": "Jetzt Entdecken",
-            "title": "Wanderhosen",
-            "button_1_text": "Männer",
-            "button_1_link": "",
-            "button_2_text": "Frauen",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "1660000267a889337c-0"
-      ],
-      "settings": {
-        "section_height": "medium",
-        "transition_type": "sweep",
-        "autoplay": true,
-        "cycle_speed": 5,
+        "cycle_speed": 10,
         "background": "rgba(0,0,0,0)"
       }
     }
   },
   "order": [
     "main",
-    "1659453820b3a78dc7",
+    "16600247046e76d556",
     "165908320304f9a6d4",
     "1659083248ec7e442b",
     "16593405519d479995",
+    "16602815824145cdee",
     "16590838846fb9a45a",
     "1659749780901481b8",
     "1659084086315c6a06",
     "16590840747c49f635",
-    "16597508388392f127",
-    "16600002671c094577"
+    "16597508388392f127"
   ]
 }

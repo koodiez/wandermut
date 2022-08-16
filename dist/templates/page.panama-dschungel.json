@@ -1,0 +1,729 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "165908476867615e27": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-536-1-scaled.jpg",
+        "subheading": "CROSSING THE DARIEN",
+        "title": "PANAMA DSCHUNGEL TOUR",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16597324032d20c495": {
+      "type": "multi-column",
+      "blocks": {
+        "16597324039b06677c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut_Flag_Maps_Icon_1fc96c00-59d7-4016-b561-188c2feae0bc.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ZIEL",
+            "content": "<p>DARIEN GAP<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/time-8-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DAUER",
+            "content": "<p>ca. 2 Wochen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/add-user-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNEHMER",
+            "content": "<p>Ca. 12 Perosnen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ZEITRAUM",
+            "content": "<p>JUNI 2022\/ JANUAR 2023<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16597324039b06677c-0",
+        "16597324039b06677c-1",
+        "16597324039b06677c-2",
+        "16597324039b06677c-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "small",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16591119933865cdff": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Varanus-reinerguentheri-1.jpg"
+      }
+    },
+    "165973950846941f6b": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_3.jpg",
+        "subheading": "",
+        "title": "DAS ZIEL",
+        "content": "<p>Unser Ziel ist es, den wohl berüchtigtsten Dschungel  der Welt zu durchqueren. Zusammen werden wir uns tagelang einen Pfad durch Ranken, Lianen und dichtes Gestrüpp schlagen, bis wir am Ende die Küste des pazifischen Ozeans erreichen.<\/p><p>Die Herausforderungen werden enorm vielfältig und hart sein. Doch, mit einem starken und motivierten Team wird es das Abenteuer unseres Lebens werden.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 83
+      }
+    },
+    "16597333594eb2be54": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF4504-1-scaled.jpg"
+      }
+    },
+    "16597389529fcbdf38": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/unsplash-boudhayan-bardhan-60tataLkJ0U-unsplash-1-scaled_1.jpg",
+        "subheading": "",
+        "title": "DER PLAN",
+        "content": "<p>DER PLAN<\/p><p>Wir werden in einem Dorf der Embera Indianer starten, welches wir nur mit dem Boot erreichen können. Ohne die Unterstützung von Einheimischen wäre unser Vorhaben unmöglich durchzuführen. Deshalb sind wir sehr dankbar dafür, dass uns einige aus dem indigenen Dorf begleiten werden. Sie werden uns dabei helfen uns im Dschungel zu orientieren, Wasser zu finden und den Pfad zu schlagen.<\/p><p>Der einzige Weg bis zur pazifischen Küste führt zu Fuß und mit schwerem Gepäck quer durch den dichten Dschungel. Was uns dazwischen erwartet, ist ungewiss. Um schneller voranzukommen versuchen wir oft auf  alten Schmuggler- oder Jagdpfaden zu laufen…sofern sie noch zu erkennen sind.<\/p><p>Wenn alles klappt, erreichen wir nach knapp zehn Tagen einen einsamen Strand an der pazifischen Küste Panamas. Dort können wir uns unter schattigen Palmen von den Strapazen im Dschungel erholen. <\/p><p>Im Herzen des Dschungels angekommen, errichten wir unser Forschungscamp und machen uns auf die Suche nach dem einzigartigen Reptil. Das Lager wird unsere Base sein, von der wir tagsüber in den Dschungel ausschwärmen. Alle Teammitglieder werden bei allen Aufgaben der Forschung, aber auch dem Suchen von Nahrung, Trinkwasser und Feuerholz gebraucht.<\/p><p>Wenn wir es nach hoffentlich erfolgreicher Mission wohlbehalten aus dem Dschungel geschafft haben, werden wir nicht nur mit neuen Entdeckungen und Erfahrungen belohnt: Es wartet dort eine kleine, palmenüberladene Tropeninsel auf uns. Hier erholen wir uns von den Strapazen der Expedition.<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 83
+      }
+    },
+    "1659740270b90d6f47": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "DIE HERAUSFORDERUNGEN",
+        "content": "<p>Die enorme Luftfeuchtigkeit von bis zu 90 % mit drückenden tropischen Tagestemperaturen von bis zu 32°C wird viele von uns an ihre Grenzen bringen. Daneben ist das Gelände sehr anspruchsvoll. Dauernd werden wir Hindernisse wie umgefallene Bäume, steile Abhänge und Flüsse überwinden müssen.<\/p><p>Besonders entlang der Flüsse müssen wir sehr achtsam sein, denn plötzliche Überflutungen sind keine Seltenheit. Dazu kommen gefährliche Raubkatzen oder giftige Schlangen. Unsere Guides wissen jedoch ganz genau, wie wir uns verhalten müssen, um sicher ans Ziel zu kommen.<\/p><p>Ein Risiko, das oftmals unterschätzt wird, ist das sogenannte „Jungle Rot“. Dabei handelt es sich um eine schmerzhafte Pilzinfektion, die die Füße bei andauernder Feuchtigkeit befallen kann. Wir kennen jedoch einfache Wege, um dies zu verhindern.<\/p><p>Um unser Ziel zu erreichen, müssen wir also einiges auf uns nehmen. Deswegen suchen wir echte Abenteurer, denn jeder, der Angst hat nass zu werden oder nur entspannt durch den Dschungel wandern möchte, ist hier fehl am Platz.<\/p>",
+        "button_text": "WERDE TEIL DES TEAMS",
+        "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#030000",
+        "overlay_opacity": 81
+      }
+    },
+    "16598775101070ffc6": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF3893-scaled.jpg"
+      }
+    },
+    "16591666827362880b": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166682e18926ec-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Historischer Hintergrund",
+            "content": "<p>Vielen sind tolle Sehenswürdigkeiten wie der Panama Kanal oder auch die beeindruckende Stadt Panama City bekannt, doch nur die wenigsten haben je etwas vom wilden Dschungel des Darien gehört. Es ist der südlichste Teil Panamas, der Mittel- und Südamerika miteinander verbindet.<\/p><p>Der Darien war die erste Region des Festlandes, das von den Spaniern kolonialisiert wurde. Historisch gesehen müsste es demnach eines der bevölkerungsreichsten Gebiete ganz Amerikas sein. Doch genau das Gegenteil ist eingetreten. Bis heute sind weite Teile des Dariens vollkommen unerschlossen und genauso wild, wie vor hunderten von Jahren. In den 80er Jahren formierten sich hier die Guerilla-Bewegungen. Vorrangig auf kolumbianischer Seite waren einige Opfer durch die Bewegungen zu beklagen. Allerdings wurde vor einigen Jahren ein Friedensvertrag zwischen den Aufständischen und der Regierung unterzeichnet.<\/p><p>Seither hat sich die Lage merklich beruhigt. Rick, unser wichtigster Guide, hatte in den letzten 20 Jahren keine Schwierigkeiten während diverser Touren auf der panamaischen Seite im Darien. Das liegt zum Einen daran, dass die kolumbianische Grenze weiter entfernt ist und zum Anderen an seinem langjährigen Erfahrungsschatz.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Der Dschungel",
+            "content": "<p>Nichts wird so aussehen, wie wir es kennen und für jeden von uns wird es eine vollkommen neue Erfahrung werden. Unsere Route wird uns fernab der Zivilisation durch die verschiedensten Vegetationen führen. Mehr als 2.000 verschiedene Tropenpflanzen sind hier beheimatet. Anfangs wird der Wald sehr tropisch sein. An vielen Stellen ist er extrem dicht und durchzogen von Lianen, Ranken und riesigen Wurzeln, sodass man kaum weiter als drei Meter ins Unterholz blicken kann.<\/p><p>Unsere Route wird immer wieder von kleinen Gebirgen und Flüssen durchkreuzt werden. Unterwegs werden wir also immer wieder Flüsse durchqueren, steile Abhänge überwinden und uns durchs Unterholz kämpfen müssen. An anderen Stellen öffnet sich der Wald wiederum und lässt nachts einen sagenhaften Blick auf die Sterne frei. Je weiter wir in Richtung des pazifischen Ozeans kommen desto stärker werden wir auch eine Veränderung der Vegetation spüren. Hier wird aus dem tropischen Regenwald ein Trockenwald. Weiter nördlich unserer Route finden sich sogar Savannen.<\/p><p>Über viele der exotischen Tierarten ist wenig bekannt, auch vermuten Wissenschaftler hier weitere, bisher unentdeckte Spezies. So machte beispielsweise letztes Jahr die Entdeckung der „Wallace-Riesenbiene“ auf Halmahera weltweit Schlagzeilen – ebenfalls eine der „25 Lost Species“.<\/p><p>Der Silberwaran ist also nicht die einzige Entdeckung, die wir im Regenwald von Halmahera machen können!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166682e18926ec-0",
+        "1659166682e18926ec-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "DER DARIEN GAP",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16598776592755fb88": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "DIE TIERWELT",
+        "content": "<p>Vor rund 2,5 Millionen Jahren waren Nord- und Südamerika noch zwei getrennte Kontinente. Als sich die Landbrücke über die Jahre hinweg schloss, hatten Tiere, die sich vollkommen isoliert voneinander entwickelt hatten, die Möglichkeit in zuvor unerreichbares Land vorzudringen.<\/p><p>Vor allem im heutigen Panama und dort im Darien führte es dazu, dass die Artenvielfalt atemberaubend hoch ist. Unter anderem deswegen wurde der Darien von der UNESCO zum Weltkulturerbe ernannt.<\/p><p>Nahezu alle Tierarten Südamerikas aber auch viele Nordamerikas, wie der Puma oder das Gürteltier, sind im Darien vertreten. Dazu kommen Ameisenbären, Tukane, verschiedenste Affenarten (u.a. Brüllaffen), Faultiere, extrem seltene Ozelots, über 300.000 Insektenarten, Schlangen und vieles mehr. Es wurde sogar eine Froschart dokumentiert, deren Haut durchsichtig ist, sodass man direkt auf die Organe schauen kann.<\/p><p>Diese und viele weitere Arten sind sehr selten und teilweise nur dort zu finden. Daher legen wir wert auf einen respektvollen Umgang. Welche Tiere wir zu sehen bekommen, ist natürlich ungewiss. Sie warten schließlich nicht auf uns! 😉<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "16591666662bd4da67": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Urwaldtrekking-1.jpg"
+      }
+    },
+    "1660544060efdf73ff": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_6.jpg",
+        "subheading": "",
+        "title": "DIE KULTUR",
+        "content": "<p>DIE KULTUR<\/p><p>Unsere Begleiter werden Mitglieder des Stammes der Embera sein. Das alte indigene Volk zählt in Panama nahezu 7.000 Menschen, wobei ihre Sprache „Embera“, die zur Familie der Chocó gehört, von ca. 60.000 bis 110.000 Menschen gesprochen wird. Mittlerweile leben sie vermehrt in größeren Siedlungen.<\/p><p>An der Spitze jedes Stammes steht immer ein Häuptling und ein Medizinmann. Viele von ihnen leben nach wie vor sehr traditionell, wenngleich sich ihre Art zu leben in den letzten Jahren sehr verändert hat. Sie pflegen ihre Traditionen mit ihren Tänzen, den Bemalungen oder ihrer Handwerkskunst und doch sind die Einflüsse der Zivilisation nicht unbemerkt an ihnen vorübergezogen.<\/p><p>Das Wichtigste dabei ist, dass sie uns gegenüber aufgeschlossen sind und uns willkommen heißen. Von ihnen können wir in der Wildnis lernen zu fischen, Spuren zu lesen oder wie wir uns im Dschungel orientieren können. Außerdem wird abends im Camp Zeit zum Erzählen sein. So können wir alles über ihre alten Bräuche und ihre Geschichte erfahren.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 80
+      }
+    },
+    "1659166921576383f9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-23.jpg"
+      }
+    },
+    "1659166849897f437b": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166848ef083972-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "VERLETZUNGEN & ERKRANKUNG",
+            "content": "<p>Bei leichteren Verletzungen, wie Verstauchungen oder kleineren Wunden wird unsere umfangreiche Notfall-Apotheke ausreichen. Giftige Tiere, wie Schlangen gibt es natürlich auch. Diese werden wir jedoch nur extrem selten zu Gesicht bekommen. Im äußersten Notfall wird per Satellitentelefon ein Signal gesendet.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166848ef083972-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ORIENTIERUNGSVERLUST",
+            "content": "<p>Dank unseren lokalen Guides ist die Wahrscheinlichkeit, dass wir uns verirren sehr gering. Dazu kommt, dass wir uns mit modernster Technik ausgestattet sind. Geräte wie das Garmin inReach Mini, ein GPS-Gerät, helfen uns nicht nur unsere Position zu bestimmen, sondern ermöglichen uns auch rund um die Uhr mit international tätigen Rettungsorganisationen zu kommunizieren.  <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166848ef083972-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "KRIMINALITÄT",
+            "content": "<p>Rick, unser wichtigster Guide, hat aufgrund seiner Kontakte und seiner Erfahrung in den letzten 20 Jahren keine Probleme mit Schmugglern oder sonstigen Kriminellen gehabt. Sollte es dennoch Anzeichen solcher Gefahren geben, werden wir die Route ändern oder umkehren. Zudem meiden wir das direkte Grenzgebiet zu Kolumbien und den Osten des Darien. Alles andere wäre leichtsinnig.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166848ef083972-0",
+        "1659166848ef083972-1",
+        "1659166848ef083972-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "SICHERHEIT",
+        "content": "<p>Obacht, das Erreichen unseres Ziels sowie der Verlauf der gesamten Tour sind ungewiss. Sie enthält Risiken für die körperliche Unversehrtheit und auch die Wahrscheinlichkeit von Unfällen ist deutlich höher als bei Pauschalreisen.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16591669413d6027dd": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166941e486a1ec-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MARTIN",
+            "content": "<p><strong>organisiert diese Tour im Vorfeld<\/strong><\/p><p>Martin ist Mitgründer von Wandermut. Er war schon in der Sahara, im Amazonas und vielen weiteren Touren dabei und kennt sich bestens mit dieser Tour aus.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166941e486a1ec-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Expedition-Darien-Gap-2019-Rick.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "RICK MORALES",
+            "content": "<p><strong>führt die Tour vor Ort durch<br\/><\/strong><\/p><p>Rick ist unser wichtigster Mann und ein absoluter Profi. Er ist in Panama geboren und leitet seit über 20 Jahren Touren und Expeditionen durch das Gebiet. Den panamaischen Dschungel kennt er wie kein anderer. Dabei findet er sich sowohl in Wüsten als auch auf schneebedeckten Bergen zurecht. Nebenher bildet er professionelle Guides speziell für die Wildnis in Mittel- und Südamerika aus. Damit ist er der beste Guide, den wir uns wünschen könnten.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166941e486a1ec-0",
+        "1659166941e486a1ec-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "WIR SIND WANDERMUT",
+        "title": "WER MACHT DENN SOWAS?",
+        "content": "<p>Unser Ziel ist es, die verrücktesten Abenteuer in die Tat umzusetzen. Herausfordernde Landschaften und abgelegene Gebiete fernab des Massentourismus ziehen uns magisch an. Dabei scheuen wir weder körperliche Anstrengung, noch die Gefahren. Zusammen mit Gleichgesinnten brechen wir auf, um Abenteuer hautnah zu erleben, die sich sonst kaum einer traut.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659167042b58da512": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unsplash-boudhayan-bardhan-60tataLkJ0U-unsplash-1-scaled_1.jpg"
+      }
+    },
+    "16597407557412a78d": {
+      "type": "multi-column",
+      "blocks": {
+        "1659740755753e25a9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TERMIN",
+            "content": "<p>05. Januar – 16. Januar 2023 <\/p><p>24. Januar – 4. Februar 2023<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downloads.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNAHMBEITRAG",
+            "content": "<p>DER TEILNAHMEBEITRAG FÜR DIE DSCHUNGELTOUR LIEGT BEI  <strong>3.643 EURO<\/strong><\/p><p><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anforderung_Icon_b008f061-6182-48e4-9dff-58ab9b800a93.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ANFORDERUNGEN",
+            "content": "<p>Hohe körperliche Belastbarkeit in tropischen Gebieten, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659740755753e25a9-1",
+        "1659740755753e25a9-0",
+        "1659740755753e25a9-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WICHTIGE HARD FACTS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16591670606142721f": {
+      "type": "faq",
+      "blocks": {
+        "16591670600498d9d8-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist dabei und was nicht",
+            "answer": "<p><strong>DABEI SIND:<\/strong><\/p><p>✓ Unterkünfte ab Tourstart bis in den Dschunge<\/p><p>✓ Zelte<\/p><p>✓ Guides<\/p><p>✓ Koch-, Sicherheits- und Expeditions-Equipment<\/p><p>✓ GPS-Geräte und Satellitentelefon<\/p><p>✓ Wissenschaftliches Equipment<\/p><p>✓ Verpflegung während der Expedition<\/p><p><strong>NICHT DABEI SIND<\/strong><\/p><p>☓ Flüge nach Ternate<\/p><p>☓ Unterkünfte in Ternate bis zum Start der Expedition<\/p><p>☓ Restaurantbesuche und alkoholische Getränke<\/p>"
+          }
+        },
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad": {
+          "type": "question",
+          "settings": {
+            "title": "WEN NEHMEN WIR MIT?",
+            "answer": "<p><strong>Die Tour ist nichts für Weicheier.<\/strong><br\/>Wer hier mitkommt und die Strecke durch den Dschungel meistert, kann von sich behaupten, etwas gemacht zu haben, was sonst keiner macht. Natürlich sind nur die Wenigsten vorher schon einmal bei so einer Tour dabei gewesen. Das ist auch nicht schlimm! Grundsätzlich kann jeder, der wirklich sportlich ist, genug „Biss“ hat und sich gut vorbereitet, bei der Tour mithalten. Mach doch mal unseren <a href=\"https:\/\/www.wandermut.de\/selbsttest\" target=\"_blank\">Selbsttest<\/a>, wenn du unsicher bist. Bei der Vorbereitung unterstützen wir selbstverständlich und stehen mit Rat und Tat zur Seite. Generell entscheiden wir neben allen anderen Kriterien auch nach Bauchgefühl, wen wir mitnehmen können und wen nicht. Letztendlich wollen wir ein tolles Team zusammen bekommen, mit dem es einfach Spaß macht unterwegs zu sein.<\/p><p><strong>Motivation und Erwartungshaltung sind uns am wichtigsten!<\/strong><br\/>Dazu gehört für uns, dass du mit der richtigen Erwartung an die Tour herangehen musst. Es kann über viele Tage hinweg sehr anstrengend, schmutzig und ermüdend werden. Auch ein hungriger Magen wird nicht ausbleiben. Dazu kommt, dass es vor Ort immer zu nicht planbaren Veränderungen kommt. Du solltest also ein gewisses Maß an Flexibilität, kulinarischer Genügsamkeit und einen ruhigen Geist mitbringen. Wenn es das ist, was du willst, bist du bei uns verdammt richtig.<\/p><p><strong>Englisch<\/strong><br\/>Rick wird das Team anführen. Er spricht fließend Englisch und Spanisch. Du solltest also in der Lage sein zumindest einfache Anweisungen in einer der beiden Sprachen zu verstehen.<\/p>"
+          }
+        },
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808": {
+          "type": "question",
+          "settings": {
+            "title": "KÖRPERLICHE ANFORDERUNGEN",
+            "answer": "<p><strong>Es wird anstrengend!<\/strong><\/p><p>Pro Tag schaffen wir im Dschungel nur sehr kurze Distanzen, die jedoch vergleichbar mit einer 25 km langen Bergwanderung mit bis zu 1000 Höhenmetern sind. Wir laufen von Sonnenaufgang bis Sonnenuntergang, was ungefähr 12 Stunden entspricht, jedoch an manchen Tagen mehr sein kann. Während der gesamten Tour musst du in der Lage sein einen Rucksack mit ca. 22 kg tragen zu können. Wir erwarten also von dir, dass du trittfest und in der Lage bist, in schnellem Marschtempo durch unebenes Gelände zu laufen. Das setzt voraus, dass du unsere Empfehlungen für die Vorbereitung ernst nimmst 😉<\/p><p>Wenn das alles passt, wird es eine Erfahrung werden, von der du noch deinen Enkeln berichten wirst.<\/p><p>Für den Ernstfall haben wir auch ein Satellitentelefon dabei, um eine Evakuierung anzufordern. Wir müssen jedoch mit Verzögerungen und Komplikationen bei einer Bergung rechnen, da wir den Weg aus dem Dschungel zurück laufen müssen. Helikopter gibt es keine. Ein einfacher Abbruch der Expedition oder „mal eben“ evakuieren lassen, ist nicht möglich.<\/p>"
+          }
+        },
+        "79baee20-0f05-45f6-9e2f-b1f6267d190b": {
+          "type": "question",
+          "settings": {
+            "title": "WER ORGANISIERT DIE AN- UND ABREISE?",
+            "answer": "<p>Wir beraten dich natürlich bei allen Vorbereitungen. Deine Anreise und die Ausrüstung musst du dennoch eigenständig organisieren.<\/p><p><a href=\"https:\/\/www.visitpanama.com\/information\/travel-guidelines\/\" target=\"_blank\">Hier<\/a> findest du vorab ein paar nützliche Infos zur Einreise. Außerdem solltest du immer auch das Auswärtige Amt im Blick behalten. <\/p><p>Für die Ausrüstung wird es von uns noch eine ausführliche Empfehlungen geben. Vor und nach der Tour empfehlen wir, dass du unbedingt ein paar Puffertage einplanst. Die kannst du dann auch nutzen, um die Gegend zu erkunden.<\/p>"
+          }
+        },
+        "29fbacdc-2bb3-4164-a38e-83081a9799da": {
+          "type": "question",
+          "settings": {
+            "title": "WO WERDEN WIR SCHLAFEN?",
+            "answer": "<p>WO WERDEN WIR SCHLAFEN?Im Dschungel werden wir die gesamte Zeit über in Hängematten schlafen. Diese werden wir für dich organisieren. Die Matten sind sehr bequem und haben außerdem den Vorteil, dass man den Kontakt zum Boden meiden kann. Auf diese Weise schützen wir uns nachts vor ungebeten Gästen wie Schlangen. Die Hängematten bereits mit Moskitonetzen ausgestattet, sodass auch ungebetene, fliegende Gäste vermieden werden.<\/p>"
+          }
+        },
+        "a4e4ad01-66da-4080-adb6-6a6c25c46cfc": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU TRINKEN?",
+            "answer": "<p>Unsere Guides werden uns helfen Flüsse oder Lagunen zu finden, an denen wir unsere Frischwasservorräte auffüllen können. Um Krankheiten, die uns schwächen würden, vorzubeugen, filtern und desinfizieren wir das Wasser, bevor wir es trinken.<\/p>"
+          }
+        },
+        "4d0f4c7e-52cf-4520-b1ce-0cbc352ef1b4": {
+          "type": "question",
+          "settings": {
+            "title": "WIE UNTERSTÜTZEN WIR DIE FORSCHUNG?",
+            "answer": "<p>Wir werden vor Ort, angeleitet durch Michael, eine Art Tagebuch führen. Dafür arbeiten wir mit entsprechenden Formularen, in denen wir relevante Daten wie Temperatur, Höhe, Luftfeuchtigkeit, etc. sammeln werden. Dadurch bekommen wir am Ende ein besseres Bild vom Habitat des gesuchten Warans uns seinen Verwandten. Alle gesammelten Daten inkl. Fotos werden wir am Ende an den Evolutionsbiologen Dr. André Koch weiterreichen, der diese für seine wissenschaftliche Arbeit nutzen kann.<\/p>"
+          }
+        },
+        "937c4112-bda4-448a-846c-75db524929cc": {
+          "type": "question",
+          "settings": {
+            "title": "UMWELTSCHUTZ",
+            "answer": "<p>Uns ist es wichtig, dass wir den Regenwald so verlassen wie wir ihn vorgefunden haben. Bedenke also bitte, dass Dinge, die nicht verrotten (z.B. feuchtes Toilettenpapier) wieder mitgenommen werden müssen. Außerdem werden wir stark darauf achten ruhig zu sein, um die dort lebenden Tiere nicht zu stören.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16591670600498d9d8-1",
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad",
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808",
+        "79baee20-0f05-45f6-9e2f-b1f6267d190b",
+        "29fbacdc-2bb3-4164-a38e-83081a9799da",
+        "a4e4ad01-66da-4080-adb6-6a6c25c46cfc",
+        "4d0f4c7e-52cf-4520-b1ce-0cbc352ef1b4",
+        "937c4112-bda4-448a-846c-75db524929cc"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FRAGEN UND ANTWORTEN",
+        "content": "",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659167555c1fbcd40": {
+      "type": "multi-column",
+      "blocks": {
+        "1659167555cca07099-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1: BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2: AUF ZUSAGE WARTEN",
+            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3: PLATZ SICHERN",
+            "content": "<p>Wenn von unserer Seite alles passt, bekommst du den Platz im Team.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "2bc8f469-bed1-4774-93f4-f33f0d463bb7": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "4: AUSRÜSTUNG BESORGEN",
+            "content": "<p> …und die Vorfreude genießen!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "5: FLÜGE BUCHEN",
+            "content": "<p> …und los gehts!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659167555cca07099-0",
+        "1659167555cca07099-1",
+        "1659167555cca07099-2",
+        "2bc8f469-bed1-4774-93f4-f33f0d463bb7",
+        "1659167555cca07099-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#d4af37"
+      }
+    },
+    "16591676412d8cc68f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659167641c39da9ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "tab_label": "",
+            "subheading": "",
+            "title": "SICHERE DIR EINEN PLATZ",
+            "content": "<p><strong>Stelle dir folgende Fragen, wenn du dabei sein willst:<\/strong><\/p><p>Kann ich die Zähne zusammenbeißen, wenn die Tropen dich quälen und die nächste Pause auf sich warten lässt?<\/p><p>Habe ich überhaupt Zeit und3.643 Euro für die Tour? Wir fragen im Bewerbungsformular Termine ab und schauen, wann die meisten können.<\/p><p>Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
+            "button_text": "Jetzt bewerben",
+            "button_link": "https:\/\/wandermut.de\/bewerbung"
+          }
+        }
+      },
+      "block_order": [
+        "1659167641c39da9ab-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#dfdfdf",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 5,
+        "accent_background": "#030000",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#030000",
+        "background_section_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165908476867615e27",
+    "16597324032d20c495",
+    "16591119933865cdff",
+    "165973950846941f6b",
+    "16597333594eb2be54",
+    "16597389529fcbdf38",
+    "1659740270b90d6f47",
+    "16598775101070ffc6",
+    "16591666827362880b",
+    "16598776592755fb88",
+    "16591666662bd4da67",
+    "1660544060efdf73ff",
+    "1659166921576383f9",
+    "1659166849897f437b",
+    "16591669413d6027dd",
+    "1659167042b58da512",
+    "16597407557412a78d",
+    "16591670606142721f",
+    "1659167555c1fbcd40",
+    "16591676412d8cc68f"
+  ]
+}

@@ -19,7 +19,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "reveal_on_scroll": true,
-        "section_height": "medium",
+        "section_height": "small",
         "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_10.jpg",
         "subheading": "",
         "title": "OUTDOOR BEKLEIDUNG",
@@ -35,24 +35,6 @@
         "button_text_color": "#000000",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "165989592448c2aa01": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "Gemacht für Abenteuer und Zeit in der Natur",
-        "content": "<p>Wir alle müssen den vollen Straßen, den lärmenden Menschenmengen und dem ständigen Klingeln unserer Smartphones von Zeit zu Zeit entgehen. Wann immer du dich in der Wildnis verlieren willst, bringt dich unsere Outdoor-Kleidung für Herren dorthin. Wir verwenden hochwertige Materialien von ausgewählten Lieferanten, um sicherzustellen, dass unsere Kleidung harten Witterungsbedingungen standhält und jahrelang funktionstüchtig bleibt. Die hervorragende Passform, die kräftigen Farben und der günstige Preis sind dabei eine Selbstverständlichkeit.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#dfdfdf",
-        "text_color": "#030000",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
       }
     },
     "main": {
@@ -174,6 +156,24 @@
         "label": "Shop the looks"
       }
     },
+    "165989592448c2aa01": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Gemacht für Abenteuer und Zeit in der Natur",
+        "content": "<p>Wir alle müssen den vollen Straßen, den lärmenden Menschenmengen und dem ständigen Klingeln unserer Smartphones von Zeit zu Zeit entgehen. Wann immer du dich in der Wildnis verlieren willst, bringt dich unsere Outdoor-Kleidung für Herren dorthin. Wir verwenden hochwertige Materialien von ausgewählten Lieferanten, um sicherzustellen, dass unsere Kleidung harten Witterungsbedingungen standhält und jahrelang funktionstüchtig bleibt. Die hervorragende Passform, die kräftigen Farben und der günstige Preis sind dabei eine Selbstverständlichkeit.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#dfdfdf",
+        "text_color": "#030000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
     "1659901534c0c15e45": {
       "type": "multi-column",
       "blocks": {
@@ -262,9 +262,9 @@
   "order": [
     "collection-banner",
     "1659895419d8b36191",
-    "165989592448c2aa01",
     "main",
     "1659896169e7058279",
+    "165989592448c2aa01",
     "1659901534c0c15e45"
   ]
 }

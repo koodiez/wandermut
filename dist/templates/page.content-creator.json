@@ -1,0 +1,382 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16606297370bba3ac7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-733-2_1.jpg",
+        "subheading": "BEWIRB DICH ALS",
+        "title": "CONTENT CREATOR (M\/W\/D)",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16606298386e9129c5": {
+      "type": "multi-column",
+      "blocks": {
+        "16606298389cf06719-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kisspng-alarm-clocks-computer-icons-clip-art-timer-clock-svg-png-icon-free-download-4-7929-onlin-5b6bff319d04d5.4179051215338043376432.png",
+            "image_width": 25,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "UMFANG",
+            "content": "<p>Vollzeit<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16606298389cf06719-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/location-png-icon-location-icon-png-free-11562933803vththezlcl.png",
+            "image_width": 25,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "STANDORT",
+            "content": "<p>Büro in Köln. Home Office möglich<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16606298389cf06719-1",
+        "16606298389cf06719-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "HARD FACTS",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1660629944b14f4b69": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/DSC08164.jpg",
+        "subheading": "",
+        "title": "DEINE MISSION",
+        "content": "<p>Wir planen die exotischsten Abenteuer der Welt. Dein Job ist es, den abenteuerlichsten Content zu erschaffen. Wir sammeln unendlich viel Material auf unseren Touren, leider bekommt dies niemand zu sehen. Daher suchen wir dich, um die spannendsten Geschichten für, Reels, Stories, TikToks, YouTube Videos und Instagram Posts zu verpacken. Und wer weiß, wenn das gut klappt, schicken wir dich auch selbst mit auf Tour, um eigenen Content zu schaffen.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 85
+      }
+    },
+    "16606300047644727e": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/P1060589.jpg"
+      }
+    },
+    "166063002285f205d7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_9.jpg",
+        "subheading": "",
+        "title": "DEINE AUFGABEN",
+        "content": "<p>DEINE AUFGABEN<\/p><p>Du schneidest Videos und bearbeitest Fotos für alle gängigen Social Media Kanäle.<\/p><p>Mit deinem Content baust du organisch die Reichweite unserer Kanäle auf und übernimmst die Verantwortung für diese Channel. <\/p><p>Du überlegst dir Kooperationen mit anderen Creatorn aus dem Abenteuer-, Outdoor- und Reise-Umfeld.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#030000",
+        "overlay_opacity": 85
+      }
+    },
+    "166063007605c5fbee": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_5.jpg"
+      }
+    },
+    "166063009945d4d0ee": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Husky_Expedition_Kostroma_2017_606.jpg",
+        "subheading": "",
+        "title": "DAS SOLLTEST DU MITBRINGEN:",
+        "content": "<p>✔ Du hast bereits einen Account um mehr als 50k Follower gesteigert<\/p><p>✔ Du verstehst die Algorithmen der Plattformen und behältst neueste Entwicklungen im Auge<\/p><p>✔ Du hast selbst Abenteuer im Blut und weißt, worauf die Leute anspringen.<\/p><p>✔ Du bekommst schon mit dem ersten Satz die volle Aufmerksamkeit und fesselst die Audience.<\/p><p>✔ Du schneidest Kurz-Videos im Handumdrehen und kannst mehrere davon am Tag produzieren.<\/p><p>✔ Im Idealfall bringst du laufend Ideen für neue Content-Formate mit ein.<\/p><p>✔ Du bist fit genug, damit wir dich auf Expeditionen schicken können.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 84
+      }
+    },
+    "1660630145f1b3d13e": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vision-9.0.jpg"
+      }
+    },
+    "16606303200b21729a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-2.jpg",
+        "subheading": "",
+        "title": "WAS WIR DIR BIETEN:",
+        "content": "<p>Abenteuer! Wir haben ein paar Kriterien dafür, aber die Chancen stehen gut, dass du dich bald in der Wüste oder an einem anderen Ort in der Welt wiederfinden wirst!<\/p><p>Arbeiten vom Homeoffice ist natürlich möglich, wobei du vermutlich lieber ins Büro kommen wirst.<\/p><p>Du siehst deine Ergebnisse sofort und übernimmst Verantwortung. <\/p><p>Abenteuer! Wir haben ein paar Kriterien dafür, aber die Chancen stehen gut, dass du dich bald in der Wüste oder an einem anderen Ort in der Welt wiederfinden wirst!<\/p><p>Unser Büro in Wohnzimmer-Atmosphäre liegt direkt am Brüsseler Platz im Herzen von Köln.<\/p><p>Technische Ausstattung mit neuesten Apple ProduktenWir sind ein kleines Startup mit flachen Hierarchien, hochmotivierten Kollegen, die wirklich etwas bewegen wollen.<\/p><p>Du wirst wirklich gebraucht. Das bedeutet, dass du die Chance hast in einem kleinen Startup wirklich etwas zu bewegen. <\/p><p>Du wirst den Erfolg deiner Arbeit sehen.<\/p><p>Wir versorgen dich mit Kaffee und kalten Getränken.Es wird regelmäßige (Outdoor) Teamevents geben.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "1660630453bab23fed": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC08164.jpg"
+      }
+    },
+    "16606304699199a51e": {
+      "type": "multi-column",
+      "blocks": {
+        "16606304699090efc7-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1: BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich online<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16606304699090efc7-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2: KONTAKT",
+            "content": "<p>Wir werden uns mit dir in Verbindung setzen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16606304699090efc7-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3: WILLKOMMEN IM TEAM",
+            "content": "<p>Wenn von beiden Seiten alles passt, startest du durch!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16606304699090efc7-0",
+        "16606304699090efc7-1",
+        "16606304699090efc7-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16606305863cbb6f44": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "ZUR BEWERBUNG",
+        "button_link": "https:\/\/wandermut.typeform.com\/to\/l8HOZDBL?typeform-source=wandermut.de",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#030000",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#d4af37",
+        "button_text_color": "#030000"
+      }
+    },
+    "166063063296c49e7e": {
+      "type": "multi-column",
+      "blocks": {
+        "16606306328b979123-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MARTIN DRUSCHEL",
+            "content": "<p><strong>Gründer von Wandermut<\/strong><\/p><p>Es gibt mittlerweile viel im Hintergrund zu organisieren, sodass wir selbst nicht mehr bei jeder Tour dabei sein können. Deswegen freuen wir uns auf Verstärkung!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16606306328b979123-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut-Amazonas-Expedition-Tom-Schinker.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TOM SCHINKER",
+            "content": "<p><strong>Gründer von Wandermut<br\/><\/strong><\/p><p>In der letzen Zeit sind so viele neue Abenteuer dazugekommen. Nun brauchen wir starke Teamleiter, denen wir die Teams anvertrauen können. Melde dich, wenn du Bock auf den besten Job der Welt hast.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16606306328b979123-0",
+        "16606306328b979123-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "DEINE ANSPRECHPARTNER",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "#2e2e2e",
+        "text_color": "#ffffff"
+      }
+    },
+    "1660630746bb9f97be": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "ANDERE JOBS ANSEHEN",
+        "button_link": "shopify:\/\/pages\/jobs",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#030000",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#dfdfdf",
+        "button_text_color": "#030000"
+      }
+    },
+    "1660630799a675672a": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/youtu.be\/w1rQfmPirQE",
+        "background_type": "boxed",
+        "video_size": "medium",
+        "autoplay": true,
+        "background": "#030000",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16606297370bba3ac7",
+    "16606298386e9129c5",
+    "1660629944b14f4b69",
+    "16606300047644727e",
+    "166063002285f205d7",
+    "166063007605c5fbee",
+    "166063009945d4d0ee",
+    "1660630145f1b3d13e",
+    "16606303200b21729a",
+    "1660630453bab23fed",
+    "16606304699199a51e",
+    "16606305863cbb6f44",
+    "166063063296c49e7e",
+    "1660630746bb9f97be",
+    "1660630799a675672a"
+  ]
+}

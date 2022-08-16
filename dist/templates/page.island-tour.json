@@ -1,0 +1,723 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "165908476867615e27": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-08-15_160121.png",
+        "subheading": "HORNSTRANDIR 2022",
+        "title": "ISLAND TOUR",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16597324032d20c495": {
+      "type": "multi-column",
+      "blocks": {
+        "16597324039b06677c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut_Flag_Maps_Icon_1fc96c00-59d7-4016-b561-188c2feae0bc.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LAND",
+            "content": "<p>ISLAND<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/time-8-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DAUER",
+            "content": "<p>ca. 2 Wochen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/add-user-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNEHMER",
+            "content": "<p>Ca. 12 Perosnen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ZEITRAUM",
+            "content": "<p>SEPTEMBER 2022<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16597324039b06677c-0",
+        "16597324039b06677c-1",
+        "16597324039b06677c-2",
+        "16597324039b06677c-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "small",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16591119933865cdff": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image2.jpg"
+      }
+    },
+    "165973950846941f6b": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/image2.jpg",
+        "subheading": "",
+        "title": "DAS ZIEL",
+        "content": "<p>Unser Ziel ist es, fernab von Touristen den einsamsten und nördlichsten Teil Islands zu durchwandern.<\/p><p>Und das zu einer Jahreszeit, wenn aufgrund der rauen Wetterbedingungen niemand außer uns mehr so verrückt ist dort oben unterwegs zu sein! Dann, wenn Regen, Wind, Schnee und Matsch unsere ständigen Begleiter sein werden.<\/p><p>Alleinig zu Fuß lässt sich über Land die schroffe Szenerie der Halbinsel Hornstrandirs erreichen. Dieser abgelegene nördliche Teil der Vulkaninsel ist weitestgehend unberührt. Selbst die wenigen Fischer, die es versucht haben dort Fuß zu fassen, mussten langfristig aufgeben oder sind weggezogen. Ein Rückbleibsel von ihnen sind ihre alten Fischerhäuser oder auch eine ehemalige, verlassene US-Militärstation.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 80
+      }
+    },
+    "16597333594eb2be54": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Andi-DSC_0485-scaled.jpg"
+      }
+    },
+    "16597389529fcbdf38": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Simon-DSC_1896-scaled.jpg",
+        "subheading": "",
+        "title": "DER PLAN",
+        "content": "<p>Der Plan sieht vor hoch in den Norden vorzudringen. Dazu müssen wir uns zunächst mit einem Boot zum Startpunkt bringen lassen. Zu dieser Zeit ist die See schon sehr rau. Ein ordentlicher Wellengang ist also nicht auszuschließen. Entlang der schroffen Küste führt die Route über hundert Kilometer bis in den letzten Zipfel der Landzunge. Gigantische Steilklippen direkt am Meer, dahinter glitzern riesige Eisfelder. Strapazen und Stürme sind vorprogrammiert.<\/p><p>Dabei sind wir auf uns allein gestellt. Das bedeutet, dass wir alles, was wir in der Zeit benötigen selbst tragen müssen. Dazu gehören Zelte, das Küchenequipment und die komplette Verpflegung. Jedes Teammitglied wird Aufgaben während der Tour bekommen, denn nur im Team sind die Herausforderungen zu meistern. Davon birgt der Plan einige und nur wenige Guides sind in der Lage uns über die schwierige Route zu führen.<\/p><p>Wenn alles gut geht, werden wir nach knapp zwei Wochen wieder in der Zivilisation ankommen.<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "1659740270b90d6f47": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Simon-DSC_1717-scaled.jpg",
+        "subheading": "",
+        "title": "DIE HERAUSFORDERUNGEN",
+        "content": "<p>Ein isländisches Sprichwort besagt, dass es nie eine Königin oder einen König auf Island brauchte, denn der Wind regiert seit jeher auf der Insel.<\/p><p>Da ist was dran und wir sagen es gleich vorab: Diese Tour hat nichts mit einer entspannten Wanderung gemein. Wir schlagen uns völlig autark durch eine der rauesten und abgelegensten Landschaften von Island. Das bedeutet auch, dass jedes Teammitglied sein eigenes Equipment trittsicher über lange Strecken und Bergpässe mit steilen Anstiegen tragen muss. Immer wieder werden wir Flüsse durchqueren und oder durch seichte Seen waten müssen und dabei knöcheltief im Schlamm versinken.. Timing ist alles, denn: Die Route führt uns entlang an von Felsen übersäten Stränden, die wir nur bei Ebbe queren können, hoch hinauf über die steilen Klippen und wieder hinab.<\/p><p>Eine weitere Herausforderung ist das Wetter. Lang anhaltende Regentage können das Terrain aufweichen und ein Vorankommen erschweren. Hinzu kommt, dass die Temperaturen zu dieser Jahreszeit selten mehr als zehn Grad betragen. Deswegen ist es sehr wichtig, perfekt ausgerüstet zu sein und jeden Abend einen geeigneten Lagerplatz zu finden, der uns vor dem starken Wind und der nächtlichen Kälte schützen kann. Nichtsdestotrotz kann es passieren, dass wir am nächsten Morgen völlig eingeschneit sind.<\/p><p>Unser Guide ist entscheidend für den Erfolg dieser Tour. Er weiß nicht nur, wie wir es sicher über Schnee und Steilklippen schaffen, er kennt auch die Eigenheiten des Gebiets wie kein anderer.<\/p>",
+        "button_text": "WERDE TEIL DES TEAMS",
+        "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#030000",
+        "overlay_opacity": 80
+      }
+    },
+    "16598775101070ffc6": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Simon-DSC_1739-scaled.jpg"
+      }
+    },
+    "16598776592755fb88": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "DAS GEBIET",
+        "content": "<p>Die Region Hornstrandir, das Ziel unserer Tour, liegt ganz im Norden von Island und ist bekannt für seine unbeschreiblichen Landschaften. Diese Gegend ist extrem bergig – die Steilklippen ragen gleich hinter der Küstenlinie so absurd in den Himmel, als drohten sie jeden Moment in den tosenden Ozean zu krachen.<\/p><p>Der Ausblick über das arktische Meer ist atemberaubend. Dazwischen ziehen unzählige Fjorde tiefe Schluchten weit ins Inland. Hier reihen sich bunte Blumen- und ewige Eisfelder in der kargen Tundra aneinander. Im Herbst ist die Landschaft am schönsten und einsamsten. Denn dann zeigt sich die Natur in all seiner Pracht: Die bizarren Felsen sind von buntem Moos überspannt, das Schmelzwasser bahnt sich lauthals seinen Weg durch das Unterholz und rauscht die Klippen hinab. Man sagt dem Gebiet auch „Das Ende der Welt“ nach. Auch Schnee kann es im Herbst schon geben!<\/p>",
+        "button_text": "",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "16591666662bd4da67": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Simon-DSC_1175-scaled.jpg"
+      }
+    },
+    "16605726060309a2be": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Simon-DSC_1636-scaled.jpg",
+        "subheading": "",
+        "title": "DIE TIERWELT",
+        "content": "<p>Das Gebiet bietet optimale Bedingungen für die große Population der Polarfüchse – nirgendwo sonst auf der Insel leben so viele dieser Tiere wie in diesem Gebiet. Ohne natürliche Feinde zeigen sie sich besonders zutraulich und haben keine Angst vor Menschen – wir müssen also nachts unsere Zelte mit unserem Proviant extrem gut verschließen! Auch Robben, die sich an der Küste suhlen, werden unsere ständigen Begleiter werden.<\/p><p>Aber auch andere Tiere profitieren von der Abgeschiedenheit der Natur. Das Geschrei von Millionen Seevögeln, die in den Felsnischen der Steilklippen nisten, wird zum täglichen Begleitsound. Eine von den unzähligen Arten ist der seltene Papageientaucher. Mit ein Glück werden wir sogar Buckelwale vor der Küste zu Gesicht bekommen.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 83
+      }
+    },
+    "1660572695d74e4297": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/image4.jpg",
+        "subheading": "",
+        "title": "DIE KULTUR",
+        "content": "<p>Island liegt weit abgeschieden und völlig isoliert im Nordatlantik und blieb lange unentdeckt. Erst im 9. Jahrhundert legten die ersten Schiffe der Wikinger hier an. Eine ihrer ersten Expeditionen führte sie genau auf die Halbinsel, die wir durchqueren werden. <\/p><p>Hornstrandir ist seit jeher berüchtigt, denn aufgrund des Grönlandstroms ist diese Halbinsel viel rauer, wilder und kälter als der Rest des Landes. Manch Mutiger versuchte hier eine Heimat zu finden. Man fand Überreste von Wikingern, auch Banditen flüchteten einst hierher. Bis in die 1950er Jahre trotzten tatsächlich einige tapfere Walfänger dem harten Leben auf der Halbinsel und unterhielten eine kleine Siedlung. Leuchttürme mussten ihnen den Weg entlang der Klippen weisen, und dennoch fand nicht jedes Boot durch die Fluten wieder an Land. Als der Walfang schließlich verboten wurde, hielt die Siedler hier nichts mehr.<\/p><p>Durch unseren Guide werden wir tiefe Einblicke in die Kultur Islands bekommen. Er kennt die vielen Sagen, die sich um diesen wilden Winkel Islands ranken. Noch heute spielen Elfen und Trolle eine wichtige Rolle auf der Insel. Denn eines ist sicher: Über die Jahrhunderte der Isolation hat das kreative Inselvölkchen es nicht nur gelernt, mit ihrer rauen Natur zu leben, sondern sich auch ihrer einzigartigen Lebensweise bewahrt.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 81
+      }
+    },
+    "1659166832699028e3": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20150923-DSC07588.jpg"
+      }
+    },
+    "1659166849897f437b": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166848ef083972-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "VERLETZUNGEN & ERKRANKUNG",
+            "content": "<p>In dieser Gegend Islands gibt es keinerlei Dörfer und somit auch keine ärztliche Versorgung. Für die Behandlung von leichteren Verletzungen wie Verstauchungen oder kleineren Wunden haben wir umfangreiches Erste-Hilfe-Equipment mit dabei.<\/p><p>Außerdem ist unser Guide ein Rescue- and Safety Experte und hat viel Erfahrung im Überleben in der Wildnis. Im Notfall müssen wir mit dem Satellitentelefon einen Notruf senden und uns mit dem Boot oder Hubschrauber evakuieren lassen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166848ef083972-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "EISBÄREN",
+            "content": "<p>Etwa alle zehn Jahre passiert es, dass Eisbären auf Eisschollen von Grönland mit der Strömung hertreiben und nach Wochen auf See in der Region Hornstrandir erstmals vollkommen ausgehungert auf Land treffen. Eine Begegnung mit einem solchen Tier wäre sehr gefährlich. <\/p><p>Für den sehr, sehr unwahrscheinlichen Fall, dass wir einem Eisbären entdecken, leitet unser Guide die sofortige Evakuierung ein, außerdem wird über Funk ein eigens dafür ausgebildetes Rettungsteam zur Bergung des Eisbärens geschickt.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166848ef083972-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "STÜRME",
+            "content": "<p>Die meisten Touristen meiden diese Region. Vor allem im Herbst, denn dann beginnen die heftigen Stürme, besonders auf unserer Halbinsel Hornstrandir. Das Wetter kann hier blitzschnell umschlagen und je nach aktueller Position kann der Wind sehr heftig werden. <\/p><p>Deswegen ist es sehr wichtig, dass unser Guide genau weiß, welche Fjorde uns Schutz vor dem Wetter bieten. Sicherheit steht für uns an erster Stelle und wir werden zu jeder Zeit neu evaluieren, wie sich unsere Route entwickelt. Hier ist nichts in Stein gemeißelt!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166848ef083972-0",
+        "1659166848ef083972-1",
+        "1659166848ef083972-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "SICHERHEIT",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659166921576383f9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Simon-DSC_1717-scaled.jpg"
+      }
+    },
+    "16591669413d6027dd": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166941e486a1ec-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MARTIN DRUSCHEL",
+            "content": "<p><strong>Tourorganisator<\/strong><\/p><p>Martin ist neben Expeditionen in der Sahara oder in Kamtschatka bereits auf mehreren Expeditionen im peruanischen aber auch im panamaischen Dschungel gewesen. Er wird dein Ansprechpartner bis zum Start der Tour sein.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166941e486a1ec-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/41958038_10156447465965734_7170816146872991744_n-e1593683190220.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "HALLDÓR PÁLMI BJARKASON",
+            "content": "<p><strong>Verantwortlich vor Ort<br\/><\/strong><\/p><p>Halldor wurde in Island geboren und lebt im bewohnbaren Teil der Westfjorde. Er kennt die Region so gut wie kaum einer und verfügt über langjährige Erfahrung in der Planung extremer Touren in seinem Heimatland. Das wichtigste ist, dass er unseren lokalen Guide persönlich kennt.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166941e486a1ec-0",
+        "1659166941e486a1ec-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "WIR SIND WANDERMUT",
+        "title": "WER MACHT DENN SOWAS?",
+        "content": "<p><strong>WIR SIND WANDERMUT. WIR GEHEN DORTHIN, WO NIEMAND HINGEHT.<\/strong><\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659167042b58da512": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image4.jpg"
+      }
+    },
+    "16597407557412a78d": {
+      "type": "multi-column",
+      "blocks": {
+        "1659740755753e25a9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TERMIN",
+            "content": "<p>Für dieses Jahr haben wir schon Teams geplant. Dies sind die Daten:<\/p><p>28. August – 8. September 2022<\/p><p>8. – 19. September 2022<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downloads.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNAHMBEITRAG",
+            "content": "<p>DIE TOUR KOSTET 2.987 EURO<\/p><p><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anforderung_Icon_b008f061-6182-48e4-9dff-58ab9b800a93.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ANFORDERUNGEN",
+            "content": "<p>Hohe körperliche Belastbarkeit, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659740755753e25a9-1",
+        "1659740755753e25a9-0",
+        "1659740755753e25a9-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WICHTIGE HARD FACTS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16591670606142721f": {
+      "type": "faq",
+      "blocks": {
+        "16591670600498d9d8-1": {
+          "type": "question",
+          "settings": {
+            "title": "WAS KOSTET DIE EXPEDITION?",
+            "answer": "<p>DABEI SIND<\/p><p>Zelte<\/p><p>Schiffstransfer<\/p><p>Bustransfer<\/p><p>Volle Verpflegung während der Tour<\/p><p>Erste-Hilfe-Medizin<\/p><p>Guides<\/p><p>GPS-Geräte<\/p><p>Satellitentelefon<\/p><p>Kochutensilien<\/p><p><\/p><p>NICHT DABEI SIND<\/p><p>Flüge<\/p><p>Persönliches Equipment<\/p><p>Restaurantbesuche und alkoholische Getränke<\/p>"
+          }
+        },
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09": {
+          "type": "question",
+          "settings": {
+            "title": "WIE KANN ICH MITKOMMEN?",
+            "answer": "<p>Du kannst diese Tour nicht einfach buchen – du musst dich bewerben. Natürlich können und wollen wir nicht jeden mitnehmen. Wir suchen uns unsere Mitstreiter sehr genau aus. Wen wir mitnehmen und wen nicht, beantworten wir in einer anderen Frage. Wichtig ist, dass du dich auf einen der Plätze bewirbst. Dazu musst du uns ein paar wenige Fragen beantworten. Dann melden wir uns bei dir!<\/p>"
+          }
+        },
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad": {
+          "type": "question",
+          "settings": {
+            "title": "WEN NEHMEN WIR MIT?",
+            "answer": "<p><strong>Diese Tour ist nichts für jedermann<\/strong><\/p><p>Die Wenigsten sind vorher schon einmal zwei Wochen allein in solch einer Wildnis unterwegs gewesen. Das ist auch nicht schlimm! Grundsätzlich kann jeder, der sportlich ist, genug „Biss“ hat und sich gut vorbereitet, bei dieser Tour mithalten. Wir empfehlen, mal unseren <a href=\"https:\/\/www.wandermut.de\/selbsttest\" target=\"_blank\">Selbsttest<\/a> zu machen, wenn du dir unsicher bist.<br\/>Bei der Vorbereitung unterstützen wir selbstverständlich und stehen mit Rat und Tat zur Seite. Generell entscheiden wir neben allen anderen Kriterien auch nach Bauchgefühl, wen wir mitnehmen können und wen nicht. Letztendlich wollen wir ein tolles Team zusammen bekommen, mit dem es einfach Spaß macht, unterwegs zu sein.<\/p><p><strong>Motivation und Erwartungshaltung sind uns am wichtigsten!<br\/><\/strong><\/p><p>Dazu gehört für uns, dass du mit der richtigen Erwartung an dieses Abenteuer herangehst. Es kann über viele Tage hinweg sehr anstrengend und ermüdend werden. Dazu kommt, dass es vor Ort immer zu nicht planbaren Veränderungen kommen kann. Du solltest also ein gewisses Maß an Flexibilität, kulinarischer Genügsamkeit und einen ruhigen Geist mitbringen. Belohnt werden die Anstrengungen mit dem Abenteuer deines Lebens. Wenn es das ist, was du willst, bist du bei uns verdammt richtig.<\/p>"
+          }
+        },
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c": {
+          "type": "question",
+          "settings": {
+            "title": "KÖRPERLICHE ANFORDERUNGEN",
+            "answer": "<p><strong>Es wird anstrengend!<\/strong><\/p><p>Daumenregel: Wer am Tag 20 km mit 20 kg Gepäck über 2 Wochen laufen kann, wird kaum Probleme bekommen. Uns erwarten ca. 150 Km innerhalb von 12 Tagen. Deswegen werden es nicht jeden Tag 20 km sein: Wir planen ca. 10 – 20 Kilometer am Tag – wenn wir uns durch matschiges und undurchdringliches Terrain kämpfen müssen, können aber auch schonmal zehn Kilometer einen ganzen Tag kosten.<\/p><p>Das Schwierige an dieser Tour ist auch, dass wir sehr oft Klippen und Pässe bestreiten müssen. Täglich können wir von 300 und 700 Höhenmetern ausgehen. Wir erwarten also von dir, dass du trittfest und in der Lage bist, in schnellem Marschtempo durch unebenes Gelände zu laufen. Das setzt voraus, dass du unsere Empfehlungen für die Vorbereitung ernst nimmst. Dann wirst du es packen und eine Erfahrung machen, von der du noch deinen Enkeln berichten wirst.<\/p>"
+          }
+        },
+        "39b63c4b-010d-4620-9140-65ef5d643e7a": {
+          "type": "question",
+          "settings": {
+            "title": "WER ORGANISIERT DIE AN- UND ABREISE?",
+            "answer": "<p>Wir beraten dich natürlich bei allen Vorbereitungen. Deine Anreise und die Ausrüstung musst du dennoch eigenständig organisieren. Für die Ausrüstung wird es von uns noch ausführliche Empfehlungen geben. Vor und nach der Tour steht es dir natürlich völlig offen, länger in Island zu bleiben.<\/p>"
+          }
+        },
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3": {
+          "type": "question",
+          "settings": {
+            "title": "WO WERDEN WIR SCHLAFEN?",
+            "answer": "<p>Nachts kommen wir in Zelten unter und jeden Abend müssen wir einen geeigneten Ort für unser Lager finden, was wir als Team gemeinsam errichten müssen.<\/p>"
+          }
+        },
+        "f5ac558d-0e8c-4f6c-924f-d30777d13f25": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU ESSEN?",
+            "answer": "<p>Wir werden die gesamten benötigten Lebensmittel in unseren Rucksäcken transportieren. Natürlich haben wir keine Träger! Jeder wird also einen Teil der gemeinsamen Verpflegung zusätzlich zum persönlichen Equipment tragen müssen. Grundsätzlich werden wir Lebensmittel mitnehmen, die energiereich und haltbar sind. Dazu gehören Reis, Nudeln oder Porridge zum Frühstück. Mit Blaubeeren, die wir frisch vor Ort pflücken können zu dieser Jahreszeit wird das ein oder andere Mahl noch ein wenig aufgewertet.<\/p>"
+          }
+        },
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU TRINKEN?",
+            "answer": "<p>Das ist etwas ganz besonderes in Island: es gibt frisches Wasser ohne Ende, was nicht gefiltert werden muss. Wir können es pur aus den Flüssen trinken! Sobald du im Team bist gibt es dazu aber nochmal eine gesonderte Info.<\/p>"
+          }
+        },
+        "8060a9ae-4244-4e2b-8ed9-210d17a2ffa4": {
+          "type": "question",
+          "settings": {
+            "title": "UMWELTSCHUTZ",
+            "answer": "<p>Uns ist es wichtig, dass wir die Natur so verlassen, wie wir sie vorgefunden haben. Bedenke also bitte, dass Dinge, die nicht verrotten (z.B. feuchtes Toilettenpapier) wieder mitgenommen werden müssen. Außerdem werden wir stark darauf achten, ruhig zu sein, um die dort lebenden Tiere nicht zu stören. Das Gebiet ist ein Naturschutzgebiet, in dem es Regeln zu befolgen gilt. Näheres dazu wird uns unser Guide vor Ort erklären. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16591670600498d9d8-1",
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09",
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad",
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c",
+        "39b63c4b-010d-4620-9140-65ef5d643e7a",
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3",
+        "f5ac558d-0e8c-4f6c-924f-d30777d13f25",
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808",
+        "8060a9ae-4244-4e2b-8ed9-210d17a2ffa4"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FRAGEN UND ANTWORTEN",
+        "content": "",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659742838e503b999": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-08-15_160121.png"
+      }
+    },
+    "1659167555c1fbcd40": {
+      "type": "multi-column",
+      "blocks": {
+        "1659167555cca07099-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1: BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2: AUF ZUSAGE WARTEN",
+            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3: PLATZ SICHERN",
+            "content": "<p>Du bekommst einen Anmelde-Link von uns und dann heißt es: anmelden, Teilnahmebetrag überweisen und es kann bald losgehen!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "4: AUSRÜSTUNG BESORGENGENIESSE",
+            "content": "<p> …und die Vorfreude genießen!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "4ce56532-48c1-420b-98d8-0448d23fb194": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "5: FLÜGE BUCHEN",
+            "content": "<p> …und los geht’s <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659167555cca07099-0",
+        "1659167555cca07099-1",
+        "1659167555cca07099-2",
+        "1659167555cca07099-3",
+        "4ce56532-48c1-420b-98d8-0448d23fb194"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#d4af37"
+      }
+    },
+    "16591676412d8cc68f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659167641c39da9ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "tab_label": "",
+            "subheading": "",
+            "title": "SICHERE DIR EINEN PLATZ",
+            "content": "<p><strong>Stelle dir folgende Fragen, wenn du dabei sein willst:<\/strong><\/p><p>Kann ich die Zähne zusammenbeißen, wenn der Sturm auf der Inseln den Regen ins Gesicht peitscht und das nächste Feuer auf sich warten lässt?<\/p><p>Habe ich überhaupt Zeit und2.987 Euro für die Tour? Wir fragen im Bewerbungsformular Termine ab und schauen, wann die meisten können.<\/p><p>Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
+            "button_text": "Jetzt bewerben",
+            "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe?typeform-source=wandermut.de"
+          }
+        }
+      },
+      "block_order": [
+        "1659167641c39da9ab-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#dfdfdf",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 5,
+        "accent_background": "#030000",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#030000",
+        "background_section_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165908476867615e27",
+    "16597324032d20c495",
+    "16591119933865cdff",
+    "165973950846941f6b",
+    "16597333594eb2be54",
+    "16597389529fcbdf38",
+    "1659740270b90d6f47",
+    "16598775101070ffc6",
+    "16598776592755fb88",
+    "16591666662bd4da67",
+    "16605726060309a2be",
+    "1660572695d74e4297",
+    "1659166832699028e3",
+    "1659166849897f437b",
+    "1659166921576383f9",
+    "16591669413d6027dd",
+    "1659167042b58da512",
+    "16597407557412a78d",
+    "16591670606142721f",
+    "1659742838e503b999",
+    "1659167555c1fbcd40",
+    "16591676412d8cc68f"
+  ]
+}
