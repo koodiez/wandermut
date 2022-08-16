@@ -125,28 +125,6 @@
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
-    "1659877298bd791947": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "reveal_on_scroll": true,
-        "section_height": "small",
-        "image": "shopify:\/\/shop_images\/DJI_0091-scaled.jpg",
-        "subheading": "",
-        "title": "Deine Mission",
-        "content": "<p>Du stehst auch nicht auf Massen- und Pauschaltourismus oder diese spießigen Regenjacken für alte Leute mit der gelben Tatze auf der Brust? Dann lass uns gemeinsam das Wandern und Reisen wieder cool machen! Wir freuen uns auf deine Bewerbung und darauf, dich vielleicht schon bald im Team Wandermut begrüßen zu dürfen.<\/p><p><\/p><p><em>PS.: Um zu beweisen, dass du bei uns richtig bist, wirst du dich schon bald selbst in einem Abenteuer behaupten müssen. – Bist du dabei? <\/em><\/p>",
-        "button_text": "",
-        "button_link": "",
-        "link_style": "link",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "middle_center",
-        "text_color": "#030000",
-        "button_background": "#ffffff",
-        "button_text_color": "#000000",
-        "overlay_color": "#ffffff",
-        "overlay_opacity": 80
-      }
-    },
     "1659876801b90fb59d": {
       "type": "rich-text",
       "settings": {
@@ -185,7 +163,7 @@
             "custom_icon": "shopify:\/\/shop_images\/wandermut-Icon-Wegweiser.png",
             "custom_icon_width": 50,
             "title": "WIR FRAGEN UNS NICHT OB, SONDERN WIE",
-            "content": "<p>Wir sehen Lösungen, statt Probleme  und machen dadurch das undenkbare möglich.<\/p>"
+            "content": "<p>Wir sehen Lösungen, statt Probleme  und machen so das Undenkbare möglich.<\/p>"
           }
         },
         "16598767733590374b-2": {
@@ -218,6 +196,28 @@
       "settings": {
         "background": "#030000",
         "text_color": "#ffffff"
+      }
+    },
+    "1659877298bd791947": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/DJI_0091-scaled.jpg",
+        "subheading": "",
+        "title": "Bist du einer von uns?",
+        "content": "<p>Du stehst auch nicht auf Massen- und Pauschaltourismus oder diese spießigen Regenjacken für alte Leute mit der gelben Tatze auf der Brust? Dann lass uns gemeinsam das Wandern und Reisen wieder cool machen! Wir freuen uns auf deine Bewerbung und darauf, dich vielleicht schon bald im Team Wandermut begrüßen zu dürfen.<\/p><p><\/p><p><em>PS.: Um zu beweisen, dass du bei uns richtig bist, wirst du dich schon bald selbst in einem Abenteuer behaupten müssen. – Bist du dabei? <\/em><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 80
       }
     },
     "165987829626066190": {
@@ -332,7 +332,7 @@
             "title": "Social media manager (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/abenteuer-social-media-manager",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -347,7 +347,7 @@
             "title": "online marketing manager (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/online-marketing-manage",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -362,7 +362,7 @@
             "title": "content creator (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/content-creator",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -377,7 +377,7 @@
             "title": "influencer relations manager (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/influencer-relations-manager",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -392,7 +392,7 @@
             "title": "produkt manager apparel(m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/abenteuer-produkt-manager",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -407,7 +407,7 @@
             "title": "produktentwickler und designer textil (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/produktentwickler-designer-textil",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -422,7 +422,7 @@
             "title": "Abenteurer Tourenplaner & Manager (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/abenteurer-tourenplaner-manager",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -437,7 +437,7 @@
             "title": "Assistenz der Geschäftsführung (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/assistenz-der-geschaftsfuhrung",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -452,7 +452,7 @@
             "title": "Business Developer \/ Berater(m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/business-developer-berater",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -467,7 +467,7 @@
             "title": "Werkstudent: Produktmanagement \/ Abentuer-Planung (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/werkstudent-fur-abenteuer-marketing",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -482,7 +482,7 @@
             "title": "Werkstudent: Produktmanagement (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/werkstudent-fur-das-produktmanagement",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -497,7 +497,7 @@
             "title": "Werkstudent für Marketing & Social Media (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/werkstudent-projektmanagement",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -512,7 +512,7 @@
             "title": "Teamleiter (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/teamleiter",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -549,54 +549,6 @@
         "text_color": "#ffffff"
       }
     },
-    "165952261792a5a309": {
-      "type": "adventure-icons",
-      "disabled": true,
-      "blocks": {
-        "c63145da-daa5-42fe-bab9-e2ad093e8269": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/time-8-128.png",
-            "text": "WIR BRENNEN FÜR ECHTE ABENTEUER!",
-            "heading": ""
-          }
-        },
-        "7fab7244-b943-4043-b2c0-8d09811a75a7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/time-8-128.png",
-            "text": "WIR FRAGEN UNS NICHT OB, SONDERN WIE.",
-            "heading": ""
-          }
-        },
-        "81cb3eae-fedd-4341-8f43-4b28cbc37540": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/time-8-128.png",
-            "text": "WIR HABEN HOHE ANSPRÜCHE.",
-            "heading": ""
-          }
-        },
-        "ce802040-f3b0-4058-bdc5-d3bf4267bb23": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/time-8-128.png",
-            "text": "WIR HABEN EINE COMMUNITY, KEINE KUNDEN.",
-            "heading": ""
-          }
-        }
-      },
-      "block_order": [
-        "c63145da-daa5-42fe-bab9-e2ad093e8269",
-        "7fab7244-b943-4043-b2c0-8d09811a75a7",
-        "81cb3eae-fedd-4341-8f43-4b28cbc37540",
-        "ce802040-f3b0-4058-bdc5-d3bf4267bb23"
-      ],
-      "settings": {
-        "background_color": "#000000",
-        "background_color_text": "#ffffff"
-      }
-    },
     "1659522707bd228f53": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -626,7 +578,7 @@
         "title": "WIR SIND WANDERMUT",
         "video_url": "https:\/\/www.youtube.com\/watch?v=w1rQfmPirQE",
         "background_type": "boxed",
-        "video_size": "auto",
+        "video_size": "small",
         "autoplay": true,
         "background": "#000000",
         "text_color": "#ffffff"
@@ -640,12 +592,11 @@
     "165987713916c6dc99",
     "1659521508636c46fd",
     "1659875940108308bd",
-    "1659877298bd791947",
     "1659876801b90fb59d",
     "1659876773cbc1b8c5",
+    "1659877298bd791947",
     "165987829626066190",
     "165952190532ba611e",
-    "165952261792a5a309",
     "1659522707bd228f53",
     "16595228026a62c93f"
   ]

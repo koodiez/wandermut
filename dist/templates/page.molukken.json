@@ -157,8 +157,8 @@
         "subheading": "",
         "title": "DER PLAN",
         "content": "<p>In Begleitung unseres Expeditionsleiters Michael, der die Molukkeninseln wie seine Westentasche kennt, wagen wir uns tief in den Regenwald vor. Unterwegs passieren wir einen der aktiven Vulkane der Insel. Abends, bei wolkenfreier Sicht, können wir seine Eruption beobachten – etwa alle dreißig Minuten spukt er gleich aus mehreren Kratern Asche und Lavafontänen in den Nachthimmel.<\/p><p>Im Herzen des Dschungels angekommen, errichten wir unser Forschungscamp und machen uns auf die Suche nach dem einzigartigen Reptil. Das Lager wird unsere Base sein, von der wir tagsüber in den Dschungel ausschwärmen. Alle Teammitglieder werden bei allen Aufgaben der Forschung, aber auch dem Suchen von Nahrung, Trinkwasser und Feuerholz gebraucht.<\/p><p>Wenn wir es nach hoffentlich erfolgreicher Mission wohlbehalten aus dem Dschungel geschafft haben, werden wir nicht nur mit neuen Entdeckungen und Erfahrungen belohnt: Es wartet dort eine kleine, palmenüberladene Tropeninsel auf uns. Hier erholen wir uns von den Strapazen der Expedition.<\/p>",
-        "button_text": "",
-        "button_link": "",
+        "button_text": "WERDE TEIL DES TEAMS",
+        "button_link": "#anker_scoll_bewerben",
         "link_style": "button",
         "background_type": "full_width",
         "text_width": "large",
@@ -185,8 +185,8 @@
         "subheading": "",
         "title": "DIE HERAUSFORDERUNGEN",
         "content": "<p>Wir werden uns tagelang abseits jeglicher Zivilisation alleine im Dschungel durchschlagen müssen. Uns erwartet ein noch gänzlich unerforschtes Gebiet. Michaels Kenntnisse über den Dschungel sind deshalb unabdinglich für diese Expedition.Bei tropisch feuchter Hitze müssen wir mit schwerer Expeditionsausrüstung so manchen anspruchsvollen Anstieg bezwingen.<br\/><br\/>Die Distanzen werden meistens nicht mehr als fünf Kilometer am Tag betragen, doch erschweren hüfttiefe Flüsse, heftiges Dickicht und andere Hindernisse unser Vorankommen. Etappen von acht bis zehn Stunden fordern Ausdauer. Alle weiteren Herausforderungen, die uns der Dschungel stellt, werden wir vor Ort bewältigen müssen. Der genaue Ausgang dieser Expedition bleibt auch für uns ungewiss!<\/p>",
-        "button_text": "WERDE TEIL DES TEAMS",
-        "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe",
+        "button_text": "",
+        "button_link": "",
         "link_style": "button",
         "background_type": "full_width",
         "text_width": "large",
@@ -214,7 +214,7 @@
         "title": "Der Hintergrund",
         "content": "<p>Für diese Expedition haben wir uns mit renommierten Biologen und Herpetologen (Reptilienforschern) zusammengetan. Denn: Halmahera ist der einzige Sichtungsort der verschollenen Echse Varanus Zugorum, auch als Silberwaran oder <a href=\"https:\/\/www.globalwildlife.org\/zugs-monitor\/\" target=\"_blank\">Zugs‘ Monitor<\/a> bekannt. Sie gilt als eine der von der Global Wildlife Conservation festgelegten <a href=\"https:\/\/www.globalwildlife.org\/search-for-lost-species\/\" target=\"_blank\">„25 Lost Species“<\/a>, denn seit 1980 wurde sie nicht mehr gesichtet.<\/p><p>Es ist, bis auf wenige Fotos eines inGefangenschaft lebenden Exemplars, nichts über den Waran und seine Lebensweise bekannt. Doch für die Wissenschaft sind diese Daten enorm wichtig. Mehr dazu erklärt euch der Evolutionsbiologe Dr. André Koch vom Zoologischen Forschungsmuseum Koenig in Bonn höchstpersönlich. Die Erforschung von Waranen, insbesondere in den indo-australischen Gebieten, ist nämlich sein Spezialgebiet:<\/p>",
         "button_text": "",
-        "button_link": "",
+        "button_link": "#anker_scoll_bewerben",
         "link_style": "link",
         "background_type": "full_width",
         "text_width": "large",
@@ -432,6 +432,74 @@
         "image": "shopify:\/\/shop_images\/unsplash-boudhayan-bardhan-60tataLkJ0U-unsplash-1-scaled_1.jpg"
       }
     },
+    "16597407557412a78d": {
+      "type": "multi-column",
+      "blocks": {
+        "1659740755753e25a9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TERMIN",
+            "content": "<p>Für dieses Jahr haben wir schon Teams geplant. Dies sind die Daten: <strong>1) 25. Oktober – 8. November 2022 2) 13. – 27. November 2022<\/strong><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downloads.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNAHMBEITRAG",
+            "content": "<p>Der Teilnahmebeitrag für die Expedition beträgt <strong>3.892 €<\/strong><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anforderung_Icon_b008f061-6182-48e4-9dff-58ab9b800a93.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ANFORDERUNGEN",
+            "content": "<p>Hohe körperliche Belastbarkeit in tropischen Gebieten, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659740755753e25a9-1",
+        "1659740755753e25a9-0",
+        "1659740755753e25a9-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WICHTIGE HARD FACTS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
     "16591670606142721f": {
       "type": "faq",
       "blocks": {
@@ -586,81 +654,7 @@
         "show_navigation": false,
         "title": "FRAGEN UND ANTWORTEN",
         "content": "",
-        "background": "#000000",
-        "text_color": "#ffffff"
-      }
-    },
-    "1659742626286f0bf9": {
-      "type": "prallax",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg"
-      }
-    },
-    "16597407557412a78d": {
-      "type": "multi-column",
-      "blocks": {
-        "1659740755753e25a9-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
-            "image_width": 20,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "TERMIN",
-            "content": "<p>Für dieses Jahr haben wir schon Teams geplant. Dies sind die Daten: <strong>1) 25. Oktober – 8. November 2022 2) 13. – 27. November 2022<\/strong><\/p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
-        },
-        "1659740755753e25a9-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Downloads.png",
-            "image_width": 20,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "TEILNAHMBEITRAG",
-            "content": "<p>Der Teilnahmebeitrag für die Expedition beträgt <strong>3.892 €<\/strong><\/p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
-        },
-        "1659740755753e25a9-2": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Anforderung_Icon_b008f061-6182-48e4-9dff-58ab9b800a93.png",
-            "image_width": 20,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "ANFORDERUNGEN",
-            "content": "<p>Hohe körperliche Belastbarkeit in tropischen Gebieten, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt. <\/p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
-        }
-      },
-      "block_order": [
-        "1659740755753e25a9-1",
-        "1659740755753e25a9-0",
-        "1659740755753e25a9-2"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "stack_items": true,
-        "subheading": "",
-        "title": "WICHTIGE HARD FACTS",
-        "content": "",
-        "column_alignment": "center",
-        "mobile_item_size": "medium",
-        "desktop_item_size": "medium",
-        "spacing": "normal",
-        "background": "#030000",
+        "background": "#2e2e2e",
         "text_color": "#ffffff"
       }
     },
@@ -670,84 +664,73 @@
         "image": "shopify:\/\/shop_images\/unsplash-alexandra-k-O_B1LTxHb98-unsplash-1.jpg"
       }
     },
-    "1659167555c1fbcd40": {
-      "type": "multi-column",
+    "16602498496f0da9da": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Nächste Schritte",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#dfdfdf",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16602495377753a532": {
+      "type": "text-with-icons",
       "blocks": {
-        "1659167555cca07099-0": {
+        "166024953747c4bd67-0": {
           "type": "item",
           "settings": {
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
+            "icon": "picto-send",
+            "custom_icon_width": 50,
             "title": "1: BEWERBUNG ABSCHICKEN",
-            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>"
           }
         },
-        "1659167555cca07099-1": {
+        "166024953747c4bd67-1": {
           "type": "item",
           "settings": {
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
+            "icon": "picto-like",
+            "custom_icon_width": 50,
             "title": "2: AUF ZUSAGE WARTEN",
-            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
+            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>"
           }
         },
-        "1659167555cca07099-2": {
+        "166024953747c4bd67-2": {
           "type": "item",
           "settings": {
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
+            "icon": "picto-warranty",
+            "custom_icon_width": 50,
             "title": "3: PLATZ SICHERN",
-            "content": "<p>Wenn von unserer Seite alles passt, bekommst du den Platz im Team.<\/p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
+            "content": "<p>Wenn von unserer Seite alles passt, bekommst du den Platz im Team.<\/p>"
           }
         },
-        "1659167555cca07099-3": {
+        "166024953747c4bd67-3": {
           "type": "item",
           "settings": {
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
+            "icon": "picto-plane",
+            "custom_icon_width": 50,
             "title": "4: VORFREUDE GENIESSE",
-            "content": "<p> …und los gehts!<\/p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
+            "content": "<p> …und los gehts!<\/p>"
           }
         }
       },
       "block_order": [
-        "1659167555cca07099-0",
-        "1659167555cca07099-1",
-        "1659167555cca07099-2",
-        "1659167555cca07099-3"
+        "166024953747c4bd67-0",
+        "166024953747c4bd67-1",
+        "166024953747c4bd67-2",
+        "166024953747c4bd67-3"
       ],
       "settings": {
-        "reveal_on_scroll": true,
-        "stack_items": true,
-        "subheading": "",
-        "title": "NÄCHSTE SCHRITTE",
-        "content": "",
-        "column_alignment": "center",
-        "mobile_item_size": "medium",
-        "desktop_item_size": "medium",
-        "spacing": "normal",
-        "background": "#030000",
-        "text_color": "#d4af37"
+        "background": "#dfdfdf",
+        "text_color": "rgba(0,0,0,0)"
       }
     },
     "16591676412d8cc68f": {
@@ -804,11 +787,11 @@
     "1659166921576383f9",
     "16591669413d6027dd",
     "1659167042b58da512",
-    "16591670606142721f",
-    "1659742626286f0bf9",
     "16597407557412a78d",
+    "16591670606142721f",
     "1659742838e503b999",
-    "1659167555c1fbcd40",
+    "16602498496f0da9da",
+    "16602495377753a532",
     "16591676412d8cc68f"
   ]
 }

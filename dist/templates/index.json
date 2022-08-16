@@ -7,9 +7,10 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_6.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/31.png",
             "text_position": "middle_center",
-            "subheading": "OUTDOOR KLAMOTTEN GETESTE AM LIMIT",
-            "title": "WANDERMUT",
+            "subheading": "WANDERMUT",
+            "title": "OUTDOOR KLAMOTTEN GETESTE AM LIMIT",
             "button_1_text": "Frauen",
             "button_1_link": "shopify:\/\/products\/outdoor-hemd-frauen",
             "button_2_text": "Männer",
@@ -26,7 +27,8 @@
         "1659974857c13f980b-0"
       ],
       "settings": {
-        "section_height": "auto",
+        "section_height": "large",
+        "heading_size": 35,
         "transition_type": "sweep",
         "autoplay": true,
         "cycle_speed": 5,
@@ -47,31 +49,6 @@
         "background": "#030000",
         "text_color": "#ffffff"
       }
-    },
-    "1659453022b401c75f": {
-      "type": "custom-video-hero",
-      "disabled": true,
-      "blocks": {
-        "16594530225c56d86c-0": {
-          "type": "video",
-          "settings": {
-            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5f608fea269e4a31afe9f9c3e1962eea.mp4",
-            "video_image": "shopify:\/\/shop_images\/Screenshot_2022-07-21_100844.png",
-            "overlay_opacity": 45,
-            "title": "WANDERMUT",
-            "text": "<p>OUTDOOR KLAMOTTEN GETESTET AM LIMIT<\/p>",
-            "color_text": "#ffffff",
-            "button_label": "ZU DEN PRODUKTEN",
-            "button_link": "",
-            "color_btn_bg": "#ffe16b",
-            "color_btn_text": "#0d0d0d"
-          }
-        }
-      },
-      "block_order": [
-        "16594530225c56d86c-0"
-      ],
-      "settings": {}
     },
     "1659868575a59a3e67": {
       "type": "rich-text",
@@ -102,11 +79,18 @@
             "image": "shopify:\/\/shop_images\/World_Map_Design.png",
             "subheading": "",
             "title": "ABENTEUER",
-            "link_text": "Komm mit",
-            "link_url": "shopify:\/\/pages\/abenteuer",
+            "link_text_1": "",
+            "link_text_2": "",
+            "link_url_1": "",
+            "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 30,
+            "button_css": false,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#000000",
+            "text_color2": "#000000"
           }
         },
         "165987259455a4372c-1": {
@@ -116,11 +100,18 @@
             "image": "shopify:\/\/shop_images\/Andi-DSC_0485-scaled.jpg",
             "subheading": "",
             "title": "OUTDOOR BEKLEIDUNG",
-            "link_text": "Statte dich aus",
-            "link_url": "shopify:\/\/collections\/all",
+            "link_text_1": "",
+            "link_text_2": "",
+            "link_url_1": "",
+            "link_url_2": "",
             "text_color": "#030000",
             "overlay_color": "#ffffff",
-            "overlay_opacity": 70
+            "overlay_opacity": 70,
+            "button_css": false,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#000000",
+            "text_color2": "#000000"
           }
         }
       },
@@ -151,18 +142,14 @@
           "settings": {
             "hide_sold_out_variants": false,
             "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
+            "color_mode": "variant_image",
+            "size_chart_page": "grossenguide-hose"
           }
-        },
-        "165971972786833529-1": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "165971972786833529-2": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "atc_button_background": "rgba(0,0,0,0)",
             "atc_button_text_color": "rgba(0,0,0,0)",
             "buy_now_button_background": "rgba(0,0,0,0)",
@@ -172,7 +159,6 @@
       },
       "block_order": [
         "165971972786833529-0",
-        "165971972786833529-1",
         "165971972786833529-2"
       ],
       "settings": {
@@ -303,11 +289,18 @@
             "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-536-1-scaled.jpg",
             "subheading": "Entickelt von Profis",
             "title": "DIE BESTE WANDERHOSE",
-            "link_text": "Jetzt ENTDECKEN",
-            "link_url": "shopify:\/\/collections\/hosen",
+            "link_text_1": "Für Frauen",
+            "link_text_2": "Für Männer",
+            "link_url_1": "",
+            "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 56,
+            "button_css": true,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#ffffff",
+            "text_color2": "#ffffff"
           }
         },
         "1659529324222cae35-1": {
@@ -317,11 +310,18 @@
             "image": "shopify:\/\/shop_images\/Design-ohne-Titel-2.jpg",
             "subheading": "Ffür beinahe jedes Abenteuer",
             "title": "WANDERMUT ADVENTURE SHIRT",
-            "link_text": "JETZT ENTDECKEN",
-            "link_url": "shopify:\/\/products\/t-shirt",
-            "text_color": "rgba(0,0,0,0)",
+            "link_text_1": "Lorem Ipsum",
+            "link_text_2": "Lorem Ipsum",
+            "link_url_1": "",
+            "link_url_2": "",
+            "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 50,
+            "button_css": false,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#000000",
+            "text_color2": "#000000"
           }
         },
         "1659529324222cae35-2": {
@@ -331,11 +331,18 @@
             "image": "shopify:\/\/shop_images\/IMG_1160_photo-full-scaled.jpg",
             "subheading": "Sieht auch im Alltag gut aus",
             "title": "T-Shirts & Mützen",
-            "link_text": "JETZT ENTDECKEN",
-            "link_url": "",
+            "link_text_1": "",
+            "link_text_2": "",
+            "link_url_1": "",
+            "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 50,
+            "button_css": false,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#000000",
+            "text_color2": "#000000"
           }
         }
       },
@@ -555,6 +562,7 @@
       ],
       "settings": {
         "section_height": "small",
+        "heading_size": 22,
         "transition_type": "sweep",
         "autoplay": true,
         "cycle_speed": 10,
@@ -639,11 +647,18 @@
             "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0950.jpg",
             "subheading": "Über uns",
             "title": "Unser Antrieb",
-            "link_text": "Mehr über Wandermut erfahren",
-            "link_url": "shopify:\/\/pages\/uber-uns",
+            "link_text_1": "",
+            "link_text_2": "",
+            "link_url_1": "",
+            "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 30,
+            "button_css": false,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#000000",
+            "text_color2": "#000000"
           }
         },
         "1659724235a16b008f-1": {
@@ -653,11 +668,18 @@
             "image": "shopify:\/\/shop_images\/seven-vs-wild-100-resimage_v-variantBig16x9_w-1920.jpg",
             "subheading": "Hinter den Kulissen",
             "title": "UNSERE ROLLE BEI 7 vs. WILD",
-            "link_text": "Auf YouTube anschauen",
-            "link_url": "https:\/\/www.youtube.com\/watch?v=A_Oj-dq8h4Q",
+            "link_text_1": "",
+            "link_text_2": "",
+            "link_url_1": "",
+            "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 50,
+            "button_css": false,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#000000",
+            "text_color2": "#000000"
           }
         },
         "000f31c3-e4d4-4f86-a585-39c47e4b3fd5": {
@@ -667,11 +689,18 @@
             "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website.jpg",
             "subheading": "Nues Geschäftsfeld",
             "title": "WARUM WIR DIE BESTE WANDERHOSE DER WELT ENTWICKELN",
-            "link_text": "",
-            "link_url": "",
+            "link_text_1": "",
+            "link_text_2": "",
+            "link_url_1": "",
+            "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 30,
+            "button_css": false,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#000000",
+            "text_color2": "#000000"
           }
         }
       },
@@ -735,12 +764,44 @@
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
+    },
+    "1660217670c6e96c60": {
+      "type": "slideshow",
+      "blocks": {
+        "16602176703b9c5fdd-1": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "16602176703b9c5fdd-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "heading_size": 22,
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
     "1659974857ccc352b6",
     "1659722518bc32cb71",
-    "1659453022b401c75f",
     "1659868575a59a3e67",
     "16598725948945d6a0",
     "16598915456c481938",
@@ -757,6 +818,7 @@
     "1659868051728b2aac",
     "16598720293b2727f9",
     "165972423596af5a71",
-    "16598916465ecfa4ff"
+    "16598916465ecfa4ff",
+    "1660217670c6e96c60"
   ]
 }

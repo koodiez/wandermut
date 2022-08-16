@@ -1,0 +1,720 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "165908476867615e27": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-08-15_163016.png",
+        "subheading": "SURVIVAL AUF EINSAMER INSEL IM PAZIFIK",
+        "title": "ISLAND SURVIVAL",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16597324032d20c495": {
+      "type": "multi-column",
+      "blocks": {
+        "16597324039b06677c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut_Flag_Maps_Icon_1fc96c00-59d7-4016-b561-188c2feae0bc.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LAND",
+            "content": "<p>PANAMA<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/time-8-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DAUER",
+            "content": "<p>ca. 2 Wochen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/add-user-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNEHMER",
+            "content": "<p>Ca. 12 Perosnen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ZEITRAUM",
+            "content": "<p>HERBST 2023<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16597324039b06677c-0",
+        "16597324039b06677c-1",
+        "16597324039b06677c-2",
+        "16597324039b06677c-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "small",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16591119933865cdff": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Design-ohne-Titel-3.jpg"
+      }
+    },
+    "165973950846941f6b": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Website.png",
+        "subheading": "",
+        "title": "DAS ZIEL",
+        "content": "<p><strong>Wir lassen uns vor einer einsamen Insel mitten im Pazifik aus einem fliegenden Helikopter ins Meer werfen. Dort müssen wir 10 Tage überleben und versuchen in der Zeit ein Floß bauen, um die Insel wieder zu verlassen.<br\/><\/strong><\/p><p>Wir wollen wissen, wie es sich anfühlt, völlig mittellos auf einer einsamen Insel ausgesetzt zu werden. Auf unseren bisherigen Abenteuern sind wir es gewohnt, dicke Rucksäcke mit Verpflegung dabei zu haben. Dieses Mal ist es anders: Unsere Nahrungsvorräte werden nur die ersten Tage abdecken. Danach sind wir auf das angewiesen, was wir auf der menschenleeren tropischen Insel finden werden.<\/p><p>Das allein ist schon eine fette Herausforderung. Unter diesen Umständen ein Floß zu bauen, um die Insel wieder verlassen zu können, ist eine extra Challenge, die wir nur im Team schaffen können.<\/p><p>Dafür suchen wir verrückte Mitstreiter,  die Bock haben sich mit uns ins Abenteuer zu stürzen.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 78
+      }
+    },
+    "16597333594eb2be54": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-6.jpg"
+      }
+    },
+    "16597389529fcbdf38": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-23.jpg",
+        "subheading": "",
+        "title": "DER PLAN",
+        "content": "<p>Sobald wir aus dem Helikopter in den Pazifik springen, werden wir mit unseren wenigen Vorräten zunächst zum Sandstrand der Insel schwimmen. Ohne unseren Survival Experten würden wir vermutlich keine 3 Tage durchhalten. Deswegen wird er uns alle notwendigen Survival Skills, wie Fische mit der Harpune jagen, Kokosnüsse knacken oder Feuer zu machen, beibringen. Dann verlässt er uns, und wir sind vollkommen auf uns allein gestellt. <\/p><p>In den darauffolgenden Tagen müssen wir uns nicht nur eigenständig um Essen und Trinken kümmern. Wir werden uns kameradschaftlich organisieren und mit unseren eigenen Händen und dem, was wir auf der Insel finden, ein Floß bauen, um die Insel verlassen zu können.<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "16591664096b85bc4a": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-43.png"
+      }
+    },
+    "1659740270b90d6f47": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "DIE HERAUSFORDERUNGEN",
+        "content": "<p>Die größte Herausforderung wird sich in unseren Köpfen abspielen. Zum ersten Mal im Leben sind wir darauf angewiesen fernab der Zivilisation ausreichend Nahrung und Trinkwasser zu beschaffen, um zu überleben. Niemand wird uns dafür zur Hilfe eilen. Es wird Momente geben, an denen wir verzweifelt, hungrig, zerstochen und mit den Nerven am Ende sein werden. Doch genau das sind die Dinge, die für uns ein echtes Abenteuer ausmachen!<\/p><p>Auf Nachbarinseln wissen wir, dass dort Salzwasserkrokodile leben. Das können wir bei unserer Insel zum Glück ausschließen. Genauso wie giftige Tierarten. Was übrig bliebt sind die Abgeschiedenheit, Tropenstürme, Verletzungen oder der giftigste Apfel der Welt.<\/p><p>Allerdings müssen wir nicht nur unter diesen schweren Bedingungen auf der einsamen Insel überleben: Wir haben auch ein weiteres Problem vor der Brust. Ohne Floß schaffen wir es nicht von der Insel. Dieses werden wir mit allem bauen, was die Natur uns bereitstellt. Hier wird sich zeigen, wie gut wir als Team funktionieren!<\/p>",
+        "button_text": "WERDE TEIL DES TEAMS",
+        "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#030000",
+        "overlay_opacity": 60
+      }
+    },
+    "16598775101070ffc6": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-17.jpg"
+      }
+    },
+    "16598776592755fb88": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-2.jpg",
+        "subheading": "",
+        "title": "DIE INSEL",
+        "content": "<p>Die Insel liegt fernab der Küste Panamas inmitten des Pazifischen Ozeans. Sie ist vollkommen unbewohnt und niemand außer uns wird dort sein. Dafür haben wir gesorgt, indem wir die gesamte Insel gemietet haben! Ja, man kann Inseln mieten.<\/p><p>Auf den ersten Blick ist sie der Inbegriff des Paradieses. Wunderschöne Sandstrände, tropischer Regenwald, tieftürkisblaues Wasser, das mit ein bisschen Glück nachts mystisch leuchtet – denn dann strahlt das leuchtende Plankton durch die Bewegung des Wassers. Im dichten Regenwald wuchern die exotischsten Pflanzen – mit etwas Glück finden wir reife Mangos, Jackfrüchte und Kokosnüsse.<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "16591666662bd4da67": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Website-38.jpg"
+      }
+    },
+    "1660574255583b2abc": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-36.jpg",
+        "subheading": "",
+        "title": "DIE TIERWELT",
+        "content": "<p>Der Pazifik rund um die Insel ist Heimat von Haien und Stachelrochen – zudem sichten wir möglicherweise Buckelwale aus dem Helikopter. Schildkröten nisten an der Küste und Austern kleben an den rauen Klippen. Giftige Tiere gibt es keine und zum Glück auch nur wenige Mücken – doch zu unserem Leidwesen viele Sandfliegen. Die Viecher stechen zu abertausenden und die Stiche jucken tagelang. Wenn Spray nicht hilft, müssen wir uns mit Schmutz einreiben, um uns davor zu schützen.<\/p><p>Das wilde Hinterland der Insel ist Brutstätte vieler verschiedener Vogelarten, auch Königsboas leben in dem dichten Gestrüpp. Nachts klackert und raschelt es überall – besonders wenn die bunten Halloween-Krabben dann zu Scharen angekrabbelt kommen. Ein paar Glühwürmchen leuchten in der Luft.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 73
+      }
+    },
+    "16591666827362880b": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166682e18926ec-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ABGESCHIEDENHEIT",
+            "content": "<p>Die Insel ist wild und abgeschieden. Das bedeutet natürlich auch, dass in einem Notfall nicht direkt Hilfe kommen kann. Ein Helikopter aus Panama City müsste uns dann zur Hilfe eilen. Freilich haben wir ausgeklügelte Sicherheitskonzepte mit Rettungseinheiten ausgearbeitet, aber ein Restrisiko bleibt natürlich bestehen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "WETTER",
+            "content": "<p>Einerseits ist es bei tropischen Temperaturen um die 30 Grad Celsius und hoher Luftfeuchtigkeit wichtig, dass wir stets ausreichend Trinkwasser gewinnen, um Dehydrierung zu vermeiden. Andererseits kann es während der Regenzeit zu heftigen Schauern und Stürmen kommen. Dann müssen wir uns wetterfeste Unterschlüpfe errichten. Alles ist möglich.  <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "VERLETZUNGEN & ERKRANKUNGEN",
+            "content": "<p>Verletzungen passieren schnell. Sei es mit der Machete, beim Klettern auf eine Palme oder barfuß im Dickicht – wir sprechen da aus eigener Erfahrung. Daher ist es wichtig, dass wir immer achtsam sind, denn jede noch so kleine Verletzung wird in der Abgeschiedenheit der Wildnis zum echten Problem. Auch herabfallende Kokosnüsse können lebensgefährlich sein – daher muss der Ort für ein Camp immer gut gewählt sein. Mit verschiedenen Vorsichtsmaßnahmen können wir das Risiko für Verletzungen also minimieren. Ansonsten haben wir für kleine Wunden immer eine Expeditions-Apotheke dabei. Sollte es zu einem echten Notfall kommen, werden wir mit dem Satelliten-Telefon Hilfe anfordern.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166682e18926ec-0",
+        "1659166682e18926ec-1",
+        "1659166682e18926ec-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "SICHERHEIT",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659166921576383f9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Island-Survival-Panama-16.jpg"
+      }
+    },
+    "16591669413d6027dd": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166941e486a1ec-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-3.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TOM",
+            "content": "<p><strong>ist unser Survival-Experte!<br\/><\/strong><\/p><p>Tom  kommt aus Südengland – und ist ein absoluter Survival Freak. Am liebsten zieht er sich auf eine einsame Insel zurück. Nun hat er seinen sicheren Job in der Finanzbranche aufgegeben, um seine Überlebens-Skills an andere verrückte Abenteurer weiterzugeben. Wir können uns auch auf so manche spannende und lustige Geschichte am Lagerfeuer freuen. Zum Beispiel, als er bei einem Wettrennen 600 Kilometer mit einem Schlitten zum Nordpol gelaufen ist. Er hat übrigens gewonnen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166941e486a1ec-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-18.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "PADDY",
+            "content": "<p><strong>organisiert diese Tour im Vorfeld<\/strong><\/p><p>Wenn Paddy nicht gerade Touren durch die Sahara, den Amazonas oder den berüchtigsten Dschungel Panamas leitet, plant er neue spannende Abenteuer in den entlegensten Gebieten der Welt. Zum Beispiel auf verlassenen Inseln im pazifischen Ozean…<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166941e486a1ec-0",
+        "1659166941e486a1ec-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "WIR SIND WANDERMUT",
+        "title": "WER MACHT DENN SOWAS?",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16597407557412a78d": {
+      "type": "multi-column",
+      "blocks": {
+        "1659740755753e25a9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TERMIN",
+            "content": "<p>Die Termine für das Island Survival stehen bereits fest:<\/p><p>18. – 30. September 2023 (Mit Helikopter)<\/p><p>6. – 18. Oktober 2023 (ohne Helikopter, Anreise per Speedboat)<\/p><p>22. Oktober – 3. November 2023 (Mit Helikopter)<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downloads.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNAHMBEITRAG",
+            "content": "<p>DER TEILNAHMEBEITRAG FÜR DAS ISLAND SURVIVAL BETRÄGT MIT HELIKOPTER 4.389 € UND OHNE HELIKOPTER 3.682 €<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anforderung_Icon_b008f061-6182-48e4-9dff-58ab9b800a93.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ANFORDERUNGEN",
+            "content": "<p>Hohe körperliche Belastbarkeit, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659740755753e25a9-1",
+        "1659740755753e25a9-0",
+        "1659740755753e25a9-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WICHTIGE HARD FACTS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1660574483ee23a62f": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p>Bedacht werden sollte bei der Anreise, dass genügend Puffer nach vorne und nach hinten eingeräumt wird. Es kann immer vorkommen, dass das Gepäck nicht ankommt oder dass wir ein, zwei Tage länger brauchen als geplant. Bisher hat immer alles geklappt, aber man weiß ja nie!<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#030000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16591670606142721f": {
+      "type": "faq",
+      "blocks": {
+        "16591670600498d9d8-1": {
+          "type": "question",
+          "settings": {
+            "title": "WAS IST DABEI?",
+            "answer": "<p>DABEI SIND<\/p><p>Helikopter Flug zur Insel (Alternativ Speedboot zur Insel)<\/p><p>Die gesamte Insel für uns allein<\/p><p>Training durch Island Survival Experten<\/p><p>Unterkunft in Isla Contadora bei Rückkehr von der Insel<\/p><p>Wandermut Teamleiter für die gesamte Zeit<\/p><p>Erste Hilfe Set<\/p><p>GPS Gerät<\/p><p>Satellitentelefon<\/p><p>Tarps<\/p><p>Hängematten<\/p><p>Kochequipment<\/p><p>Harpunen<\/p><p><\/p><p>NICHT DABEI SIND<\/p><p>Flüge nach Panama City und Transport von Isla Contadora nach Panama City (ca. 40 €).<\/p><p>Unterkünfte in Panama City (ab ca. 20 €)<\/p><p>Restaurantbesuche und alkoholische Getränke außerhalb der Tour<\/p>"
+          }
+        },
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09": {
+          "type": "question",
+          "settings": {
+            "title": "WIE KANN ICH MITKOMMEN?",
+            "answer": "<p>Um bei uns mitzukommen musst du dich über das<a href=\"https:\/\/wandermut.typeform.com\/to\/d61X1V\" target=\"_blank\">Bewerbungsformular<\/a>bewerben. Das ist sehr wichtig, da wir dort über gezielte Fragen herausfinden, ob dieses Abenteuer das richtige für dich ist. Sobald du das Formular abgeschickt hast, melden wir uns umgehend bei dir!<\/p>"
+          }
+        },
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad": {
+          "type": "question",
+          "settings": {
+            "title": "WEN KÖNNEN WIR MITNEHMEN?",
+            "answer": "<p><strong>Diese Tour ist nichts für jedermann <\/strong><\/p><p>Niemand von uns ist vermutlich vorher schon mal auf einer einsamen Insel gestrandet und weiß wirklich, was da auf einen zukommt. Es ist also vor allem wichtig, dass jeder den nötigen Biss und Teamgeist mitbringt, um bei dieser Tour mitzuhalten.  <\/p><p>Bei der Vorbereitung unterstützen wir selbstverständlich und stehen mit Rat und Tat zur Seite. Du solltest unsere Vorbereitungstipps aber wirklich ernst nehmen, denn diese Tour wird eine echte Herausforderung. Generell entscheiden wir neben allen anderen Kriterien auch nach Bauchgefühl, wen wir mitnehmen können und wen nicht. Letztendlich wollen wir ein tolles und fittes Team zusammen bekommen, mit dem es einfach Spaß macht, unterwegs zu sein.<\/p><p> <strong>Motivation und Erwartungshaltung sind uns am wichtigsten!<\/strong><\/p><p>Dazu gehört für uns, dass du mit der richtigen Erwartung an dieses Abenteuer herangehst. Es kann über viele Tage hinweg sehr anstrengend und ermüdend werden. Dazu kommt, dass es vor Ort immer zu nicht planbaren Veränderungen kommen kann. Du solltest also ein gewisses Maß an Flexibilität, kulinarischer Genügsamkeit und einen ruhigen Geist mitbringen. Belohnt werden die Anstrengungen mit dem Abenteuer deines Lebens. Wenn es das ist, was du willst, bist du bei uns verdammt richtig.<\/p>"
+          }
+        },
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c": {
+          "type": "question",
+          "settings": {
+            "title": "WELCHE KÖRPERLICHEN ANFORDERUNGEN GIBT ES?",
+            "answer": "<p>Wenn du dir unsicher bist, ob du dich für ein Wandermut Abenteuer eignest, empfehlen wir dir, unseren <a href=\"https:\/\/www.wandermut.de\/selbsttest\" target=\"_blank\">Selbsttest<\/a> zu machen. Eines steht fest: <\/p><p><\/p><p><strong>Es wird anstrengend!<\/strong><\/p><p>Tatsächlich ist dies eines unserer ersten Abenteuer, bei denen wir nicht tagelang extremen körperlichen Herausforderungen durch kilometerlange Märsche mit schwerem Gepäck ausgesetzt sind. Doch trotzdem: Es wird anstrengend! Streifzüge über die Insel, auf Palmen klettern, ein Floss bauen, mit der Machete arbeiten – hier kommt einiges auf dich zu. Doch vor allem wird es eben auch eine mentale Herausforderung, auf einer einsamen Insel zu überleben.<\/p>"
+          }
+        },
+        "39b63c4b-010d-4620-9140-65ef5d643e7a": {
+          "type": "question",
+          "settings": {
+            "title": "WAS PASSIERT IM NOTFALL?",
+            "answer": "<p>Jeder von uns wird seine eigene kleine Notfall-Apotheke dabei haben, sodass wir die meisten und am wahrscheinlichsten auftretenden Krankheiten selbst behandeln können. Am wahrscheinlichsten sind Magen-Darm Infekte und oberflächliche Schürfwunden. Hierzu werden wir dir nochmal ganz gezielte Informationen zukommen lassen, sobald du Teil des Teams bist.<\/p><p>Für den Ernstfall haben wir auch ein Satellitentelefon dabei, um eine Evakuierung mit dem Speedboot oder Helikopter anzufordern. <\/p>"
+          }
+        },
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3": {
+          "type": "question",
+          "settings": {
+            "title": "WER ORGANISIERT DIE ANREISE?",
+            "answer": "<p>Dies ist keine Pauschalreise aus dem Reisebüro um die Ecke.<\/p><p>Wir beraten dich natürlich bei allen Vorbereitungen. Deine Anreise nach Panama City, Abreise von Isla Contadora und die Ausrüstung musst du dennoch eigenständig organisieren. Für die Ausrüstung wird es von uns noch ausführliche Empfehlungen geben – viel wird es nicht werden. Vor und nach der Tour steht es dir natürlich völlig offen, länger in Panama zu bleiben.<\/p>"
+          }
+        },
+        "f5ac558d-0e8c-4f6c-924f-d30777d13f25": {
+          "type": "question",
+          "settings": {
+            "title": "WO WERDEN WIR SCHLAFEN?",
+            "answer": "<p>Wir werden auf der Insel in Hängematten und in selbst errichteten Nachtlagern aus Palmenblättern und Holz schlafen.<\/p>"
+          }
+        },
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808": {
+          "type": "question",
+          "settings": {
+            "title": "UMWELTSCHUTZ",
+            "answer": "<p>Uns ist es wichtig, dass wir die Natur so verlassen, wie wir sie vorgefunden haben. Bedenke also bitte, dass Dinge, die nicht verrotten (z.B. feuchtes Toilettenpapier) wieder mitgenommen werden müssen. Leider wird selbst auf einer einsamen Insel eine Menge Müll von überall aus der Welt mit dem Meer angeschwemmt. Vielleicht ist hier ja sogar etwas Brauchbares dabei. Wir werden in jedem Fall stark darauf achten, uns stets ruhig und respektvoll gegenüber den vor Ort lebenden Tieren und der Natur zu verhalten.<\/p><p>Für den Ernstfall haben wir auch ein Satellitentelefon dabei, um eine Evakuierung anzufordern. Wir müssen jedoch mit Verzögerungen und Komplikationen bei einer Bergung rechnen, da wir den Weg aus dem Dschungel zurück laufen müssen. Helikopter gibt es keine. Ein einfacher Abbruch der Expedition oder „mal eben“ evakuieren lassen, ist nicht möglich.<\/p>"
+          }
+        },
+        "8060a9ae-4244-4e2b-8ed9-210d17a2ffa4": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU ESSEN?",
+            "answer": "<p>Wir haben Glück, es gibt noch Vorräte auf der Insel für die ersten Tage…  doch sobald sich diese dem Ende neigen, müssen wir jeden Tag aufs Neue Nahrung sammeln oder fischen und über dem Feuer zubereiten. Bei dieser Tour kann alles auf den Teller kommen. Sei darauf vorbereitet. <\/p>"
+          }
+        },
+        "008ce8bd-0589-4aec-bd4c-7b74fa557f56": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU TRINKEN?",
+            "answer": "<p>Unser Survival Instructor wird uns zeigen, auf welche verschiedenen Weisen man Trinkwasser gewinnen kann. Auch wachsen auf der Insel Kokosnusspalmen. Wir müssen es allerdings schaffen, die Nüsse von der Palme zu ernten und mit der Machete aufzuschlagen. Zu unserem Glück spielt die Regenzeit uns etwas in die Karten. Denn stets ausreichend Trinkwasser zu haben, wird sehr mühsam werden und jeder Tropfen ist überlebenswichtig.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16591670600498d9d8-1",
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09",
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad",
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c",
+        "39b63c4b-010d-4620-9140-65ef5d643e7a",
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3",
+        "f5ac558d-0e8c-4f6c-924f-d30777d13f25",
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808",
+        "8060a9ae-4244-4e2b-8ed9-210d17a2ffa4",
+        "008ce8bd-0589-4aec-bd4c-7b74fa557f56"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FRAGEN UND ANTWORTEN",
+        "content": "",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659742838e503b999": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-08-15_163016.png"
+      }
+    },
+    "1659167555c1fbcd40": {
+      "type": "multi-column",
+      "blocks": {
+        "1659167555cca07099-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1: BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2: AUF ZUSAGE WARTEN",
+            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3: PLATZ SICHERN",
+            "content": "<p>Dafür bekommst du einen Anmelde-Link von uns. Jetzt heißt es: anmelden, Teilnahmebetrag überweisen und es kann bald losgehen!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "4: AUSRÜSTUNG BESORGEN",
+            "content": "<p> …und die Vorfreude genießen!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "43e7497d-21a7-46df-ab27-e9a103296405": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "5: VORFREUDE GENIESSEN",
+            "content": "<p> …und los gehts!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659167555cca07099-0",
+        "1659167555cca07099-1",
+        "1659167555cca07099-2",
+        "1659167555cca07099-3",
+        "43e7497d-21a7-46df-ab27-e9a103296405"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#d4af37"
+      }
+    },
+    "16591676412d8cc68f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659167641c39da9ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-18.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "SICHERE DIR EINEN PLATZ",
+            "content": "<p>Wenn du bereit bist auf einer einsamen Insel zu stranden und immer schon einmal etwas machen wolltest, was es eigentlich nur in Abenteuerromanen gibt, stelle dir noch folgende Fragen:<\/p><p>Kann ich die Zähne zusammenbeißen, wenn die Einsamkeit auf der Insel mich quält und das nächste Essen auf sich warten lässt?<\/p><p>Habe ich überhaupt Zeit und 4.389Euro für das Island Survival (bzw. 3.682 Eurobei einem Termin ohne Helikopter)? Wir fragen im Bewerbungsformular Termine ab.<\/p><p>Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
+            "button_text": "Jetzt bewerben",
+            "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe?typeform-source=wandermut.de"
+          }
+        }
+      },
+      "block_order": [
+        "1659167641c39da9ab-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#dfdfdf",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 5,
+        "accent_background": "#030000",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#030000",
+        "background_section_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165908476867615e27",
+    "16597324032d20c495",
+    "16591119933865cdff",
+    "165973950846941f6b",
+    "16597333594eb2be54",
+    "16597389529fcbdf38",
+    "16591664096b85bc4a",
+    "1659740270b90d6f47",
+    "16598775101070ffc6",
+    "16598776592755fb88",
+    "16591666662bd4da67",
+    "1660574255583b2abc",
+    "16591666827362880b",
+    "1659166921576383f9",
+    "16591669413d6027dd",
+    "16597407557412a78d",
+    "1660574483ee23a62f",
+    "16591670606142721f",
+    "1659742838e503b999",
+    "1659167555c1fbcd40",
+    "16591676412d8cc68f"
+  ]
+}

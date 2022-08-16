@@ -9,7 +9,7 @@
             "hide_sold_out_variants": false,
             "selector_mode": "block",
             "color_mode": "variant_image",
-            "size_chart_page": ""
+            "size_chart_page": "{{ product.metafields.custom.gr_enguide.value }}"
           }
         },
         "buy_buttons": {
@@ -25,7 +25,7 @@
         "0cd17a47-1555-48f6-a707-9c345a393ee5": {
           "type": "text",
           "settings": {
-            "text": "<p>✓ Besonders robust<\/p><p>✓ gute Bewegungsfreiheit<\/p><p>✓ Allrounder für fast alle Abenteuer<\/p>"
+            "text": "<p>{{ product.metafields.custom.bulletpoints_pdp | metafield_tag }}<\/p>"
           }
         }
       },

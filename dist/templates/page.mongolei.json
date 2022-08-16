@@ -1,0 +1,738 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "165908476867615e27": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-08-15_153019.png",
+        "subheading": "",
+        "title": "MIT ADLERJÄGERN DURCH DIE MONGOLEI REITEN",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16597324032d20c495": {
+      "type": "multi-column",
+      "blocks": {
+        "16597324039b06677c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut_Flag_Maps_Icon_1fc96c00-59d7-4016-b561-188c2feae0bc.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LAND",
+            "content": "<p>MONGOLEI<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/time-8-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DAUER",
+            "content": "<p>ca. 2 Wochen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/add-user-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNEHMER",
+            "content": "<p>Ca. 12 Perosnen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ZEITRAUM",
+            "content": "<p>2023 (TEAMS SIND VOLL)<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16597324039b06677c-0",
+        "16597324039b06677c-1",
+        "16597324039b06677c-2",
+        "16597324039b06677c-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "small",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "16591119933865cdff": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Varanus-reinerguentheri-1.jpg"
+      }
+    },
+    "165973950846941f6b": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-5.jpg",
+        "subheading": "",
+        "title": "DAS ZIEL",
+        "content": "<p><strong>Wir durchqueren auf dem Rücken der Pferde den wilden Westen der Mongolei, um die berüchtigten Adlerjäger zu treffen.<\/strong><\/p><p>Wo genau wir die kasachischen Adlerjäger entlang der Route treffen werden, wissen wir noch nicht. Sie leben halbnomadisch und um sie zu erreichen, müssen wir reißende Flüsse kreuzen und uns in die einsame Wildnis vorwagen. Nur mit ihrem jahrhundertealten Wissen können wir die schneebedeckten Berge und kargen Wüsten der Westmongolei überwinden. <\/p><p>Wir suchen wagemutige Gefährten, um dieses Abenteuer mit uns zu bestreiten.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 82
+      }
+    },
+    "16597333594eb2be54": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-33.jpg"
+      }
+    },
+    "16597389529fcbdf38": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-40.jpg",
+        "subheading": "",
+        "title": "DER PLAN",
+        "content": "<p>In den wilden Schluchten und kargen Wüsten sind wir auf unsere Pferde angewiesen. Deswegen werden mongolische Reiter uns in einem kleinen Bergdorf auf die Tour vorbereiten, bevor wir ins Altai Gebirge, der Heimat von Schneeleoparden und Wölfen, aufbrechen. <\/p><p>Als Reitervolk leben sie seit Generationen mit den Pferden zusammen. Gemeinsam werden wir die Pferde satteln, die Packkamele beladen und den Aufbruch ins Gebirge wagen. Dort schlagen wir uns Tag für Tag weiter in die Wildnis vor. Jeden Abend müssen wir einen neuen Ort finden, um unsere Zelte aufzuschlagen. <\/p><p>Im Herzen der Altai-Berge werden wir gemeinsam einen Weg über den wilden Khovd Fluss finden, um auf die kasachischen Adlerjäger zu stoßen, die hier halbnomadisch in ihren Jurten leben. Mit ihren Adlern jagen sie bereits seit Jahrtausenden Füchse, Hasen und Murmeltiere. Mit ihnen werden wir reiten, jagen und uns durch Wüsten, Bergpässe und endlose Steppen schlagen. Nach tagelangen Ritten werden wir anschließend hoffentlich ein Bergdorf mit Straßenanschluss erreichen – von hier aus schaffen wir es zurück in die Zivilisation. <\/p><p>Im Herzen des Dschungels angekommen, errichten wir unser Forschungscamp und machen uns auf die Suche nach dem einzigartigen Reptil. Das Lager wird unsere Base sein, von der wir tagsüber in den Dschungel ausschwärmen. Alle Teammitglieder werden bei allen Aufgaben der Forschung, aber auch dem Suchen von Nahrung, Trinkwasser und Feuerholz gebraucht.<\/p><p>Wenn wir es nach hoffentlich erfolgreicher Mission wohlbehalten aus dem Dschungel geschafft haben, werden wir nicht nur mit neuen Entdeckungen und Erfahrungen belohnt: Es wartet dort eine kleine, palmenüberladene Tropeninsel auf uns. Hier erholen wir uns von den Strapazen der Expedition.<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 81
+      }
+    },
+    "1659740270b90d6f47": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "DIE HERAUSFORDERUNGEN",
+        "content": "<p>Wir haben auf dieser Expedition vor allem mit vielen Herausforderungen der extremen Natur zu kämpfen: Zum einen wird uns die Höhenluft zu schaffen machen, denn wir passieren einige Hochpässe auf fast 3.000 Metern. Auch das Wetter kann hier schnell umschlagen, schwere Stürme sind in den Bergen keine Seltenheit. In der Wüste hingegen haben wir mit heftigen Temperaturunterschieden zu kämpfen, nämlich brutal heiß am Tag und eiskalt in der Nacht. Deswegen müssen wir uns gut vorbereiten und vorausschauend planen. <\/p><p>Außerdem wird das Reiten kein leichtes Unterfangen sein. Durchgehend sind wir in schroffem Terrain unterwegs. Dabei ist es wichtig, stets die Pferde gut über die zerklüfteten Felsen und durch Flüsse und trockenen Steppen zu führen. Denn sie sind enorm wichtig für den Erfolg unseres Unterfangens. Wir müssen nicht nur sicher auf den Pferden sein, sondern gemeinsam mit ihnen, unseren Kamelen und mongolischen Reitgefährten eine Einheit bilden. Nur so können wir die Berge erfolgreich überwinden.<\/p>",
+        "button_text": "WERDE TEIL DES TEAMS",
+        "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#030000",
+        "overlay_opacity": 60
+      }
+    },
+    "16598775101070ffc6": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-13.jpg"
+      }
+    },
+    "16598776592755fb88": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-14.jpg",
+        "subheading": "",
+        "title": "DIE MONGOLISCHEN PFERDE",
+        "content": "<p>Seit Jahrtausenden leben die Mongolen in der Steppe gemeinsam mit ihren Pferden. Die Beziehung zwischen Mensch und Pferd ist außergewöhnlich: Bis heute leben die Pferde der Nomaden in einem halbwilden Zustand mit den Nomaden in der Steppe zusammen. Das heißt, sie bewegen sich frei und suchen im Winter ihr eigenes Futter. <\/p><p>Auch wenn sie im Vergleich zu unseren Pferden eher klein sind (weniger als 1,5 Meter Schulterhöhe), sind sie extrem ausdauernd und zuverlässig – ideal, um den Herausforderungen der schroffen Natur zu trotzen. Dass Chinggis Khan einst eine der mächtigsten Kavallerien der Welt besaß, lag nicht zuletzt an den enormen Energiereserven der mongolischen Pferde. Auf dem Rücken dieser Tiere werden auch wir die mongolischen Steppen und Gebirge durchqueren.<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "1660570525a182adaa": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-43.jpg",
+        "subheading": "",
+        "title": "LANDSCHAFT",
+        "content": "<p>Das Altai-Gebirge erstreckt sich am Vierländereck zwischen China, Russland, Kasachstan und der Mongolei, wo ein Großteil des Gebirges liegt. Entlang unserer Route liegt auch der  zweithöchste Berg der Mongolei. Die schneebedeckten Bergketten sind immer wieder durchzogen von tiefen Flusstälern, dichten Wäldern, endlos erscheinende Wüsten und Steppen. Auf den grünen Hochebenen leben im Sommer Nomaden in ihren Jurten.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 81
+      }
+    },
+    "16605705314b9b9d7c": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-37_66dfb3be-ea39-4cc3-9b6d-8e9228b99a1f.jpg",
+        "subheading": "",
+        "title": "DIE ADLERJÄGER",
+        "content": "<p>Trotz der extrem dünnen Besiedlung ist in den entlegenen Bergen des Altai-Gebirges die kulturelle Vielfalt enorm, viele nomadische Völker leben hier abseits der Zivilisation. Das werden wir schnell merken, wenn wir von den verschiedenen Nomadenstämmen in ihre Jurte zum Tee eingeladen werden. Doch wir möchten besonders ein Volk treffen, das im 20. Jahrhundert vor dem kommunistischen Regime in Kasachstan in die entlegenen Berge der Mongolei floh: die Adlerjäger. Sie pflegen noch heute ihre jahrhundertealte Tradition des Jagens mit Steinadlern. Für das Trainieren der Adler braucht ein Falkner unglaublich viel Geduld. Vermutlich um die 250 traditionelle Jäger leben heute noch mit ihren Pferden und riesigen Adlern verstreut im Altai-Gebirge. Traditionell jagen die Männer, sie kleiden sich mit den Fellen der Tiere, die ihre Adler fangen und ihnen zurückbringen. Von ihnen werden wir die Bräuche und Geheimnisse der Jagd mit den Adlern lernen. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 82
+      }
+    },
+    "166057053766f163c3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Mongolei_1.jpg",
+        "subheading": "",
+        "title": "DIE TIERWELT",
+        "content": "<p>Durch die extreme Abgeschiedenheit des Altai-Gebirges leben in der einsamen Natur seltene, vom Aussterben bedrohte Tierarten. Noch heute streifen hier Schneeleoparden und Wölfe durch die Wildnis. Sie fressen besonders gerne die wilden Steinböcke und Schafe, die sich in der Weite der Landschaft besonders wohlfühlen. Die Vögel der Adlerjäger hingegen jagen besonders kleinere Säugetiere, wie Füchse, Murmeltiere oder Hasen. Selbstverständlich verhalten wir uns respektvoll gegenüber der Natur in den Bergen, und wer weiß–vielleicht kreuzt einer der extrem seltenen Schneeleoparden unseren Weg. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 81
+      }
+    },
+    "1659166832699028e3": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-17.jpg"
+      }
+    },
+    "16591666827362880b": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166682e18926ec-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "VERLETZUNGEN & ERKRANKUNG",
+            "content": "<p>Besonders für unerfahrene Reiter ist der Sturz vom Pferd ein großes Risiko mit schlimmem Verletzungspotential. Aber auch schon kleinere Verletzungen können auf einem solchen Trip zum echten Problem werden. Daher gilt: Als unerfahrener Reiter, sind eine gute Vorbereitung und der Trainingstag besonders wichtig – so lässt sich dieses Risiko reduzieren. Sollte es dennoch zu Verletzungen kommen, haben wir eine umfangreiche Expeditions-Apotheke mit dabei.<\/p><p>So wuchsen zum Beispiel wertvolle Gewürze wie Muskatnuss oder Nelke nur auf den Molukken und wurden von hier in die ganze Welt verschifft. Deswegen sind die Inseln heute noch als Gewürzinseln bekannt.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "WETTER",
+            "content": "<p>Wir haben die gesamte Zeit mit extremen Wetterverhältnissen zu tun. Es kann immer passieren, dass in den Höhenlagen ein unerwarteter Sturm aufzieht. Aber auch brutale Hitze und dementsprechende Dehydrierung in der Wüste sind ein Risiko. Daher ist es wichtig, dass wir auf alle Szenarien vorbereitet sind.  <\/p><p>Über viele der exotischen Tierarten ist wenig bekannt, auch vermuten Wissenschaftler hier weitere, bisher unentdeckte Spezies. So machte beispielsweise letztes Jahr die Entdeckung der „Wallace-Riesenbiene“ auf Halmahera weltweit Schlagzeilen – ebenfalls eine der „25 Lost Species“.<\/p><p>Der Silberwaran ist also nicht die einzige Entdeckung, die wir im Regenwald von Halmahera machen können!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ABGESCHIEDENHEIT",
+            "content": "<p>Das Altai-Gebirge liegt fernab von jeglicher Zivilisation. Hier gibt es keine Dörfer, von denen man aus Hilfe holen kann. Auch Handynetz sucht man hier vergebens. Aus diesem Grund haben wir ein Satellitentelefon dabei, um im Notfall Hilfe holen zu können.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166682e18926ec-0",
+        "1659166682e18926ec-1",
+        "1659166682e18926ec-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "SICHERHEIT",
+        "content": "<p>Obacht, das Erreichen unseres Ziels sowie der Verlauf der gesamten Tour sind ungewiss. Sie enthält Risiken für die körperliche Unversehrtheit und auch die Wahrscheinlichkeit von Unfällen ist deutlich höher als bei Pauschalreisen.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659166921576383f9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-20.jpg"
+      }
+    },
+    "16591669413d6027dd": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166941e486a1ec-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-4.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "AMARAA",
+            "content": "<p><strong>ist unser Guide vor Ort<\/strong><\/p><p>Amaraa ist einem kleinen mongolischen Dorf mit Pferden aufgewachsen. Immer wieder zieht es ihn jedoch in die endlosen mongolischen Weiten. Er brennt dafür, neue Wege zu beschreiten und auf dem Rücken der Pferde die verlassensten und wildesten Winkel seiner Heimat zu erkunden. Ohne sein Wissen wären wir im Altai Gebirge verloren.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166941e486a1ec-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-18.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "PADDY",
+            "content": "<p><strong>organisiert diese Tour<\/strong><\/p><p>Wenn Paddy nicht gerade Touren durch die Sahara, den Amazonas oder den berüchtigsten Dschungel Panamas leitet, plant er neue spannende Abenteuer in den entlegensten Gebieten der Welt. Zum Beispiel, wie man mit Pferden und Packkamelen das mongolische Altai Gebirge durchqueren kann…<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166941e486a1ec-0",
+        "1659166941e486a1ec-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "WIR SIND WANDERMUT",
+        "title": "WER MACHT DENN SOWAS?",
+        "content": "<p>Unser Ziel ist es, die verrücktesten Abenteuer in die Tat umzusetzen. Herausfordernde Landschaften und abgelegene Gebiete fernab des Massentourismus ziehen uns magisch an. Dabei scheuen wir weder körperliche Anstrengung, noch die Gefahren. Zusammen mit Gleichgesinnten brechen wir auf, um Abenteuer hautnah zu erleben, die sich sonst kaum einer traut.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659167042b58da512": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-12.jpg"
+      }
+    },
+    "16597407557412a78d": {
+      "type": "multi-column",
+      "blocks": {
+        "1659740755753e25a9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TERMIN",
+            "content": "<p>Für dieses Jahr haben wir schon Teams geplant. Dies sind die Daten:<\/p><p>25. Juni – 8. Juli 2023 (Team ist voll)<\/p><p>16. Juli – 29. Juli 2023 (Team ist voll)<\/p><p>30. Juli – 12. August 2023 (Team ist voll)<\/p><p>13. August – 26. August 2023 (Team ist voll)<\/p><p>27. August – 9. September 2023 (Team ist voll)<\/p><p>24. September – 7. Oktober 2023 (Team ist voll)<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downloads.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNAHMBEITRAG",
+            "content": "<p>DER TEILNAHMEBEITRAG BETRÄGT 2.982 €.<\/p><p><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anforderung_Icon_b008f061-6182-48e4-9dff-58ab9b800a93.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ANFORDERUNGEN",
+            "content": "<p>Hohe körperliche Belastbarkeit, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659740755753e25a9-1",
+        "1659740755753e25a9-0",
+        "1659740755753e25a9-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WICHTIGE HARD FACTS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659742626286f0bf9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg"
+      }
+    },
+    "16591670606142721f": {
+      "type": "faq",
+      "blocks": {
+        "16591670600498d9d8-1": {
+          "type": "question",
+          "settings": {
+            "title": "WAS IST DABEI?",
+            "answer": "<p>DABEI SIND<\/p><p>Pferd und Sattel<\/p><p>Packkamele und Futter<\/p><p>Zelte<\/p><p>Satteltaschen<\/p><p>Isomatten<\/p><p>Verpflegung im Altai Gebirge<\/p><p>Erste-Hilfe-Medizin<\/p><p>Guides<\/p><p>GPS-Geräte<\/p><p>Satellitentelefon<\/p><p>Kochutensilien<\/p><p><\/p><p>NICHT DABEI SIND<\/p><p>Unterkunft bis zum Start der Tour<\/p><p>Flüge nach Ulaanbaatar und von dort nach Ulaangom. (Vom Flughafen in Ulaangom aus fahren wir zusammen in unser Basecamp ins Altai Gebirge).<\/p><p>Persönliches Equipment<\/p><p>Restaurantbesuche und alkoholische Getränke<\/p>"
+          }
+        },
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09": {
+          "type": "question",
+          "settings": {
+            "title": "MUSS ICH EIN ERFAHRENER REITER SEIN UM MITZUKOMMEN?",
+            "answer": "<p><strong>Auf die Motivation kommt es an <\/strong><\/p><p>Die Wenigsten sind vorher schon einmal allein in solch einer Wildnis unterwegs gewesen – geschweige denn auf Pferden. Das ist auch nicht schlimm, du musst kein Reitprofi sein, um mitzukommen! Grundsätzlich kann jeder, der sportlich ist, genug abenteuerlichen Ehrgeiz an den Tag legt und sich gut vorbereitet, bei dieser Tour mithalten. Solltest du noch keine Reiterfahrung haben, ist das kein Problem. In dem Fall ist es für dich von Vorteil, dass du zur Vorbereitung in 5–10 Reitstunden die Basics lernst – dann kannst du die Tour mehr genießen. Wenn du magst, kannst auch ein paar Tage früher in der Mongolei anreisen und vor Ort bei einer befreundeten Farm ein paar Reitstunden nehmen. Bei der Vorbereitung unterstützen wir dich selbstverständlich und stehen mit Rat und Tat zur Seite.<\/p>"
+          }
+        },
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad": {
+          "type": "question",
+          "settings": {
+            "title": "KÖRPERLICHE ANFORDERUNGEN",
+            "answer": "<p><strong>Es wird anstrengend! <\/strong><\/p><p>Täglich müssen wir bis zu 40 Kilometern zurücklegen, und das zum Teil bei extremen Höhen mit wenig Sauerstoff. Durch die auf Dauer sehr anstrengende Reitposition wird heftiger Muskelkater zum Tagesprogramm dazugehören. Daher ist es wichtig, dass wir ein gutes Team zusammenstellen, das sowohl den mentalen Herausforderungen in der Wüste, als auch den körperlichen Strapazen langer Ritte durch die Berge standhalten kann. <\/p>"
+          }
+        },
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c": {
+          "type": "question",
+          "settings": {
+            "title": "WER ORGANISIERT DIE AN- UND ABREISE?",
+            "answer": "<p>Wir beraten dich natürlich bei allen Vorbereitungen. Deine Anreise und die Ausrüstung musst du dennoch eigenständig organisieren. Für die Ausrüstung wird es von uns noch ausführliche Empfehlungen geben. Vor und nach der Tour steht es dir natürlich völlig offen, länger in der Mongolei zu bleiben.<\/p>"
+          }
+        },
+        "39b63c4b-010d-4620-9140-65ef5d643e7a": {
+          "type": "question",
+          "settings": {
+            "title": "WO WERDEN WIR SCHLAFEN?",
+            "answer": "<p>Jeden Abend werden wir unser Zeltlager an einem neuen Ort aufschlagen, der grob auf unserer geplanten Route liegt. Für die eisigen Nächte in der Wüste sind gute Schlafsäcke überlebenswichtig. Es kann aber auch manchmal passieren, dass wir zwischendurch von den Familien der Adlerjäger eingeladen werden, in ihren Jurten zu übernachten.<\/p>"
+          }
+        },
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU ESSEN?",
+            "answer": "<p>Auf unseren Packkamelen werden wir ausreichend Lebensmittel für die Expedition mitnehmen. Abends, unter dem sagenhaften Sternenhimmel, werden wir auf einem Lagerfeuer kochen. Wir lassen uns allerdings überraschen, was am Ende schließlich wirklich im Kochtopf landet. Vielleicht sind wir ja mit den Adlerjägern erfolgreich und wir können unsere eigens erlegte Beute grillen. Alle Teammitglieder sollten also flexibel sein, was die kulinarische Genügsamkeit angeht.<\/p>"
+          }
+        },
+        "f5ac558d-0e8c-4f6c-924f-d30777d13f25": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU TRINKEN?",
+            "answer": "<p>Unterwegs kommen wir immer wieder an Bergseen, frischen Quellen und kleinen Bächen vorbei. Dieses Wasser können wir filtern und als Trinkwasser verwenden und unsere Vorräte auffüllen, die die Packkamele für uns transportieren.<\/p>"
+          }
+        },
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808": {
+          "type": "question",
+          "settings": {
+            "title": "UMWELTSCHUTZ",
+            "answer": "<p>Uns ist es wichtig, dass wir die Natur so verlassen, wie wir sie vorgefunden haben. Bedenke also bitte, dass Dinge, die nicht verrotten (z.B. feuchtes Toilettenpapier) wieder mitgenommen werden müssen. Außerdem werden wir stark darauf achten, uns stets ruhig und respektvoll gegenüber der Natur zu verhalten.<\/p><p>Für den Ernstfall haben wir auch ein Satellitentelefon dabei, um eine Evakuierung anzufordern. Wir müssen jedoch mit Verzögerungen und Komplikationen bei einer Bergung rechnen, da wir den Weg aus dem Dschungel zurück laufen müssen. Helikopter gibt es keine. Ein einfacher Abbruch der Expedition oder „mal eben“ evakuieren lassen, ist nicht möglich.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16591670600498d9d8-1",
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09",
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad",
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c",
+        "39b63c4b-010d-4620-9140-65ef5d643e7a",
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3",
+        "f5ac558d-0e8c-4f6c-924f-d30777d13f25",
+        "ff8375ec-2fab-47d0-ab76-40ba1542d808"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FRAGEN UND ANTWORTEN",
+        "content": "",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659742838e503b999": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-08-15_153019.png"
+      }
+    },
+    "1659167555c1fbcd40": {
+      "type": "multi-column",
+      "blocks": {
+        "1659167555cca07099-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1: BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2: AUF ZUSAGE WARTEN",
+            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3: PLATZ SICHERN",
+            "content": "<p>Wenn von unserer Seite alles passt, bekommst du den Platz im Team.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "4: AUSRÜSTUNG BESORGEN",
+            "content": "<p> …und die Vorfreude genießen!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "d98165ba-3681-4a10-a964-4a5662fd2d08": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "5: VORFREUDE GENIESSE",
+            "content": "<p> …und los gehts!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659167555cca07099-0",
+        "1659167555cca07099-1",
+        "1659167555cca07099-2",
+        "1659167555cca07099-3",
+        "d98165ba-3681-4a10-a964-4a5662fd2d08"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#d4af37"
+      }
+    },
+    "16591676412d8cc68f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659167641c39da9ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-18.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "SICHERE DIR EINEN PLATZ",
+            "content": "<p>Wenn du bereit bist, durch die Mongolei zu reiten und immer schon einmal etwas machen wolltest, wofür dich deine Freunde für verrückt erklären, stelle dir noch folgende Fragen:<\/p><p>Kann ich die Zähne zusammenbeißen, wenn der lange Ritt mich quält und die nächste Pause auf sich warten lässt?<\/p><p>Habe ich überhaupt Zeit und 2.982Euro für die Tour? Wir fragen im Bewerbungsformular Termine ab und schauen, wann die meisten können.<\/p><p>Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659167641c39da9ab-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#dfdfdf",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 5,
+        "accent_background": "#030000",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#030000",
+        "background_section_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165908476867615e27",
+    "16597324032d20c495",
+    "16591119933865cdff",
+    "165973950846941f6b",
+    "16597333594eb2be54",
+    "16597389529fcbdf38",
+    "1659740270b90d6f47",
+    "16598775101070ffc6",
+    "16598776592755fb88",
+    "1660570525a182adaa",
+    "16605705314b9b9d7c",
+    "166057053766f163c3",
+    "1659166832699028e3",
+    "16591666827362880b",
+    "1659166921576383f9",
+    "16591669413d6027dd",
+    "1659167042b58da512",
+    "16597407557412a78d",
+    "1659742626286f0bf9",
+    "16591670606142721f",
+    "1659742838e503b999",
+    "1659167555c1fbcd40",
+    "16591676412d8cc68f"
+  ]
+}

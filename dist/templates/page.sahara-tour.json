@@ -1,0 +1,711 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "165908476867615e27": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/3_5f81694d-3c97-4010-bff7-d42bc0eefb11.png",
+        "subheading": "MAROKKO",
+        "title": "SAHARA TOUR",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16597324032d20c495": {
+      "type": "multi-column",
+      "blocks": {
+        "16597324039b06677c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wandermut_Flag_Maps_Icon_1fc96c00-59d7-4016-b561-188c2feae0bc.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LAND",
+            "content": "<p>MARKOKKO<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/time-8-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DAUER",
+            "content": "<p>ca. 2 Wochen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/add-user-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNEHMER",
+            "content": "<p>Ca. 12 Perosnen<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "16597324039b06677c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 15,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ZEITRAUM",
+            "content": "<p>JANUAR \/ FEBRUAR 2023<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16597324039b06677c-0",
+        "16597324039b06677c-1",
+        "16597324039b06677c-2",
+        "16597324039b06677c-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "small",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "165973950846941f6b": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-17.jpg",
+        "subheading": "",
+        "title": "DAS ZIEL",
+        "content": "<p>Unser Ziel ist es, abseits der Wege die extremen Herausforderungen der Wüste zu meistern. Die Strecke wird uns raus aus der Komfortzone und definitiv nah an unsere Grenzen bringen. Mit jedem Schritt wird uns dabei die Sahara tiefer ins Blut übergehen.<\/p><p>Sie ist die größte Trockenwüste unserer Erde und birgt nach wie vor unglaublich viele Geheimnisse. Immer wieder werden wir über uralte Dorfruinen oder steinzeitliche Überreste stolpern, denn seit Jahrtausenden hat sich die Oberfläche kaum verändert.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16597333594eb2be54": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0350-scaled.jpg"
+      }
+    },
+    "16597389529fcbdf38": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0169-scaled.jpg",
+        "subheading": "",
+        "title": "DER HINTERGRUND",
+        "content": "<p>Schon in den letzten Jahren sind wir in extrem abgelegene und uns unbekannte Gebiete der Sahara aufgebrochen. Auf der Suche nach steinzeitlichen Überresten auf schwer besteigbaren Tafelbergen oder auf der Suche nach Brunnen und Oasen in den staubtrockenen Ebenen der Wüste.<\/p><p>Dabei sind wir in Canyons vorgedrungen, die selbst für unsere einheimischen Guides unbekannt waren. Nicht jeder Weg war für uns und unsere Dromedare passierbar, sodass wir unterwegs gleich mehrmals die Route ändern mussten, in der Hoffnung, einen anderen Durchgang zu finden.<\/p><p>Wir müssen auf alles gefasst sein: Sandstürme, unpassierbares Gelände, glühende Hitze, aber auch auf atemberaubende Sonnenuntergänge und den unvergesslichen Sternenhimmel der Wüste.<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "16591664096b85bc4a": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wandermut-abenteuer-blog-titel.jpg"
+      }
+    },
+    "1659740270b90d6f47": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "DER PLAN",
+        "content": "<p>Unsere Route wird uns ca. 200 Kilometer durch die Wüste führen. Zusammen mit unserem Freund Mustapha (einem modernen Nomaden) werden wir uns mit Dromedaren und Lebensmitteln für knapp zwei Wochen von Wasserstelle zu Wasserstelle durchschlagen.<\/p><p>Das schaffen wir jedoch nur, wenn wir uns gegenseitig unterstützen und als Team zusammenarbeiten. Jeder wird tagtäglich mit anpacken, wenn es darum geht ein Lager aufzuschlagen, Feuerholz zu suchen und das Essen vorzubereiten.<\/p><p>Natürlich werden wir zwischendurch immer wieder improvisieren müssen, doch wenn alle an einem Strang ziehen, werden wir es schaffen.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#d4af37",
+        "button_text_color": "#000000",
+        "overlay_color": "#030000",
+        "overlay_opacity": 60
+      }
+    },
+    "16598775101070ffc6": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0107-scaled.jpg"
+      }
+    },
+    "16598776592755fb88": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/53.png",
+        "subheading": "",
+        "title": "DIE HERAUS- FORDERUNGEN",
+        "content": "<p>Sowohl körperlich als auch psychisch werden wir einiges auf uns nehmen müssen: bis zu 40°C Hitze am Tag sowie die eiskalten Nächte nahe 0°C zwingen uns dazu, leichte aber auch sehr warme Kleidung einzupacken. Das treibt das Gewicht des Marschgepäcks in die Höhe und dennoch wird sich jeder von uns auf das Mindeste beschränken müssen.<\/p><p>Die extreme Trockenheit birgt außerdem die Gefahr, nicht genug Wasser zu finden. Wir werden uns disziplinieren und trotz Anstrengungen gut haushalten müssen, da jeder einzelne Tropfen Wasser zunächst gereinigt werden muss.<\/p><p>Generell müssen wir jederzeit mit Sandstürmen rechnen, die den Himmel verdunkeln und ein Weiterkommen auf der 200 Kilometer langen Route sehr erschweren.<\/p><p>Das sind nur die Herausforderungen, mit denen wir rechnen – wer weiß, welche Überraschungen die Wüste sonst noch für uns parat hält?<\/p>",
+        "button_text": "Jetzt Bewerben",
+        "button_link": "#anker_scoll_bewerben",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_left",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 70
+      }
+    },
+    "16591666662bd4da67": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-17.jpg"
+      }
+    },
+    "16591666827362880b": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166682e18926ec-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LANDSCHAFT",
+            "content": "<p>Noch vor einigen tausend Jahren war die Sahara ein grünes Paradies. Davon ist jetzt nichts mehr zu sehen. Auf unserer Strecke durchwandern wir die verschiedensten Wüstentypen. Dazu gehören die trockene<em>Hammada<\/em>(Geröll- und Kieswüste), riesige Sanddünenfelder, die bis zum Horizont reichen und Canyons, in denen man sich leicht verirren kann. Dabei werden wir immer wieder an kleinen Oasen vorbeikommen, an denen wir rasten und unsere Wasservorräte auffüllen können.<\/p><p>So wuchsen zum Beispiel wertvolle Gewürze wie Muskatnuss oder Nelke nur auf den Molukken und wurden von hier in die ganze Welt verschifft. Deswegen sind die Inseln heute noch als Gewürzinseln bekannt.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TIERWELT",
+            "content": "<p>In den unterschiedlichen Wüstenabschnitten der Sahara werden wir auf ebenso unterschiedliche Tierarten stoßen.<\/p><p>Neben kleinen Tierarten wie Echsen und Schlagen haben wir die Chance, auf Gazellen, Füchse oder Esel zu stoßen. Letztere gehören zwar meistens einem Nomaden, streunen jedoch wild umher. Der eine oder andere Skorpion wird natürlich auch immer mal wieder vorbeischauen.<\/p><p>Mit ein bisschen Glück läuft uns sogar ein Wüstenwolf über den Weg!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166682e18926ec-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "KULTUR",
+            "content": "<p>Seit Jahrtausenden wird die Wüste von den verschiedensten Völkern bewohnt. Die <em>Sahrauis<\/em>, ein nomadisches Volk der Sahara, sind eine Mischung aus Arabern, Berbern und den Mauren.<\/p><p>Während unserer Tour ist die Wahrscheinlichkeit sehr hoch, dass wir auf diese nomadischen Stämme oder einzelne herumziehende Nomaden stoßen werden. Eines haben aber alle gemeinsam: eine Einladung zu einem Gläschen Tee wird es nahezu immer geben!<\/p><p>Im Gegenzug revanchieren wir uns mit dringend benötigten Medikamenten, um den liebenswürdigen Menschen etwas zurückzugeben.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166682e18926ec-0",
+        "1659166682e18926ec-1",
+        "1659166682e18926ec-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "DAS GEBIET",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659166832699028e3": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sahara-Titel-scaled.jpg"
+      }
+    },
+    "1659166849897f437b": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166848ef083972-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "VERLETZUNG",
+            "content": "<p>Bei leichten Verletzungen wird das Erste-Hilfe-Set ausreichen. Bei einem verstauchten Knöchel o. Ä., kann der Verletzte von einem Dromedar getragen werden. Giftige Tiere wie Skorpione oder Schlangen gibt es natürlich auch. Diese werden wir jedoch tagsüber kaum zu Gesicht bekommen. In der Nacht schlafen wir deswegen in Zelten. Im äußersten Notfall wird per Satellitentelefon ein Notruf gesendet.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166848ef083972-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DEHYDRATION",
+            "content": "<p>Wir werden von Beginn an große Wasserkanister mitnehmen, die an jeder Wasserstelle aufgefüllt werden. Viel trinken ist äußerst wichtig, um eine Dehydration zu verhindern!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166848ef083972-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "VERIRRUNG",
+            "content": "<p>Lokale Guides, GPS-Gerät sowie Karte und Kompass werden uns den Weg weisen. Die Gefahr für uns ist daher minimal.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166848ef083972-0",
+        "1659166848ef083972-1",
+        "1659166848ef083972-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "SICHERHEIT",
+        "content": "<p>Marokko gilt grundsätzlich als stabiles Land mit sehr effektiv arbeitenden Sicherheitsbehörden. Im algerischen Grenzgebiet ist prinzipiell Vorsicht geboten. In unserem Tourengebiet hat es jedoch noch nie Schwierigkeiten mit Ausländern gegeben. Wichtiger sind einige spezifische Hinweise, die jedem Teilnehmer bewusst sein sollten.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659166921576383f9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0157-1.jpg"
+      }
+    },
+    "16591669413d6027dd": {
+      "type": "multi-column",
+      "blocks": {
+        "1659166941e486a1ec-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-1115-Kopie-e1525780462964.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MUSTAPHA",
+            "content": "<p><strong>ist unser Guide vor Ort<\/strong><\/p><p>Mustapha ist wortwörtlich ein „Sohn der Wüste“. Er und seine Familie führen ein traditionell nomadisches Leben in der Sahara. Dabei ist ihm gelungen, was nur die wenigsten Nomaden schaffen: ein Universitätsstudium. Ohne seine Ortskenntnis und sein Wissen wäre unser Vorhaben kaum möglich.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659166941e486a1ec-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MARTIN",
+            "content": "<p><strong>organisiert diese Tour<\/strong><\/p><p>„Wenn man sich den Tag über durch die Sanddünen kämpft – 3 Schritte vorwärts, 2 zurück – entlohnt einen der Sternenhimmel am Abend mit unzähligen Sternschnuppen: Genug Wünsche sollte jeder Teilnehmer im Gepäck haben.“<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659166941e486a1ec-0",
+        "1659166941e486a1ec-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "WIR SIND WANDERMUT",
+        "title": "WER MACHT DENN SOWAS?",
+        "content": "<p>Unser Ziel ist es, die verrücktesten Abenteuer in die Tat umzusetzen. Herausfordernde Landschaften und abgelegene Gebiete fernab des Massentourismus ziehen uns magisch an. Dabei scheuen wir weder körperliche Anstrengung, noch die Gefahren. Zusammen mit Gleichgesinnten brechen wir auf, um Abenteuer hautnah zu erleben, die sich sonst kaum einer traut.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659167042b58da512": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0270-scaled.jpg"
+      }
+    },
+    "16597407557412a78d": {
+      "type": "multi-column",
+      "blocks": {
+        "1659740755753e25a9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-7-128.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TERMIN",
+            "content": "<p>Für dieses Jahr haben wir schon Teams geplant. Dies sind die Daten:<\/p><p>19. November – 2. Dezember 2022 (Team ist voll) 6. – 19. Dezember 2022 (Team ist voll) 7. – 20. Januar 2023 24. Januar – 6. Februar 2023<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downloads.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "TEILNAHMBEITRAG",
+            "content": "<p>DER TEILNAHMEBETRAG FÜR DIE SAHARA TOUR IST  2.175 €.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659740755753e25a9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anforderung_Icon_b008f061-6182-48e4-9dff-58ab9b800a93.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ANFORDERUNGEN",
+            "content": "<p>Hohe körperliche Belastbarkeit, Gelassenheit in unbekannten Situationen und Teamfähigkeit werden vorausgesetzt. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659740755753e25a9-1",
+        "1659740755753e25a9-0",
+        "1659740755753e25a9-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WICHTIGE HARD FACTS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659742626286f0bf9": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg"
+      }
+    },
+    "16591670606142721f": {
+      "type": "faq",
+      "blocks": {
+        "16591670600498d9d8-1": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist im Preis dabei?",
+            "answer": "<p><strong>DABEI SIND:<\/strong><\/p><p>✓ Unterkünfte ab Tourstart bis in den Dschunge<\/p><p>✓ Zelte<\/p><p>✓ Guides<\/p><p>✓ Koch-, Sicherheits- und Expeditions-Equipment<\/p><p>✓ GPS-Geräte und Satellitentelefon<\/p><p>✓ Wissenschaftliches Equipment<\/p><p>✓ Verpflegung während der Expedition<\/p><p><strong>NICHT DABEI SIND<\/strong><\/p><p>☓ Flüge nach Ternate<\/p><p>☓ Unterkünfte in Ternate bis zum Start der Expedition<\/p><p>☓ Restaurantbesuche und alkoholische Getränke<\/p>"
+          }
+        },
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09": {
+          "type": "question",
+          "settings": {
+            "title": "BIN ICH GEEIGNET FÜR DIE TOUR?",
+            "answer": "<p>Die richtigen Voraussetzungen bedeutet für uns, dass du mit der richtigen Erwartung an die Tour herangehen musst. Es kann über viele Tage hinweg sehr anstrengend und schmutzig werden. Auch ein hungriger Magen wird nicht ausbleiben. Du solltest in der Lage sein, einen Rucksack mit knapp 15 Kilogramm über tägliche Distanzen von bis zu 25 Kilometern zu tragen. Dabei laufen wir in einem recht zügigen Tempo und wir orientieren uns nicht am Langsamsten, denn die geplante Strecke erfordert ein entsprechendes Tempo. Du solltest also auch im zügigen Tempo trittsicher sein. Wir werden darauf achten, dass das gesamte Team optimal vorbereitet ist, indem wir jeden einzelnen in der Vorbereitung betreuen.<\/p><p>Da wir oft gefragt werden: Selbstverständlich haben wir Powerfrauen in unseren Gruppen dabei. In der Regel sind unsere Gruppen ausgewogen durchmischt. Am Ende entscheiden wir nach Bauchgefühl, wen wir mitnehmen können und wen nicht. Letztendlich wollen wir ein tolles Team zusammenbekommen, mit dem es einfach Spaß macht unterwegs zu sein.<\/p><p>Wenn du dir unsicher bist, ob du geeignet bist, mach doch den <a href=\"https:\/\/wandermut.typeform.com\/to\/YDcENwT7\">Selbsttest<\/a>. Man muss zwar fit aber sicherlich kein Reinhold Messner sein.<\/p>"
+          }
+        },
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad": {
+          "type": "question",
+          "settings": {
+            "title": "WER ORGANISIERT DIE AN- UND ABREISE?",
+            "answer": "<p><strong>Dies ist keine Pauschalreise!<\/strong><\/p><p>Deine Anreise und die Ausrüstung musst du eigenständig organisieren. Wir beraten dich selbstverständlich in allen Vorbereitungen. Dazu werden wir rechtzeitig eine geheime Facebook-Gruppe für das Team gründen. Dort wird alles im Detail besprochen.<\/p>"
+          }
+        },
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c": {
+          "type": "question",
+          "settings": {
+            "title": "WO WERDEN WIR SCHLAFEN?",
+            "answer": "<p>Vor und nach der Tour hat jeder die Freiheit, schlafen zu können wo er möchte. Während der Tour schlafen wir in Zelten. Oft haben wir sogar die Gelegenheit unter dem freien Sternenhimmel der Sahara zu schlafen!<\/p>"
+          }
+        },
+        "39b63c4b-010d-4620-9140-65ef5d643e7a": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU ESSEN?",
+            "answer": "<p>Wir backen unser eigenes Brot in der Wüste und essen grundsätzlich nur das, was wir selbst mitnehmen und tragen können. Vor Ort werden wir landestypische Zutaten einkaufen. Wir kochen reihum und unter der Anleitung von Mustapha, der uns die nomadische Küche näher bringen wird. Natürlich können wir nur solche Nahrungsmittel mitnehmen, die gut zu transportieren und nicht leicht verderblich sind, da wir keine Möglichkeit zum Kühlhalten haben. Auf besondere Essenwünsche können wir deswegen nur begrenzt eingehen.<\/p>"
+          }
+        },
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3": {
+          "type": "question",
+          "settings": {
+            "title": "WAS GIBT ES ZU TRINKEN?",
+            "answer": "<p>Von Beginn an haben wir große Wasserkanister dabei, die bei jedem Brunnen und Oase aufgefüllt werden. Das Wasser wird natürlich desinfiziert, bevor wir es trinken.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16591670600498d9d8-1",
+        "c9c89c9c-054a-4056-848e-9c4bd76b9e09",
+        "201557a0-85c5-4ce4-9e1f-5381ff5ddbad",
+        "c854aeab-a2d7-44c9-a2ce-e9120426894c",
+        "39b63c4b-010d-4620-9140-65ef5d643e7a",
+        "4617656e-3f3d-45f3-bc4d-8a22df4cd0c3"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FRAGEN UND ANTWORTEN",
+        "content": "",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659742838e503b999": {
+      "type": "prallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wandermut-abenteuer-blog-ueber-uns-2.jpg"
+      }
+    },
+    "1659167555c1fbcd40": {
+      "type": "multi-column",
+      "blocks": {
+        "1659167555cca07099-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "1: BEWERBUNG ABSCHICKEN",
+            "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich über das Formular!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "2: AUF ZUSAGE WARTEN",
+            "content": "<p>Wir sagen dir Bescheid, ob wir dich mitnehmen können oder nicht.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3: PLATZ SICHERN",
+            "content": "<p>Wenn von unserer Seite alles passt, bekommst du den Platz im Team.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1659167555cca07099-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "4: VORFREUDE GENIESSE",
+            "content": "<p> …und los gehts!<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1659167555cca07099-0",
+        "1659167555cca07099-1",
+        "1659167555cca07099-2",
+        "1659167555cca07099-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "NÄCHSTE SCHRITTE",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#d4af37"
+      }
+    },
+    "16591676412d8cc68f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659167641c39da9ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin-Kopie-e1599650381698.jpg",
+            "tab_label": "",
+            "subheading": "",
+            "title": "SICHERE DIR EINEN PLATZ",
+            "content": "<p><strong>Stelle dir folgende Fragen, wenn du dabei sein willst:<\/strong><\/p><p>Kann ich die Zähne zusammenbeißen, wenn die Hitze einen quält und der nächste Brunnen auf sich warten lässt?<\/p><p>Habe ich überhaupt Zeit und2.175Euro für die Tour? Wir fragen im Bewerbungsformular Termine ab und schauen, wann die meisten können. <\/p><p>Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
+            "button_text": "Jetzt bewerben",
+            "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe"
+          }
+        }
+      },
+      "block_order": [
+        "1659167641c39da9ab-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_color": "#dfdfdf",
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 5,
+        "accent_background": "#030000",
+        "text_color": "#030000",
+        "button_background": "#d4af37",
+        "button_text_color": "#030000",
+        "background_section_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165908476867615e27",
+    "16597324032d20c495",
+    "165973950846941f6b",
+    "16597333594eb2be54",
+    "16597389529fcbdf38",
+    "16591664096b85bc4a",
+    "1659740270b90d6f47",
+    "16598775101070ffc6",
+    "16598776592755fb88",
+    "16591666662bd4da67",
+    "16591666827362880b",
+    "1659166832699028e3",
+    "1659166849897f437b",
+    "1659166921576383f9",
+    "16591669413d6027dd",
+    "1659167042b58da512",
+    "16597407557412a78d",
+    "1659742626286f0bf9",
+    "16591670606142721f",
+    "1659742838e503b999",
+    "1659167555c1fbcd40",
+    "16591676412d8cc68f"
+  ]
+}
