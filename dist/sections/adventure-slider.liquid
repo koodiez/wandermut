@@ -1,3 +1,12 @@
+<style>
+  @media (hover: none) {
+  .swiper-opacity_mobile {
+    opacity: {{ section.settings.overlayadv }};
+  }
+}
+</style>
+
+
 <!-- Swiper -->
 <div class="insta-swiper_container" style="background-image: url({{section.settings.image_background | image_url }});">
     <div class="adventure_heading-wrapper">
@@ -7,7 +16,7 @@
         <div class="swiper-wrapper">
         {% for block in section.blocks %}
         <div class="swiper-slide" style="background: rgba({{ section.settings.overlay_color.red }}, {{ section.settings.overlay_color.green }}, {{ section.settings.overlay_color.blue }}, {{ section.settings.overlayadv }});">
-            <img style="z-index: -1;" src="{{block.settings.image | img_url: '475x'}}" alt="">
+            <img class="swiper-opacity_mobile" style="z-index: -1;" src="{{block.settings.image | img_url: '475x'}}" alt="">
             {% if block.settings.text-heading != blank  %}
             <div class="slider-image_heading">
                 <h3 style="color: {{ section.settings.imagetextcolor }};">{{ block.settings.text-heading }}</h3>
@@ -54,11 +63,11 @@
             slidesPerView: 2,
             spaceBetween: 20,
           },
-          768: {
+          1100: {
             slidesPerView: 4,
             spaceBetween: 40,
           },
-          1024: {
+          1500: {
             slidesPerView: 5,
             spaceBetween: 50,
           },

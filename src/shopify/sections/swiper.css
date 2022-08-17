@@ -91,7 +91,7 @@
   position: absolute;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 200px;
+  width: 190px;
 }
 .slider-image_button {
   position: absolute;
@@ -102,7 +102,7 @@
 }
 .adv-custom_button {
   background-color: #dbc30e;
-  padding: 12px 32px;
+  padding: 12px 22px;
   color: black;
 }
 .slider-image_tag {
