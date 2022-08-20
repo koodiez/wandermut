@@ -10,7 +10,8 @@
 <!-- Swiper -->
 <div class="insta-swiper_container" style="background-image: url({{section.settings.image_background | image_url }});">
     <div class="adventure_heading-wrapper">
-    <h2 style="color: {{ section.settings.imagetextcolor }};">{{ section.settings.section-heading }}</h2>
+    <h2 class="slider-section_heading" style="color: {{ section.settings.imageheadingcolor }}; font-size: {{ section.settings.headingsize }}px !important;">{{ section.settings.section-heading }}</h2>
+    <p style="color: {{ section.settings.imageheadingcolor }};">{{ section.settings.sectionparagraph }}</p>
     </div>
     <div class="swiper mySwiper">
         <div class="swiper-wrapper">
@@ -92,9 +93,29 @@
         {
             "type": "color",
             "id": "imagetextcolor",
-            "label": "Bild Schrift Farbe",
+            "label": "Textfarbe auf den Abenteuer Bildern",
             "default": "#FFFFFF"
         },
+        {
+          "type": "color",
+          "id": "imageheadingcolor",
+          "label": "Überschrift Farbe Section und Text",
+          "default": "#FFFFFF"
+      },
+      {
+        "type": "range",
+        "label": "Überschrift Section Größe",
+        "id" : "headingsize",
+        "min": 12,
+        "max": 50,
+        "step": 1,
+        "default": 30
+       },
+       {
+       "type": "text",
+       "id": "sectionparagraph",
+       "label": "Section Paragraph Text und der Heading"
+       },
         {
             "type": "range",
             "label": "Overlay Stärke Hintergrundbild",
@@ -118,7 +139,7 @@
            {
             "type": "color",
             "id": "overlay_color",
-            "label": "Overlay",
+            "label": "Overlay Farbe auf den Abenteuern",
             "default": "#000000"
           }
            ],

@@ -107,11 +107,16 @@
 }
 .slider-image_tag {
   position: absolute;
-  top: 0px;
-  right: 0px;
+  top: 10px;
+  left: 10px;
 }
 .tag_adventure {
-  padding: 7px;
+  padding: 5px;
   font-size: 12px;
   font-weight: 700;
+}
+
+.slider-section_heading {
+  margin-bottom: 16px;
+  padding: 0;
 }

@@ -87,7 +87,7 @@
       }
 </style>
 
-<section class="section {% if section.settings.background_overlap == 'both' and is_boxed == false %}section--flush{% endif %}" id="anker_scoll_bewerben">
+<section class="section {% if section.settings.background_overlap == 'both' and is_boxed == false %}section--flush{% endif %}" id="{{ section.settings.ankerid }}">
   <div {% if is_boxed %}class="container"{% endif %}>
     {%- assign first_block = section.blocks.first -%}
 
@@ -168,6 +168,11 @@
   "class": "shopify-section--image-with-text",
   "max_blocks": 2,
   "settings": [
+    {
+      "type": "text",
+      "label": "Anker ID hier eingeben",
+      "id": "ankerid"
+    },
     {
       "type": "checkbox",
       "id": "reveal_on_scroll",
