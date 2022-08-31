@@ -157,8 +157,8 @@
         "subheading": "",
         "title": "DER PLAN",
         "content": "<p>In den wilden Schluchten und kargen Wüsten sind wir auf unsere Pferde angewiesen. Deswegen werden mongolische Reiter uns in einem kleinen Bergdorf auf die Tour vorbereiten, bevor wir ins Altai Gebirge, der Heimat von Schneeleoparden und Wölfen, aufbrechen. <\/p><p>Als Reitervolk leben sie seit Generationen mit den Pferden zusammen. Gemeinsam werden wir die Pferde satteln, die Packkamele beladen und den Aufbruch ins Gebirge wagen. Dort schlagen wir uns Tag für Tag weiter in die Wildnis vor. Jeden Abend müssen wir einen neuen Ort finden, um unsere Zelte aufzuschlagen. <\/p><p>Im Herzen der Altai-Berge werden wir gemeinsam einen Weg über den wilden Khovd Fluss finden, um auf die kasachischen Adlerjäger zu stoßen, die hier halbnomadisch in ihren Jurten leben. Mit ihren Adlern jagen sie bereits seit Jahrtausenden Füchse, Hasen und Murmeltiere. Mit ihnen werden wir reiten, jagen und uns durch Wüsten, Bergpässe und endlose Steppen schlagen. Nach tagelangen Ritten werden wir anschließend hoffentlich ein Bergdorf mit Straßenanschluss erreichen – von hier aus schaffen wir es zurück in die Zivilisation. <\/p><p>Im Herzen des Dschungels angekommen, errichten wir unser Forschungscamp und machen uns auf die Suche nach dem einzigartigen Reptil. Das Lager wird unsere Base sein, von der wir tagsüber in den Dschungel ausschwärmen. Alle Teammitglieder werden bei allen Aufgaben der Forschung, aber auch dem Suchen von Nahrung, Trinkwasser und Feuerholz gebraucht.<\/p><p>Wenn wir es nach hoffentlich erfolgreicher Mission wohlbehalten aus dem Dschungel geschafft haben, werden wir nicht nur mit neuen Entdeckungen und Erfahrungen belohnt: Es wartet dort eine kleine, palmenüberladene Tropeninsel auf uns. Hier erholen wir uns von den Strapazen der Expedition.<\/p>",
-        "button_text": "Jetzt Bewerben",
-        "button_link": "#anker_scoll_bewerben",
+        "button_text": "ZUR BEWERBUNG",
+        "button_link": "https:\/\/wandermut-produkte.myshopify.com\/pages\/mongolei#anker_scoll_bewerben",
         "link_style": "button",
         "background_type": "full_width",
         "text_width": "large",
@@ -685,7 +685,7 @@
             "subheading": "",
             "title": "SICHERE DIR EINEN PLATZ",
             "content": "<p>Wenn du bereit bist, durch die Mongolei zu reiten und immer schon einmal etwas machen wolltest, wofür dich deine Freunde für verrückt erklären, stelle dir noch folgende Fragen:<\/p><p>Kann ich die Zähne zusammenbeißen, wenn der lange Ritt mich quält und die nächste Pause auf sich warten lässt?<\/p><p>Habe ich überhaupt Zeit und 2.982Euro für die Tour? Wir fragen im Bewerbungsformular Termine ab und schauen, wann die meisten können.<\/p><p>Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
-            "button_text": "",
+            "button_text": "ALLE PLÄTZE BELEGT",
             "button_link": ""
           }
         }
@@ -695,7 +695,7 @@
       ],
       "settings": {
         "reveal_on_scroll": true,
-        "background_color": "#dfdfdf",
+        "background_color": "#ffffff",
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",

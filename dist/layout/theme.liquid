@@ -78,7 +78,10 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
     {% render 'css-variables', direction: direction %}
     {% render 'js-variables', direction: direction %}
 
+    {% render 'color-pages' %}
+
     <link rel="stylesheet" href="{{ 'theme.css' | asset_url }}">
+
 
     <script src="{{ 'vendor.js' | asset_url }}" defer></script>
     <script src="{{ 'theme.js' | asset_url }}" defer></script>

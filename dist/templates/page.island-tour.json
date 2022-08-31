@@ -158,7 +158,7 @@
         "title": "DER PLAN",
         "content": "<p>Der Plan sieht vor hoch in den Norden vorzudringen. Dazu müssen wir uns zunächst mit einem Boot zum Startpunkt bringen lassen. Zu dieser Zeit ist die See schon sehr rau. Ein ordentlicher Wellengang ist also nicht auszuschließen. Entlang der schroffen Küste führt die Route über hundert Kilometer bis in den letzten Zipfel der Landzunge. Gigantische Steilklippen direkt am Meer, dahinter glitzern riesige Eisfelder. Strapazen und Stürme sind vorprogrammiert.<\/p><p>Dabei sind wir auf uns allein gestellt. Das bedeutet, dass wir alles, was wir in der Zeit benötigen selbst tragen müssen. Dazu gehören Zelte, das Küchenequipment und die komplette Verpflegung. Jedes Teammitglied wird Aufgaben während der Tour bekommen, denn nur im Team sind die Herausforderungen zu meistern. Davon birgt der Plan einige und nur wenige Guides sind in der Lage uns über die schwierige Route zu führen.<\/p><p>Wenn alles gut geht, werden wir nach knapp zwei Wochen wieder in der Zivilisation ankommen.<\/p>",
         "button_text": "Jetzt Bewerben",
-        "button_link": "#anker_scoll_bewerben",
+        "button_link": "https:\/\/wandermut-produkte.myshopify.com\/pages\/island-tour#islandtour",
         "link_style": "button",
         "background_type": "full_width",
         "text_width": "large",
@@ -680,8 +680,9 @@
         "1659167641c39da9ab-0"
       ],
       "settings": {
+        "ankerid": "islandtour",
         "reveal_on_scroll": true,
-        "background_color": "#dfdfdf",
+        "background_color": "#ffffff",
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",

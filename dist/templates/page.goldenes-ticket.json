@@ -10,9 +10,10 @@
     },
     "166085969199924461": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
-        "section_height": "auto",
+        "section_height": "medium",
         "image": "shopify:\/\/shop_images\/1920_x_1080_px.jpg",
         "subheading": "",
         "title": "7 vs. Wild + WANDERMUT",

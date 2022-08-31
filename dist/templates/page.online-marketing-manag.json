@@ -30,6 +30,58 @@
         "overlay_opacity": 30
       }
     },
+    "1660643364fb8c531d": {
+      "type": "multi-column",
+      "blocks": {
+        "1660643364a4654472-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kisspng-alarm-clocks-computer-icons-clip-art-timer-clock-svg-png-icon-free-download-4-7929-onlin-5b6bff319d04d5.4179051215338043376432.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "UMFANG",
+            "content": "<p>Vollzeit<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1660643364a4654472-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/location-png-icon-location-icon-png-free-11562933803vththezlcl.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "STANDORT",
+            "content": "<p>Büro in Köln. Home Office möglich<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1660643364a4654472-2",
+        "1660643364a4654472-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "HARD FACTS",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#030000",
+        "text_color": "#ffffff"
+      }
+    },
     "166054279484589385": {
       "type": "rich-text",
       "settings": {
@@ -84,7 +136,7 @@
         "image": "shopify:\/\/shop_images\/Husky_Expedition_Kostroma_2017_606.jpg",
         "subheading": "",
         "title": "DAS SOLLTEST DU MITBRINGEN:",
-        "content": "<p>Erfahrung im Optimieren von Facebook-, YouTube-, Google- und E-Mail-Ads.<\/p><p>Du hast Talent und bist ein echter Allrounder im Online-Marketing.<\/p><p>Du bleibst up to date was die Entwicklungen im Online Marketing angeht. <\/p><p>Du bist sowohl kreativ, kannst aber auch aus den Reportings schlau werden und Verbesserungen ableiten. <\/p><p>Eigenständiges Arbeiten und Lösen von Problemen.<\/p>",
+        "content": "<p>✓ Erfahrung im Optimieren von Facebook-, YouTube-, Google- und E-Mail-Ads.<\/p><p>✓ Du hast Talent und bist ein echter Allrounder im Online-Marketing.<\/p><p>✓ Du bleibst up to date was die Entwicklungen im Online Marketing angeht. <\/p><p>✓ Du bist sowohl kreativ, kannst aber auch aus den Reportings schlau werden und Verbesserungen ableiten. <\/p><p>✓ Eigenständiges Arbeiten und Lösen von Problemen.<\/p>",
         "button_text": "",
         "button_link": "",
         "link_style": "link",
@@ -112,7 +164,7 @@
         "image": "shopify:\/\/shop_images\/Screenshot_2022-07-06_082109.png",
         "subheading": "",
         "title": "WAS WIR DIR BIETEN:",
-        "content": "<p>Abenteuer! Wir haben ein paar Kriterien dafür, aber die Chancen stehen gut, dass du dich bald in der Wüste oder an einem anderen Ort in der Welt wiederfinden wirst!<\/p><p>Arbeiten vom Homeoffice ist natürlich möglich, wobei du vermutlich lieber ins Büro kommen wirst.<\/p><p>Du siehst deine Ergebnisse sofort und übernimmst Verantwortung. <\/p><p>Wir unterstützen dich mit Experten, Kursen und Workshops auf dem Weg zum Online Marketing Master<\/p><p>Unser Büro in Wohnzimmer-Atmosphäre liegt direkt am Brüsseler Platz im Herzen von Köln.<\/p><p>Technische Ausstattung mit neuesten Apple Produkten<\/p><p>Wir sind ein kleines Startup mit flachen Hierarchien, hochmotivierten Kollegen, die wirklich etwas bewegen wollen.<\/p><p>Du wirst wirklich gebraucht. Das bedeutet, dass du die Chance hast in einem kleinen Startup wirklich etwas zu bewegen. <\/p><p>Du wirst den Erfolg deiner Arbeit sehen.<\/p><p>Wir versorgen dich mit Kaffee und kalten Getränken.Es wird regelmäßige (Outdoor) Teamevents geben.<\/p>",
+        "content": "<p>✓ Abenteuer! Wir haben ein paar Kriterien dafür, aber die Chancen stehen gut, dass du dich bald in der Wüste oder an einem anderen Ort in der Welt wiederfinden wirst!<\/p><p>✓ Arbeiten vom Homeoffice ist natürlich möglich, wobei du vermutlich lieber ins Büro kommen wirst.<\/p><p>✓ Du siehst deine Ergebnisse sofort und übernimmst Verantwortung. <\/p><p>✓ Wir unterstützen dich mit Experten, Kursen und Workshops auf dem Weg zum Online Marketing Master<\/p><p>✓ Unser Büro in Wohnzimmer-Atmosphäre liegt direkt am Brüsseler Platz im Herzen von Köln.<\/p><p>✓ Technische Ausstattung mit neuesten Apple Produkten<\/p><p>✓ Wir sind ein kleines Startup mit flachen Hierarchien, hochmotivierten Kollegen, die wirklich etwas bewegen wollen.<\/p><p>✓ Du wirst wirklich gebraucht. Das bedeutet, dass du die Chance hast in einem kleinen Startup wirklich etwas zu bewegen. <\/p><p>✓ Du wirst den Erfolg deiner Arbeit sehen.<\/p><p>✓ Wir versorgen dich mit Kaffee und kalten Getränken.Es wird regelmäßige (Outdoor) Teamevents geben.<\/p>",
         "button_text": "",
         "button_link": "",
         "link_style": "link",
@@ -134,7 +186,7 @@
           "settings": {
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
-            "title": "1 BEWERBUNG ABSCHICKEN",
+            "title": "1: BEWERBUNG ABSCHICKEN",
             "content": "<p>Lies dir die Fragen und Antworten durch und bewirb dich online!<\/p>",
             "link_text": "",
             "link_url": "",
@@ -148,7 +200,7 @@
           "settings": {
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
-            "title": "2 KONTAKT",
+            "title": "2: KONTAKT",
             "content": "<p>Wir werden uns mit dir in Verbindung setzen<\/p>",
             "link_text": "",
             "link_url": "",
@@ -162,7 +214,7 @@
           "settings": {
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
-            "title": "3 WILLKOMMEN IM TEAM",
+            "title": "3: WILLKOMMEN IM TEAM",
             "content": "<p>Wenn von beiden Seiten alles passt, startest du durch!<\/p>",
             "link_text": "",
             "link_url": "",
@@ -187,8 +239,8 @@
         "mobile_item_size": "medium",
         "desktop_item_size": "medium",
         "spacing": "normal",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "background": "#030000",
+        "text_color": "#ffffff"
       }
     },
     "166054329573819fee": {
@@ -203,8 +255,8 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
+        "background": "#030000",
+        "text_color": "#ffffff",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
@@ -249,7 +301,7 @@
       ],
       "settings": {
         "reveal_on_scroll": true,
-        "stack_items": false,
+        "stack_items": true,
         "subheading": "",
         "title": "DEINE ANSPRECHPARTNER",
         "content": "",
@@ -257,14 +309,15 @@
         "mobile_item_size": "large",
         "desktop_item_size": "large",
         "spacing": "loose",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "background": "#030000",
+        "text_color": "#ffffff"
       }
     }
   },
   "order": [
     "main",
     "16605427234a69322f",
+    "1660643364fb8c531d",
     "166054279484589385",
     "1660542827ad61f5b4",
     "1660542887e22c446d",

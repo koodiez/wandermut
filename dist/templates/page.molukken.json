@@ -754,7 +754,7 @@
       ],
       "settings": {
         "reveal_on_scroll": true,
-        "background_color": "#dfdfdf",
+        "background_color": "#ffffff",
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",

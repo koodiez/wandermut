@@ -37,7 +37,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/wandermut-Icon-Wegweiser.png",
-            "image_width": 36,
+            "image_width": 15,
             "image_border": "rgba(0,0,0,0)",
             "title": "LAND",
             "content": "<p>PERU<\/p>",
@@ -52,7 +52,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/muscle-icon-10-small.png",
-            "image_width": 36,
+            "image_width": 15,
             "image_border": "rgba(0,0,0,0)",
             "title": "NIVEAU",
             "content": "<p>BRUTAL<\/p>",
@@ -67,7 +67,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/wandermut-Icon-Zelt.png",
-            "image_width": 51,
+            "image_width": 15,
             "image_border": "rgba(0,0,0,0)",
             "title": "TEILNEHMER",
             "content": "<p>CA. 12 PERSONEN<\/p>",
@@ -82,7 +82,7 @@
           "type": "item",
           "settings": {
             "image": "shopify:\/\/shop_images\/calendar-7-128.png",
-            "image_width": 37,
+            "image_width": 15,
             "image_border": "rgba(0,0,0,0)",
             "title": "ZEITRAUM",
             "content": "<p>AUGUST-SEPTEMBER 2022<\/p>",
@@ -185,14 +185,14 @@
         "subheading": "",
         "title": "DER PLAN",
         "content": "<p>Das Gebiet, in dem die Chachapoya vor über 500 Jahren gelebt haben, ist ungefähr so groß wie die heutige Schweiz. Betreten wird es von niemandem.<\/p><p>Heutige Dörfer, wie das unserer Guides, gehörten einst zu den Siedlungen der Chachapoya. Es ist unstrittig, dass  es noch viele weitere Siedlungen tief im Regenwald geben muss. Doch das Wissen wo sie zu finden sind, ist über die Jahrhunderte verloren gegangen.<\/p><p>Deswegen organisieren wir immer wieder Expeditionen und durchkämmen das Gebiet mit neuen Routen – immer auf der Suche nach dem nächsten Großen Fund!<\/p><p>Pfade gibt es dabei nicht. Oft müssen wir uns den Weg auf der Suche nach Spuren mit Macheten freischlagen. Dabei hilft uns manchmal das Verhalten von Tieren wie Brillenbären oder Pumas. Seit Jahrhunderten nutzen sie die alten Wege der Menschen als Trampelpfade und erhalten sie somit bis zum heutigen Tag. <\/p><p>Es wird verdammt anstrengend und auch riskant! Niemand weiß, was sich hier im Regenwald verbirgt. Nicht mal unsere einheimischen Freunde. Nur mit viel Kraft, einem starken Teamgeist und den besten Guides wird es möglich sein vorwärts zu kommen. Doch die Strapazen werden sich lohnen. Neben dem puren Dschungel-Feeling haben wir bei dieser Expedition die Chance auf etwas wirklich Großes zu stoßen.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "link_style": "link",
+        "button_text": "JETZT BEWERBEN",
+        "button_link": "https:\/\/wandermut-produkte.myshopify.com\/pages\/peru#anker_scoll_bewerben",
+        "link_style": "button",
         "background_type": "full_width",
         "text_width": "medium",
         "text_position": "middle_left",
         "text_color": "#ffffff",
-        "button_background": "#ffffff",
+        "button_background": "#d4af37",
         "button_text_color": "#000000",
         "overlay_color": "#000000",
         "overlay_opacity": 80
@@ -336,8 +336,8 @@
         "mobile_item_size": "large",
         "desktop_item_size": "large",
         "spacing": "loose",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "background": "#030000",
+        "text_color": "#ffffff"
       }
     },
     "16605683003ddf36fb": {
@@ -655,20 +655,6 @@
     "1660569070a29f634b": {
       "type": "multi-column",
       "blocks": {
-        "1660569070b22c4e88-2": {
-          "type": "item",
-          "settings": {
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "",
-            "content": "<p>BEWIRB DICH HIER!<\/p><p><strong>Stelle dir folgende Fragen, wenn du dabei sein willst:<\/strong><\/p><p>Kann ich die Zähne zusammenbeißen, wenn der Dschungel mich quält und die nächste Pause auf sich warten lässt?Habe ich überhaupt Zeit und4.473Euro für die Tour? Wir fragen im Bewerbungsformular Termine ab und schauen, wann die meisten können.Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
-            "link_text": "Bewirb dich jetzt",
-            "link_url": "https:\/\/wandermut.de\/bewerbung",
-            "link_style": "button",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
-        },
         "1660569070b22c4e88-3": {
           "type": "item",
           "settings": {
@@ -683,15 +669,29 @@
             "text_alignment": "center",
             "vertical_alignment": "start"
           }
+        },
+        "1660569070b22c4e88-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>BEWIRB DICH HIER!<\/p><p><strong>Stelle dir folgende Fragen, wenn du dabei sein willst:<\/strong><\/p><p>Kann ich die Zähne zusammenbeißen, wenn der Dschungel mich quält und die nächste Pause auf sich warten lässt?Habe ich überhaupt Zeit und4.473Euro für die Tour? Wir fragen im Bewerbungsformular Termine ab und schauen, wann die meisten können.Möchte ich eine Erfahrung machen, die ich noch meinen Enkeln erzählen werde?<\/p>",
+            "link_text": "Bewirb dich jetzt",
+            "link_url": "https:\/\/wandermut.de\/bewerbung",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
         }
       },
       "block_order": [
-        "1660569070b22c4e88-2",
-        "1660569070b22c4e88-3"
+        "1660569070b22c4e88-3",
+        "1660569070b22c4e88-2"
       ],
       "settings": {
         "reveal_on_scroll": true,
-        "stack_items": false,
+        "stack_items": true,
         "subheading": "",
         "title": "BEWIRB DICH HIER!",
         "content": "",

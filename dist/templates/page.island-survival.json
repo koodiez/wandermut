@@ -158,7 +158,7 @@
         "title": "DER PLAN",
         "content": "<p>Sobald wir aus dem Helikopter in den Pazifik springen, werden wir mit unseren wenigen Vorräten zunächst zum Sandstrand der Insel schwimmen. Ohne unseren Survival Experten würden wir vermutlich keine 3 Tage durchhalten. Deswegen wird er uns alle notwendigen Survival Skills, wie Fische mit der Harpune jagen, Kokosnüsse knacken oder Feuer zu machen, beibringen. Dann verlässt er uns, und wir sind vollkommen auf uns allein gestellt. <\/p><p>In den darauffolgenden Tagen müssen wir uns nicht nur eigenständig um Essen und Trinken kümmern. Wir werden uns kameradschaftlich organisieren und mit unseren eigenen Händen und dem, was wir auf der Insel finden, ein Floß bauen, um die Insel verlassen zu können.<\/p>",
         "button_text": "Jetzt Bewerben",
-        "button_link": "#anker_scoll_bewerben",
+        "button_link": "https:\/\/wandermut-produkte.myshopify.com\/pages\/island-tour#islandtour",
         "link_style": "button",
         "background_type": "full_width",
         "text_width": "large",
@@ -186,7 +186,7 @@
         "title": "DIE HERAUSFORDERUNGEN",
         "content": "<p>Die größte Herausforderung wird sich in unseren Köpfen abspielen. Zum ersten Mal im Leben sind wir darauf angewiesen fernab der Zivilisation ausreichend Nahrung und Trinkwasser zu beschaffen, um zu überleben. Niemand wird uns dafür zur Hilfe eilen. Es wird Momente geben, an denen wir verzweifelt, hungrig, zerstochen und mit den Nerven am Ende sein werden. Doch genau das sind die Dinge, die für uns ein echtes Abenteuer ausmachen!<\/p><p>Auf Nachbarinseln wissen wir, dass dort Salzwasserkrokodile leben. Das können wir bei unserer Insel zum Glück ausschließen. Genauso wie giftige Tierarten. Was übrig bliebt sind die Abgeschiedenheit, Tropenstürme, Verletzungen oder der giftigste Apfel der Welt.<\/p><p>Allerdings müssen wir nicht nur unter diesen schweren Bedingungen auf der einsamen Insel überleben: Wir haben auch ein weiteres Problem vor der Brust. Ohne Floß schaffen wir es nicht von der Insel. Dieses werden wir mit allem bauen, was die Natur uns bereitstellt. Hier wird sich zeigen, wie gut wir als Team funktionieren!<\/p>",
         "button_text": "WERDE TEIL DES TEAMS",
-        "button_link": "https:\/\/wandermut.typeform.com\/to\/ZPnkyUEe",
+        "button_link": "https:\/\/wandermut-produkte.myshopify.com\/pages\/island#anker_scoll_bewerben",
         "link_style": "button",
         "background_type": "full_width",
         "text_width": "large",
@@ -678,8 +678,9 @@
         "1659167641c39da9ab-0"
       ],
       "settings": {
+        "ankerid": "islandtour",
         "reveal_on_scroll": true,
-        "background_color": "#dfdfdf",
+        "background_color": "#ffffff",
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",
