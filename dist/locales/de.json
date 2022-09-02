@@ -49,7 +49,7 @@
       "blog_post_title": "Artikel",
       "product_vendor": "Marke",
       "product_title": "Produkttitel",
-      "product_description": "Schreibe etwas über Dein Produkt.",
+      "product_description": "Schreibe etwas über dein Produkt.",
       "collection_title": "Produktkategorie"
     }
   },
@@ -274,7 +274,7 @@
       "password": "Passwort",
       "submit": "Einloggen",
       "forgot_password": "Passwort vergessen?",
-      "new_customer": "Neuer Kunde?",
+      "new_customer": "Neue hier?",
       "create_account": "Erstelle einen Account"
     },
     "recover_password": {

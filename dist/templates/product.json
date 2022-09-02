@@ -95,9 +95,10 @@
         "1659892824ff4cd7da-0": {
           "type": "item",
           "settings": {
-            "label": "1",
-            "title": "Perfekt zum Wandern",
-            "content": "<p>Egal ob du durch die heimischen Wälder ziehst, im Gebirge wanderst, oder du ein großes Abenteuer planst. Mit dieser Outdoor-Hose bist du allzeit bereit. <\/p>",
+            "image": "{{ product.metafields.custom.timelineimage1.value }}",
+            "label": "{{ product.metafields.custom.timeline1_barlabel.value }}",
+            "title": "{{ product.metafields.custom.timeline1_heading.value }}",
+            "content": "<p>{{ product.metafields.custom.timeline1_content | metafield_tag }}<\/p>",
             "button_text": "",
             "button_link": ""
           }
@@ -105,9 +106,10 @@
         "1659892824ff4cd7da-1": {
           "type": "item",
           "settings": {
-            "label": "2",
-            "title": "Robust und flexibel zugleich",
-            "content": "<p>Robustester Segeltuch-Stoff und reißfester Stretch bieten dir Schutz und Bewegungsfreiheit zugleich.  Und lassen dich darüber hinaus auch noch gut aussehen 😉<\/p>",
+            "image": "{{ product.metafields.custom.timelineimage2.value }}",
+            "label": "{{ product.metafields.custom.timeline2_barlabel.value }}",
+            "title": "{{ product.metafields.custom.timeline2_heading.value }}",
+            "content": "<p>{{ product.metafields.custom.timeline2_content | metafield_tag }}<\/p>",
             "button_text": "",
             "button_link": ""
           }
@@ -115,9 +117,10 @@
         "1659892824ff4cd7da-2": {
           "type": "item",
           "settings": {
-            "label": "3",
-            "title": "Doppelt und dreifach vernäht",
-            "content": "<p>Diese Outdoor-Hose ist so robust und langlebig wie du, damit der Impact für die Umwelt so gering ist wie möglich.<\/p>",
+            "image": "{{ product.metafields.custom.timelineimage3.value }}",
+            "label": "{{ product.metafields.custom.timeline3_barlabel.value }}",
+            "title": "{{ product.metafields.custom.timeline3_heading.value }}",
+            "content": "<p>{{ product.metafields.custom.timeline3_content | metafield_tag }}<\/p>",
             "button_text": "",
             "button_link": ""
           }
@@ -125,9 +128,10 @@
         "181f1ecd-392a-42a9-b64b-c22b18da1dcb": {
           "type": "item",
           "settings": {
-            "label": "4",
-            "title": "Beste Belüftung",
-            "content": "<p>Lüftungsschlitze an den Innenseiten der Oberschenkel bringen frische Luft dorthin, wo sonst kaum Luft hinkommt.<\/p>",
+            "image": "{{ product.metafields.custom.timelineimage4.value }}",
+            "label": "{{ product.metafields.custom.timeline4_barlabel.value }}",
+            "title": "{{ product.metafields.custom.timeline4_heading.value }}",
+            "content": "<p>{{ product.metafields.custom.timeline4_content | metafield_tag }}<\/p>",
             "button_text": "",
             "button_link": ""
           }
@@ -141,7 +145,7 @@
       ],
       "settings": {
         "subheading": "",
-        "title": "Was dieses Produkt so besonders macht",
+        "title": "{{ product.metafields.custom.section_pdp_heading.value }}",
         "text_position": "top",
         "background": "#ffffff",
         "text_color": "rgba(0,0,0,0)",
@@ -156,8 +160,8 @@
         "title": "Das könntest du ebenfalls gebrauchen",
         "recommendations_count": 4,
         "products": [],
-        "background": "#2e2e2e",
-        "text_color": "#ffffff"
+        "background": "#ffffff",
+        "text_color": "#030000"
       }
     },
     "16598924016df900e4": {

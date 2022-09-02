@@ -1,0 +1,270 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "small",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "1659895419d8b36191": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_10.jpg",
+        "subheading": "",
+        "title": "OUTDOOR BEKLEIDUNG",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_sort_by": false,
+        "products_per_page": 24,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": false,
+        "show_filter_group_name": false,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "always_visible",
+        "promotion_position": "bottom",
+        "promotion_height": "medium"
+      }
+    },
+    "1659896169e7058279": {
+      "type": "shop-the-look",
+      "blocks": {
+        "ad154242-d02b-4c1f-a91e-1062d597dd62": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Simon-DSC_1818-scaled.jpg",
+            "dot_type": "normal",
+            "product_1": "",
+            "product_1_horizontal_position": 30,
+            "product_1_vertical_position": 30,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 50,
+            "product_2_vertical_position": 50,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "c27e11a0-e2c4-407a-8e99-72127997b83a": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Andi-DSC_0485-scaled.jpg",
+            "dot_type": "normal",
+            "product_1": "",
+            "product_1_horizontal_position": 30,
+            "product_1_vertical_position": 30,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 50,
+            "product_2_vertical_position": 50,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "165989616938cd5a1c-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_7.jpg",
+            "dot_type": "inverted",
+            "product_1": "",
+            "product_1_horizontal_position": 41,
+            "product_1_vertical_position": 41,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 46,
+            "product_2_vertical_position": 64,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 62,
+            "product_3_vertical_position": 50,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "260deb40-44e4-4d1a-b543-64390864c766": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0350-scaled.jpg",
+            "dot_type": "normal",
+            "product_1": "",
+            "product_1_horizontal_position": 30,
+            "product_1_vertical_position": 30,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 50,
+            "product_2_vertical_position": 50,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        }
+      },
+      "block_order": [
+        "ad154242-d02b-4c1f-a91e-1062d597dd62",
+        "c27e11a0-e2c4-407a-8e99-72127997b83a",
+        "165989616938cd5a1c-0",
+        "260deb40-44e4-4d1a-b543-64390864c766"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": "Shop the looks"
+      }
+    },
+    "165989592448c2aa01": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Gemacht für Abenteuer und Zeit in der Natur",
+        "content": "<p>Wir alle müssen den vollen Straßen, den lärmenden Menschenmengen und dem ständigen Klingeln unserer Smartphones von Zeit zu Zeit entgehen. Wann immer du dich in der Wildnis verlieren willst, bringt dich unsere Outdoor-Kleidung für Herren dorthin. Wir verwenden hochwertige Materialien von ausgewählten Lieferanten, um sicherzustellen, dass unsere Kleidung harten Witterungsbedingungen standhält und jahrelang funktionstüchtig bleibt. Die hervorragende Passform, die kräftigen Farben und der günstige Preis sind dabei eine Selbstverständlichkeit.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#dfdfdf",
+        "text_color": "#030000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659901534c0c15e45": {
+      "type": "multi-column",
+      "blocks": {
+        "16599015340dc43f27-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Besonders Robust",
+            "content": "<p>Du sollst dich auf deine Outdoor-Kleidung verlasen können. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16599015340dc43f27-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website-2.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "AUF DEN HÄRSTESTEN ABENTEUERN GETESTET",
+            "content": "<p>Wir wissen, worauf es wirklich ankommt. Unser Anspruch: Wir entwickeln nur Produkte, die wir selbst bei unseren Abenteuern und Expeditionen nutzen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "54eacf46-d480-4035-a2ca-4498d81c0965": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0948-1.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Wir stehen dahinter",
+            "content": "<p>Hi, wir sind Tom und Martin, die Gründer von Wandermut. Da wir uns selbst regelmäßig ins Abenteuer stürzen, haben einen hohen Anspruch an uns selbst und unsere Produkte. Auf Wndermut kannst du ich verlassen.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16599015340dc43f27-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_2a0ade0b-7c60-4ca2-950d-75e6f0d147a6.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "STÜRZE DICH MIT UNS INS ABENTEUER",
+            "content": "<p>Wir organisieren Abenteuer & Expeditionen in die abgelegensten Winkel dieser Erde. – Komm mit, wenn du dich traust. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16599015340dc43f27-0",
+        "16599015340dc43f27-2",
+        "54eacf46-d480-4035-a2ca-4498d81c0965",
+        "16599015340dc43f27-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "WAS UNS BESONDERS MACHT",
+        "content": "<p>Auf Wandermut kannst du dich verlassen.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#5b5b5b",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "1659895419d8b36191",
+    "main",
+    "1659896169e7058279",
+    "165989592448c2aa01",
+    "1659901534c0c15e45"
+  ]
+}

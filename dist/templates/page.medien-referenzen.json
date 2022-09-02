@@ -12,7 +12,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "reveal_on_scroll": true,
-        "section_height": "large",
+        "section_height": "medium",
         "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg",
         "subheading": "",
         "title": "MEDIEN \/ REFERENZEN",
@@ -230,7 +230,7 @@
       ],
       "settings": {
         "reveal_on_scroll": true,
-        "stack_items": true,
+        "stack_items": false,
         "subheading": "",
         "title": "WANDERMUT IN DEN MEDIEN",
         "content": "",

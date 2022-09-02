@@ -12,9 +12,9 @@
             "subheading": "WANDERMUT",
             "title": "OUTDOOR KLAMOTTEN GETESTE AM LIMIT",
             "button_1_text": "Frauen",
-            "button_1_link": "shopify:\/\/products\/outdoor-hemd-frauen",
+            "button_1_link": "shopify:\/\/collections\/frauen-bekleidung",
             "button_2_text": "Männer",
-            "button_2_link": "shopify:\/\/collections\/outdoor-begleidung-herren",
+            "button_2_link": "shopify:\/\/collections\/manner-bekleidung",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -71,6 +71,7 @@
     },
     "16598725948945d6a0": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "165987259455a4372c-0": {
           "type": "collection",
@@ -79,15 +80,15 @@
             "image": "shopify:\/\/shop_images\/World_Map_Design.png",
             "subheading": "",
             "title": "ABENTEUER",
-            "link_text_1": "",
+            "link_text_1": "zu den Abenteuern",
             "link_text_2": "",
             "link_url_1": "",
-            "link_url_2": "",
+            "link_url_2": "shopify:\/\/pages\/abenteuer",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
-            "button_css": false,
-            "button_color1": "#000000",
+            "button_css": true,
+            "button_color1": "#d4af37",
             "button_color2": "#000000",
             "text_color1": "#000000",
             "text_color2": "#000000"
@@ -100,16 +101,16 @@
             "image": "shopify:\/\/shop_images\/Andi-DSC_0485-scaled.jpg",
             "subheading": "",
             "title": "OUTDOOR BEKLEIDUNG",
-            "link_text_1": "",
-            "link_text_2": "",
-            "link_url_1": "",
-            "link_url_2": "",
+            "link_text_1": "Zur Outdoor Bekleidung für Männer",
+            "link_text_2": "Zur Outdoor Bekleidung für Frauen",
+            "link_url_1": "shopify:\/\/collections\/outdoor-begleidung-herren",
+            "link_url_2": "shopify:\/\/collections\/outdoor-bekleidung-damen",
             "text_color": "#030000",
             "overlay_color": "#ffffff",
             "overlay_opacity": 70,
-            "button_css": false,
-            "button_color1": "#000000",
-            "button_color2": "#000000",
+            "button_css": true,
+            "button_color1": "#d4af37",
+            "button_color2": "#d4af37",
             "text_color1": "#000000",
             "text_color2": "#000000"
           }
@@ -130,55 +131,9 @@
     },
     "16598915456c481938": {
       "type": "prallax",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Andi-DSC_0485-scaled.jpg"
-      }
-    },
-    "1659719728b804c975": {
-      "type": "featured-product",
-      "blocks": {
-        "165971972786833529-0": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_mode": "block",
-            "color_mode": "variant_image",
-            "size_chart_page": "grossenguide-hose"
-          }
-        },
-        "165971972786833529-2": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "atc_button_background": "rgba(0,0,0,0)",
-            "atc_button_text_color": "rgba(0,0,0,0)",
-            "buy_now_button_background": "rgba(0,0,0,0)",
-            "buy_now_button_text_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "165971972786833529-0",
-        "165971972786833529-2"
-      ],
-      "settings": {
-        "product": "wanderhose-allrounder-herren",
-        "subheading": "VON DENEN ENTWICKELT, DIE SICH AUSKENNEN MÜSSEN",
-        "title": "DIE BESTE OUTDOOR HOSE FÜR BEINAHE ALLE ABENTEUER",
-        "show_vendor": true,
-        "show_sku": false,
-        "show_taxes_included": false,
-        "show_product_rating": true,
-        "show_share_buttons": false,
-        "help_page": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "enable_image_zoom": true,
-        "show_thumbnails_on_mobile": false,
-        "desktop_thumbnails_position": "left",
-        "transition_effect": "slide",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
       }
     },
     "165934651807f83639": {
@@ -187,15 +142,25 @@
         "16593465183b28448e-0": {
           "type": "collection",
           "settings": {
-            "collection": "alle-produkte-1",
-            "label": "",
+            "collection": "outdoor-begleidung-herren",
+            "label": "mÄNNER",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "0f7d9a00-5523-407f-9744-c80a16d95489": {
+          "type": "collection",
+          "settings": {
+            "collection": "outdoor-bekleidung-damen",
+            "label": "fRAUEN",
             "button_text": "",
             "button_url": ""
           }
         }
       },
       "block_order": [
-        "16593465183b28448e-0"
+        "16593465183b28448e-0",
+        "0f7d9a00-5523-407f-9744-c80a16d95489"
       ],
       "settings": {
         "subheading": "",
@@ -211,6 +176,87 @@
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
+    "1659529324f20321e6": {
+      "type": "collection-list",
+      "blocks": {
+        "1659529324222cae35-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-536-1-scaled.jpg",
+            "subheading": "Entickelt von Profis",
+            "title": "DIE BESTE WANDERHOSE",
+            "link_text_1": "Für Frauen",
+            "link_text_2": "Für Männer",
+            "link_url_1": "",
+            "link_url_2": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 56,
+            "button_css": true,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#ffffff",
+            "text_color2": "#ffffff"
+          }
+        },
+        "1659529324222cae35-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-2.jpg",
+            "subheading": "Für beinahe jedes Abenteuer",
+            "title": "WANDERMUT ADVENTURE SHIRT",
+            "link_text_1": "FÜR FRAUEN",
+            "link_text_2": "FÜR MÄNNER",
+            "link_url_1": "shopify:\/\/products\/outdoor-hemd-frauen",
+            "link_url_2": "shopify:\/\/products\/outdoor-hemd-herren",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50,
+            "button_css": true,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#ffffff",
+            "text_color2": "#ffffff"
+          }
+        },
+        "1659529324222cae35-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/IMG_1160_photo-full-scaled.jpg",
+            "subheading": "ENTDECKE UNSERE ABENTEUER",
+            "title": "BEGINNE DIE REISE DEINES LEBENS",
+            "link_text_1": "ABENTEUER ENTDECKEN",
+            "link_text_2": "",
+            "link_url_1": "shopify:\/\/pages\/abenteuer",
+            "link_url_2": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50,
+            "button_css": true,
+            "button_color1": "#000000",
+            "button_color2": "#000000",
+            "text_color1": "#ffffff",
+            "text_color2": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "1659529324222cae35-0",
+        "1659529324222cae35-1",
+        "1659529324222cae35-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "collage",
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "16590136878b2643ff": {
       "type": "multi-column",
       "blocks": {
@@ -221,9 +267,9 @@
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
             "title": "Anti Riss Garantie",
-            "content": "<p>Du sollst dich auf deine Outdoor-Kleidung verlasen können. Deine Wandermut Outdoor-Hose ist dir gerissen? Kein Problem! <strong>Wir ersetzen dir deine Outdoor-Hose kostenfrei.<\/strong><\/p>",
+            "content": "<p>Deine Wandermut Outdoor-Hose ist dir gerissen? Kein Problem! <strong>Wir ersetzen dir deine Outdoor-Hose kostenfrei.<\/strong><\/p>",
             "link_text": "Überzeuge dich selbst",
-            "link_url": "",
+            "link_url": "shopify:\/\/collections\/alle-produkte",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -273,89 +319,73 @@
         "content": "<p>Wenn Wandermut drauf steht, ist Abenteuer drin.<\/p>",
         "column_alignment": "center",
         "mobile_item_size": "large",
-        "desktop_item_size": "large",
+        "desktop_item_size": "medium",
         "spacing": "loose",
         "background": "#2e2e2e",
         "text_color": "#ffffff"
       }
     },
-    "1659529324f20321e6": {
-      "type": "collection-list",
+    "16618546382498ce12": {
+      "type": "apps",
       "blocks": {
-        "1659529324222cae35-0": {
-          "type": "collection",
+        "93838579-755f-4728-87d6-2f79092fb480": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-536-1-scaled.jpg",
-            "subheading": "Entickelt von Profis",
-            "title": "DIE BESTE WANDERHOSE",
-            "link_text_1": "Für Frauen",
-            "link_text_2": "Für Männer",
-            "link_url_1": "",
-            "link_url_2": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 56,
-            "button_css": true,
-            "button_color1": "#000000",
-            "button_color2": "#000000",
-            "text_color1": "#ffffff",
-            "text_color2": "#ffffff"
-          }
-        },
-        "1659529324222cae35-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-2.jpg",
-            "subheading": "Ffür beinahe jedes Abenteuer",
-            "title": "WANDERMUT ADVENTURE SHIRT",
-            "link_text_1": "Lorem Ipsum",
-            "link_text_2": "Lorem Ipsum",
-            "link_url_1": "",
-            "link_url_2": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 50,
-            "button_css": false,
-            "button_color1": "#000000",
-            "button_color2": "#000000",
-            "text_color1": "#000000",
-            "text_color2": "#000000"
-          }
-        },
-        "1659529324222cae35-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/IMG_1160_photo-full-scaled.jpg",
-            "subheading": "Sieht auch im Alltag gut aus",
-            "title": "T-Shirts & Mützen",
-            "link_text_1": "",
-            "link_text_2": "",
-            "link_url_1": "",
-            "link_url_2": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 50,
-            "button_css": false,
-            "button_color1": "#000000",
-            "button_color2": "#000000",
-            "text_color1": "#000000",
-            "text_color2": "#000000"
+            "formId": "WXFCZm"
           }
         }
       },
       "block_order": [
-        "1659529324222cae35-0",
-        "1659529324222cae35-1",
-        "1659529324222cae35-2"
+        "93838579-755f-4728-87d6-2f79092fb480"
       ],
       "settings": {
-        "reveal_on_scroll": false,
-        "layout": "collage",
-        "subheading": "",
-        "title": "",
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
+    "1659719728b804c975": {
+      "type": "featured-product",
+      "blocks": {
+        "165971972786833529-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "size_chart_page": "grossenguide-hose"
+          }
+        },
+        "165971972786833529-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "165971972786833529-0",
+        "165971972786833529-2"
+      ],
+      "settings": {
+        "product": "wanderhose-allrounder-herren",
+        "subheading": "VON DENEN ENTWICKELT, DIE SICH AUSKENNEN MÜSSEN",
+        "title": "DIE BESTE OUTDOOR HOSE FÜR BEINAHE ALLE ABENTEUER",
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide",
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
@@ -419,6 +449,7 @@
     },
     "1659014043b2495697": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "165901404309f3945d-1": {
           "type": "question",
@@ -451,47 +482,6 @@
         "show_navigation": false,
         "title": "Vorteile, wenn du bei uns bestellst",
         "content": "",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "text-with-icons": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item-1": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "custom_icon_width": 50,
-            "title": "Kostenfreier Versand",
-            "content": "<p>Ab einem Einkaufswert i.H.v. 80€<\/p>"
-          }
-        },
-        "item-2": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-phone",
-            "custom_icon_width": 50,
-            "title": "Kundensupport",
-            "content": "<p>Wenn du Fragen hast, kannst du uns jederzeit <a href=\"\/pages\/contact\" title=\"Kontakt\">kontaktieren<\/a>.<\/p>"
-          }
-        },
-        "item-3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "custom_icon_width": 50,
-            "title": "Sicheres Bezahlen",
-            "content": "<p>Egal ob Paypal oder eine andere präferierte Zahlungsmethode. Bei uns bist du sicher.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-3"
-      ],
-      "settings": {
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
@@ -569,32 +559,125 @@
         "background": "rgba(0,0,0,0)"
       }
     },
-    "1659891501c6600f9d": {
-      "type": "prallax",
+    "1661765019e09e9c42": {
+      "type": "adventure-slider",
+      "blocks": {
+        "90cec650-51dc-4fda-a207-756bfac9a6ff": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/51.png",
+            "text-heading": "AUF PFERDEN DURCH DIE MONGOLEI",
+            "text": "Mongolei",
+            "url": "shopify:\/\/pages\/mongolei",
+            "urltext": "MEHR INFOS",
+            "tag": "AUSGEBUCHT",
+            "tagtextcolor": "#030000",
+            "tagcolor": "#de2a2a"
+          }
+        },
+        "76d57618-fb40-4b07-978b-014e64bec832": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "text-heading": "ISLAND TOUR",
+            "text": "ISLAND",
+            "url": "shopify:\/\/pages\/island-tour",
+            "urltext": "MEHR INFOS",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "af1dfdcf-872e-485e-a5a2-97587750a025": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/52.png",
+            "text-heading": "ISLAND SURVIVAL",
+            "text": "PANAMA",
+            "url": "shopify:\/\/pages\/panama-dschungel-tour",
+            "urltext": "MEHR INFOS",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "a77d7d6c-997b-4161-ad11-ee6c04fbda53": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/31.png",
+            "text-heading": "AMAZONAS EXPEDITION",
+            "text": "PERU",
+            "url": "shopify:\/\/pages\/peru",
+            "urltext": "MEHR INFOS",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "916cf784-c91f-4e71-b430-93373ce331c8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "text-heading": "PANAMA DSCHUNGEL TOUR",
+            "text": "DARIEN PANAMA",
+            "url": "shopify:\/\/pages\/panama-dschungel-tour",
+            "urltext": "MEHR INFOS",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "e15e3164-f101-4902-a72a-f6c85157773c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/53.png",
+            "text-heading": "MOLUKKEN EXPEDITION",
+            "text": "INDONESIEN",
+            "url": "shopify:\/\/pages\/molukken-abenteuer",
+            "urltext": "MEHR INFOS",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        },
+        "977eda4c-0132-4a7f-8878-35cfb60ad714": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_5f81694d-3c97-4010-bff7-d42bc0eefb11.png",
+            "text-heading": "SAHARA TOUR",
+            "text": "MAROKKO",
+            "url": "shopify:\/\/pages\/sahara",
+            "urltext": "MEHR INFOS",
+            "tag": "",
+            "tagtextcolor": "#ffffff",
+            "tagcolor": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "90cec650-51dc-4fda-a207-756bfac9a6ff",
+        "76d57618-fb40-4b07-978b-014e64bec832",
+        "af1dfdcf-872e-485e-a5a2-97587750a025",
+        "a77d7d6c-997b-4161-ad11-ee6c04fbda53",
+        "916cf784-c91f-4e71-b430-93373ce331c8",
+        "e15e3164-f101-4902-a72a-f6c85157773c",
+        "977eda4c-0132-4a7f-8878-35cfb60ad714"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg"
-      }
-    },
-    "165978061794c838e4": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "AKTUELLE ABENTEUER:",
-        "content": "<p>Schau dir unsere aktuellen Abenteuer an und bewirb dich, um Teil des Teams zu werden.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#030000",
-        "text_color": "#ffffff",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
+        "image_background": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg",
+        "section-heading": "AKTUELLE ABENTEUER:",
+        "imagetextcolor": "#ffffff",
+        "imageheadingcolor": "#030000",
+        "headingsize": 48,
+        "sectionparagraph": "Schau dir unsere aktuellen Abenteuer an und bewirb dich, um Teil des Teams zu werden.",
+        "overlaybackground": 0,
+        "overlayadv": 0.5,
+        "overlay_color": "#000000"
       }
     },
     "1659868051728b2aac": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
         "section_height": "medium",
@@ -613,28 +696,6 @@
         "button_text_color": "#000000",
         "overlay_color": "#000000",
         "overlay_opacity": 50
-      }
-    },
-    "16598720293b2727f9": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "reveal_on_scroll": true,
-        "section_height": "small",
-        "image": "shopify:\/\/shop_images\/3_b8b55cf7-72e7-4527-8856-1ee2e963a250.png",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "button_text": "Zu den Abenteuern",
-        "button_link": "",
-        "link_style": "button",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "bottom_center",
-        "text_color": "#ffffff",
-        "button_background": "#d4af37",
-        "button_text_color": "#030000",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "165972423596af5a71": {
@@ -718,77 +779,67 @@
         "text_color": "#ffffff"
       }
     },
-    "16598916465ecfa4ff": {
-      "type": "promotion-blocks",
+    "1661971026e360ffd0": {
+      "type": "apps",
       "blocks": {
-        "1659891646940fea74-0": {
-          "type": "image",
+        "678dd5e1-4968-4a91-90bd-4cbde3186ffd": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
-            "highlight": false,
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "middle_center",
-            "background": "#f7f8fd",
-            "text_color": "#1e316a",
-            "button_background": "#ffffff",
-            "button_text_color": "#1e316a"
-          }
-        },
-        "7825b6d7-0d44-4fd0-87c1-f61a9c778b4f": {
-          "type": "newsletter",
-          "settings": {
-            "highlight": true,
-            "title": "Trage dich in die Interessentenliste ein",
-            "content": "<p>Dann erfährst du als erster von neuen Abenteuern und Outdoor-Produkten. Zusätzlich gibt es jeden Monat ein <strong>Goldenes Ticket<\/strong> für ein Abenteuer deiner Wahl zu <strong>gewinnen<\/strong>. <em>(Es gelten die Gutscheinbedingungen)<\/em><\/p>",
-            "text_position": "middle_center",
-            "background": "#ffffff",
-            "text_color": "#030000",
-            "button_background": "#ffffff",
-            "button_text_color": "#1e316a"
+            "formId": "Sx56Lv"
           }
         }
       },
       "block_order": [
-        "1659891646940fea74-0",
-        "7825b6d7-0d44-4fd0-87c1-f61a9c778b4f"
+        "678dd5e1-4968-4a91-90bd-4cbde3186ffd"
       ],
       "settings": {
-        "subheading": "",
-        "title": "",
-        "section_size": "small",
-        "stack_on_mobile": true,
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Kostenfreier Versand",
+            "content": "<p>Ab einem Einkaufswert i.H.v. 80€<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Kundensupport",
+            "content": "<p>Wenn du Fragen hast, kannst du uns jederzeit <a href=\"\/pages\/contact\" title=\"Kontakt\">kontaktieren<\/a>.<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Sicheres Bezahlen",
+            "content": "<p>Egal ob Paypal oder eine andere präferierte Zahlungsmethode. Bei uns bist du sicher.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3"
+      ],
+      "settings": {
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
     },
     "1660217670c6e96c60": {
       "type": "slideshow",
-      "blocks": {
-        "16602176703b9c5fdd-1": {
-          "type": "image",
-          "settings": {
-            "text_position": "middle_center",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "16602176703b9c5fdd-1"
-      ],
       "settings": {
         "section_height": "auto",
         "heading_size": 22,
@@ -805,20 +856,19 @@
     "1659868575a59a3e67",
     "16598725948945d6a0",
     "16598915456c481938",
-    "1659719728b804c975",
     "165934651807f83639",
-    "16590136878b2643ff",
     "1659529324f20321e6",
+    "16590136878b2643ff",
+    "16618546382498ce12",
+    "1659719728b804c975",
     "1659014189f77ed609",
     "1659014043b2495697",
-    "text-with-icons",
     "16590146681089bc6d",
-    "1659891501c6600f9d",
-    "165978061794c838e4",
+    "1661765019e09e9c42",
     "1659868051728b2aac",
-    "16598720293b2727f9",
     "165972423596af5a71",
-    "16598916465ecfa4ff",
+    "1661971026e360ffd0",
+    "text-with-icons",
     "1660217670c6e96c60"
   ]
 }

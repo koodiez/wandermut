@@ -92,6 +92,7 @@
         "1659521508a3c4caea-0"
       ],
       "settings": {
+        "ankerid": "",
         "reveal_on_scroll": true,
         "background_color": "#000000",
         "background_type": "full_width",
@@ -127,6 +128,7 @@
     },
     "1659876801b90fb59d": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "UNSERE WERTE",
@@ -145,6 +147,7 @@
     },
     "1659876773cbc1b8c5": {
       "type": "text-with-icons",
+      "disabled": true,
       "blocks": {
         "16598767733590374b-0": {
           "type": "item",
@@ -180,10 +183,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-email",
-            "custom_icon": "shopify:\/\/shop_images\/conversation_icdon_white.png",
+            "custom_icon": "shopify:\/\/shop_images\/Verantwortung_icon_94af69ad-1a33-4cfd-bc10-dab2e5b493a5.png",
             "custom_icon_width": 50,
-            "title": "WIR HABEN EINE COMMUNITY, KEINE KUNDEN.",
-            "content": "<p>Wandermut ist von Abenteurern, für Abenteurer.<\/p>"
+            "title": "Wir übernehmen Verantwortung",
+            "content": "<p>Am Ende zählt das Ergebnis. Wir übernehmen Ownership und treiben die Dinge selbstständig und proaktiv voran.<\/p>"
           }
         }
       },
@@ -198,31 +201,8 @@
         "text_color": "#ffffff"
       }
     },
-    "1659877298bd791947": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "reveal_on_scroll": true,
-        "section_height": "small",
-        "image": "shopify:\/\/shop_images\/DJI_0091-scaled.jpg",
-        "subheading": "",
-        "title": "Bist du einer von uns?",
-        "content": "<p>Du stehst auch nicht auf Massen- und Pauschaltourismus oder diese spießigen Regenjacken für alte Leute mit der gelben Tatze auf der Brust? Dann lass uns gemeinsam das Wandern und Reisen wieder cool machen! Wir freuen uns auf deine Bewerbung und darauf, dich vielleicht schon bald im Team Wandermut begrüßen zu dürfen.<\/p><p><\/p><p><em>PS.: Um zu beweisen, dass du bei uns richtig bist, wirst du dich schon bald selbst in einem Abenteuer behaupten müssen. – Bist du dabei? <\/em><\/p>",
-        "button_text": "",
-        "button_link": "",
-        "link_style": "link",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "middle_center",
-        "text_color": "#030000",
-        "button_background": "#ffffff",
-        "button_text_color": "#000000",
-        "overlay_color": "#ffffff",
-        "overlay_opacity": 80
-      }
-    },
     "165987829626066190": {
       "type": "multi-column",
-      "disabled": true,
       "blocks": {
         "1659878296419a52ef-0": {
           "type": "item",
@@ -230,7 +210,7 @@
             "image": "shopify:\/\/shop_images\/wandermut-Icon-Zelt.png",
             "image_width": 20,
             "image_border": "rgba(0,0,0,0)",
-            "title": "WIR BRENNEN FÜR ECHTE ABENTEUER!",
+            "title": "Wir brennen für echte Abenteuer",
             "content": "<p>Wir stehen auf Abenteuer und Ausrüstung, auf die man sich verlassen kann.<\/p>",
             "link_text": "",
             "link_url": "",
@@ -245,7 +225,7 @@
             "image": "shopify:\/\/shop_images\/wandermut-Icon-Wegweiser.png",
             "image_width": 20,
             "image_border": "rgba(0,0,0,0)",
-            "title": "WIR FRAGEN UNS NICHT OB, SONDERN WIE",
+            "title": "Wir fragen uns nicht ob, sondern wie",
             "content": "<p>Wir sehen Lösungen, statt Probleme  und machen dadurch das undenkbare möglich.<\/p>",
             "link_text": "",
             "link_url": "",
@@ -260,7 +240,7 @@
             "image": "shopify:\/\/shop_images\/muscle-icon-10-white_2b93bdc5-d76d-4f11-8189-14c0e694681b.png",
             "image_width": 20,
             "image_border": "rgba(0,0,0,0)",
-            "title": "WIR HABEN HOHE ANSPRÜCHE",
+            "title": "Wir haben hohe Ansprüche",
             "content": "<p>An unser Equipment, an unsere Teilnehmer, und vor allem an uns selbst.<\/p>",
             "link_text": "",
             "link_url": "",
@@ -275,8 +255,8 @@
             "image": "shopify:\/\/shop_images\/conversation_icdon_white.png",
             "image_width": 21,
             "image_border": "rgba(0,0,0,0)",
-            "title": "WIR HABEN EINE COMMUNITY, KEINE KUNDEN.",
-            "content": "<p>Wandermut ist von Abenteurern, für Abenteurer.<\/p>",
+            "title": "Wir übernehmen Verantwortung",
+            "content": "<p>Am Ende zählt das Ergebnis. Wir übernehmen Ownership und treiben die Dinge selbstständig und proaktiv voran.<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
@@ -293,9 +273,9 @@
       ],
       "settings": {
         "reveal_on_scroll": true,
-        "stack_items": false,
-        "subheading": "Subheading",
-        "title": "Multi-column",
+        "stack_items": true,
+        "subheading": "",
+        "title": "Unsere Core Values",
         "content": "",
         "column_alignment": "center",
         "mobile_item_size": "medium",
@@ -305,19 +285,41 @@
         "text_color": "#ffffff"
       }
     },
+    "1659877298bd791947": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/DJI_0091-scaled.jpg",
+        "subheading": "",
+        "title": "Bist du einer von uns?",
+        "content": "<p>Du stehst auch nicht auf Massen- und Pauschaltourismus oder diese spießigen Regenjacken für alte Leute mit der gelben Tatze auf der Brust? Dann lass uns gemeinsam das Wandern und Reisen wieder cool machen! Wir freuen uns auf deine Bewerbung und darauf, dich vielleicht schon bald im Team Wandermut begrüßen zu dürfen.<\/p><p><\/p><p><em>PS.: Um zu beweisen, dass du bei uns richtig bist, wirst du dich schon bald selbst in einem Abenteuer behaupten müssen. – Bist du bereit? <\/em><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#030000",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 80
+      }
+    },
     "165952190532ba611e": {
       "type": "multi-column",
       "blocks": {
-        "16595219057321024f-0": {
+        "0242a99c-beaa-415d-bd43-c5e67117e9dc": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Social-Media.jpg",
+            "image": "shopify:\/\/shop_images\/Wandermut-Sahara-Tour-7.jpg",
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
-            "title": "Performance Marketing (m\/w\/d)",
+            "title": "Teamleiter (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
-            "link_url": "shopify:\/\/pages\/benteuer-performance-marketing-manag",
+            "link_url": "shopify:\/\/pages\/teamleiter",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -333,6 +335,21 @@
             "content": "",
             "link_text": "ZUR BEWERBUNG",
             "link_url": "shopify:\/\/pages\/abenteuer-social-media-manager",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16595219057321024f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Social-Media.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Performance Marketing (m\/w\/d)",
+            "content": "",
+            "link_text": "ZUR BEWERBUNG",
+            "link_url": "shopify:\/\/pages\/benteuer-performance-marketing-manag",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -370,6 +387,7 @@
         },
         "8ac2b1f6-e24e-404f-84a2-61ee81762388": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/P1060761.jpg",
             "image_width": 100,
@@ -385,6 +403,7 @@
         },
         "790a9687-0e2f-4285-89bb-55911ee98c1a": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Design-ohne-Titel-2.jpg",
             "image_width": 100,
@@ -415,11 +434,12 @@
         },
         "60874c7a-4846-431d-b206-62e2d975a1a4": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Husky_Expedition_Kostroma_2017_755-scaled.jpg",
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
-            "title": "Abenteurer Tourenplaner & Manager (m\/w\/d)",
+            "title": "Tourenplaner & Manager (m\/w\/d)",
             "content": "",
             "link_text": "ZUR BEWERBUNG",
             "link_url": "shopify:\/\/pages\/abenteurer-tourenplaner-manager",
@@ -430,6 +450,7 @@
         },
         "2c0c49b6-ca3f-40f0-953d-82a36d91e2fb": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Thomas-IMG_1545.jpg",
             "image_width": 100,
@@ -445,6 +466,7 @@
         },
         "79a8549d-e3cd-45d3-a625-bb441fa95c30": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Wandermut-Sahara-2018-71-scaled.jpg",
             "image_width": 100,
@@ -460,6 +482,7 @@
         },
         "e55511cf-2a85-4bdd-b05c-2fa5a16052c8": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-733-2.jpg",
             "image_width": 100,
@@ -475,6 +498,7 @@
         },
         "dd6e6a8d-b648-4fc5-ab77-0a74262d2ea5": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Simon-DSC_1818-scaled.jpg",
             "image_width": 100,
@@ -502,26 +526,12 @@
             "text_alignment": "center",
             "vertical_alignment": "start"
           }
-        },
-        "0242a99c-beaa-415d-bd43-c5e67117e9dc": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Wandermut-Sahara-Tour-7.jpg",
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "Teamleiter (m\/w\/d)",
-            "content": "",
-            "link_text": "ZUR BEWERBUNG",
-            "link_url": "shopify:\/\/pages\/teamleiter",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
         }
       },
       "block_order": [
-        "16595219057321024f-0",
+        "0242a99c-beaa-415d-bd43-c5e67117e9dc",
         "16595219057321024f-1",
+        "16595219057321024f-0",
         "16595219057321024f-2",
         "16595219057321024f-3",
         "8ac2b1f6-e24e-404f-84a2-61ee81762388",
@@ -532,8 +542,7 @@
         "79a8549d-e3cd-45d3-a625-bb441fa95c30",
         "e55511cf-2a85-4bdd-b05c-2fa5a16052c8",
         "dd6e6a8d-b648-4fc5-ab77-0a74262d2ea5",
-        "1eb53412-1c01-4740-90b0-fb98b627574b",
-        "0242a99c-beaa-415d-bd43-c5e67117e9dc"
+        "1eb53412-1c01-4740-90b0-fb98b627574b"
       ],
       "settings": {
         "reveal_on_scroll": true,
@@ -594,8 +603,8 @@
     "1659875940108308bd",
     "1659876801b90fb59d",
     "1659876773cbc1b8c5",
-    "1659877298bd791947",
     "165987829626066190",
+    "1659877298bd791947",
     "165952190532ba611e",
     "1659522707bd228f53",
     "16595228026a62c93f"

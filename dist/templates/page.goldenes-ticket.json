@@ -10,9 +10,10 @@
     },
     "166085969199924461": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
-        "section_height": "auto",
+        "section_height": "medium",
         "image": "shopify:\/\/shop_images\/1920_x_1080_px.jpg",
         "subheading": "",
         "title": "7 vs. Wild + WANDERMUT",
@@ -52,14 +53,14 @@
       "settings": {
         "ankerid": "",
         "reveal_on_scroll": true,
-        "background_color": "#000000",
+        "background_color": "#ffffff",
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",
         "text_alignment": "center",
         "cycle_speed": 8,
         "accent_background": "rgba(0,0,0,0)",
-        "text_color": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)",
         "background_section_color": "#ffffff"
@@ -75,8 +76,8 @@
         "background_type": "boxed",
         "video_size": "small",
         "autoplay": false,
-        "background": "#000000",
-        "text_color": "#ffffff"
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
       }
     },
     "16608642863aca9abd": {
@@ -256,8 +257,8 @@
         "products_per_row": 4,
         "stack_products": true,
         "show_cta": false,
-        "background": "#000000",
-        "text_color": "#ffffff",
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
