@@ -140,6 +140,24 @@
         "text_color": "#ffffff"
       }
     },
+    "166211324866b48c07": {
+      "type": "apps",
+      "blocks": {
+        "36fa0916-4809-4221-a3dd-ecbff3a27a3a": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Sx56Lv"
+          }
+        }
+      },
+      "block_order": [
+        "36fa0916-4809-4221-a3dd-ecbff3a27a3a"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
     "166086443173c01385": {
       "type": "featured-collections",
       "blocks": {
@@ -266,6 +284,7 @@
     "1661958309e58d44cd",
     "16619583377e4f2509",
     "1661958362637f5243",
+    "166211324866b48c07",
     "166086443173c01385",
     "1662036214e2c05eab"
   ]

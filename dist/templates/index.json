@@ -7,6 +7,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_6.jpg",
+            "split_image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_8.jpg",
             "mobile_image": "shopify:\/\/shop_images\/31.png",
             "text_position": "middle_center",
             "subheading": "WANDERMUT",
@@ -19,7 +20,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 54
+            "overlay_opacity": 38
           }
         }
       },
@@ -188,8 +189,8 @@
             "title": "DIE BESTE WANDERHOSE",
             "link_text_1": "Für Frauen",
             "link_text_2": "Für Männer",
-            "link_url_1": "",
-            "link_url_2": "",
+            "link_url_1": "shopify:\/\/products\/wanderhose-allrounder-damen",
+            "link_url_2": "shopify:\/\/products\/wanderhose-allrounder-herren",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 56,
@@ -231,7 +232,7 @@
             "link_text_1": "ABENTEUER ENTDECKEN",
             "link_text_2": "",
             "link_url_1": "shopify:\/\/pages\/abenteuer",
-            "link_url_2": "",
+            "link_url_2": "shopify:\/\/pages\/abenteuer",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 50,
@@ -262,6 +263,7 @@
       "blocks": {
         "16590136873e5c07e6-1": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website.jpg",
             "image_width": 100,
@@ -284,7 +286,7 @@
             "title": "Auf den härstesten Abenteuern getestet",
             "content": "<p>Wir wissen, worauf es wirklich ankommt. Unser Anspruch: <strong>Wir entwickeln nur Produkte, die wir selbst bei unseren Expeditionen nutzen.<\/strong><\/p>",
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/abenteuer",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -299,7 +301,7 @@
             "title": "Stürze dich mit uns ins Abenteuer",
             "content": "<p>Wir organisieren Abenteuer & Expeditionen in die abgelegensten Winkel dieser Erde.<br\/><strong>Komm mit, wenn du dich traust.<\/strong><\/p>",
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify:\/\/pages\/abenteuer",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -319,10 +321,10 @@
         "content": "<p>Wenn Wandermut drauf steht, ist Abenteuer drin.<\/p>",
         "column_alignment": "center",
         "mobile_item_size": "large",
-        "desktop_item_size": "medium",
+        "desktop_item_size": "large",
         "spacing": "loose",
-        "background": "#2e2e2e",
-        "text_color": "#ffffff"
+        "background": "#ffffff",
+        "text_color": "#030000"
       }
     },
     "16618546382498ce12": {
@@ -392,6 +394,7 @@
     },
     "1659014189f77ed609": {
       "type": "shop-the-look",
+      "disabled": true,
       "blocks": {
         "1659014189ae7eadf4-0": {
           "type": "look",
@@ -710,7 +713,7 @@
             "title": "Unser Antrieb",
             "link_text_1": "",
             "link_text_2": "",
-            "link_url_1": "",
+            "link_url_1": "shopify:\/\/pages\/uber-uns",
             "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
@@ -731,7 +734,7 @@
             "title": "UNSERE ROLLE BEI 7 vs. WILD",
             "link_text_1": "",
             "link_text_2": "",
-            "link_url_1": "",
+            "link_url_1": "shopify:\/\/pages\/7-vs-wild-wandermut",
             "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
@@ -752,7 +755,7 @@
             "title": "WARUM WIR DIE BESTE WANDERHOSE DER WELT ENTWICKELN",
             "link_text_1": "",
             "link_text_2": "",
-            "link_url_1": "",
+            "link_url_1": "shopify:\/\/pages\/uber-uns",
             "link_url_2": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
@@ -775,26 +778,8 @@
         "layout": "collage",
         "subheading": "",
         "title": "Über WANDERMUT",
-        "background": "#2e2e2e",
-        "text_color": "#ffffff"
-      }
-    },
-    "1661971026e360ffd0": {
-      "type": "apps",
-      "blocks": {
-        "678dd5e1-4968-4a91-90bd-4cbde3186ffd": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "Sx56Lv"
-          }
-        }
-      },
-      "block_order": [
-        "678dd5e1-4968-4a91-90bd-4cbde3186ffd"
-      ],
-      "settings": {
-        "include_horizontal_margins": true,
-        "include_vertical_margins": true
+        "background": "#ffffff",
+        "text_color": "#030000"
       }
     },
     "text-with-icons": {
@@ -806,7 +791,7 @@
             "icon": "picto-box",
             "custom_icon_width": 50,
             "title": "Kostenfreier Versand",
-            "content": "<p>Ab einem Einkaufswert i.H.v. 80€<\/p>"
+            "content": "<p>Ab einem Einkaufswert i.H.v. 80€ innerhalb von Deutschland.<\/p>"
           }
         },
         "item-2": {
@@ -867,7 +852,6 @@
     "1661765019e09e9c42",
     "1659868051728b2aac",
     "165972423596af5a71",
-    "1661971026e360ffd0",
     "text-with-icons",
     "1660217670c6e96c60"
   ]

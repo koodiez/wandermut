@@ -364,10 +364,13 @@
       {%- comment -%}
       ----------------------------------------------------------------------------------------------------------------
       BUY BUTTONS
+      + Back in Stock,check if product is in stock or not
+      <a class="klaviyo-bis-trigger" href="#">Notify Me When Available</a>
       ----------------------------------------------------------------------------------------------------------------
       {%- endcomment -%}
       {%- when 'buy_buttons' -%}
         {%- if request.page_type != 'password' -%}
+          {% if product.available %}
           <div class="product-form__buy-buttons" {{ block.shopify_attributes }}>
             {%- form 'product', product, is: 'product-form', id: product_form_id -%}
               <input type="hidden" disabled name="id" value="{{ product.selected_or_first_available_variant.id }}">
@@ -399,6 +402,9 @@
               </product-payment-container>
             {%- endform -%}
           </div>
+          {% else %}
+          <a class="klaviyo-bis-trigger" href="#">Benachrichtige mich sobald wieder verfügbar!</a>
+          {% endif %}
         {%- endif -%}
 
         {%- comment -%}Payment Icons on PDP{%- endcomment -%}
