@@ -369,54 +369,55 @@
       ----------------------------------------------------------------------------------------------------------------
       {%- endcomment -%}
       {%- when 'buy_buttons' -%}
-        {%- if request.page_type != 'password' -%}
-          {% if product.available %}
-          <div class="product-form__buy-buttons" {{ block.shopify_attributes }}>
-            {%- form 'product', product, is: 'product-form', id: product_form_id -%}
-              <input type="hidden" disabled name="id" value="{{ product.selected_or_first_available_variant.id }}">
+      {%- if request.page_type != 'password' -%}
+        <div class="product-form__buy-buttons" {{ block.shopify_attributes }}>
+          {%- form 'product', product, is: 'product-form', id: product_form_id -%}
+            <input type="hidden" disabled name="id" value="{{ product.selected_or_first_available_variant.id }}">
 
-              <product-payment-container form-id="{{ product_form_id }}" {% if update_url %}id="MainPaymentContainer"{% endif %} class="product-form__payment-container" {{ block.shopify_attributes }}>
-                <button id="AddToCart" type="submit" is="loader-button" {% unless block.settings.show_payment_button and template.suffix != 'quick-buy-popover' %}data-use-primary{% endunless %} data-product-add-to-cart-button data-button-content="{% if product.template_suffix == 'pre-order' %}{{ 'product.form.pre_order' | t | escape }}{% else %}{{ 'product.form.add_to_cart' | t | escape }}{% endif %}" class="product-form__add-button button {% unless product.selected_or_first_available_variant.available %}button--ternary{% else %}{% if block.settings.show_payment_button and template.suffix != 'quick-buy-popover' %}button--secondary{% else %}button--primary{% endif %}{% endunless %} button--full" {% unless product.selected_or_first_available_variant.available %}disabled{% endunless %}>
-                  {%- if product.selected_or_first_available_variant.available -%}
-                    {%- if product.template_suffix == 'pre-order' -%}
-                      {{- 'product.form.pre_order' | t -}}
-                    {%- else -%}
-                      {{- 'product.form.add_to_cart' | t -}}
-                    {%- endif -%}
+            <product-payment-container form-id="{{ product_form_id }}" {% if update_url %}id="MainPaymentContainer"{% endif %} class="product-form__payment-container" {{ block.shopify_attributes }}>
+              <button id="AddToCart" type="submit" is="loader-button" {% unless block.settings.show_payment_button and template.suffix != 'quick-buy-popover' %}data-use-primary{% endunless %} data-product-add-to-cart-button data-button-content="{% if product.template_suffix == 'pre-order' %}{{ 'product.form.pre_order' | t | escape }}{% else %}{{ 'product.form.add_to_cart' | t | escape }}{% endif %}" class="product-form__add-button button {% unless product.selected_or_first_available_variant.available %}button--ternary{% else %}{% if block.settings.show_payment_button and template.suffix != 'quick-buy-popover' %}button--secondary{% else %}button--primary{% endif %}{% endunless %} button--full" {% unless product.selected_or_first_available_variant.available %}disabled{% endunless %}>
+                {%- if product.selected_or_first_available_variant.available -%}
+                  {%- if product.template_suffix == 'pre-order' -%}
+                    {{- 'product.form.pre_order' | t -}}
                   {%- else -%}
-                    {{- 'product.form.sold_out' | t -}}
+                    {{- 'product.form.add_to_cart' | t -}}
                   {%- endif -%}
-                </button>
-
-                {%- if block.settings.show_payment_button and template.suffix != 'quick-buy-popover' -%}
-                  {{ form | payment_button }}
-
-                  {%- unless product.selected_or_first_available_variant.available -%}
-                    <style>
-                      #shopify-section-{{ section.id }} .shopify-payment-button {
-                        display: none;
-                      }
-                    </style>
-                  {%- endunless -%}
+                {%- else -%}
+                  {{- 'product.form.sold_out' | t -}}
                 {%- endif -%}
-              </product-payment-container>
-            {%- endform -%}
-          </div>
-          {% else %}
-          <a class="klaviyo-bis-trigger" href="#">Benachrichtige mich sobald wieder verfügbar!</a>
-          {% endif %}
-        {%- endif -%}
+              </button>
+              {%- comment -%}Back in Stock button Platzierung Sold Out Button wird angezeigt inkl. Bis Button{%- endcomment -%}
+  
+               <a class="klaviyo-bis-trigger product-form__add-button button button--primary button--full" {% unless current_variant.available %}style="display:none;"{% endunless %} href="#">Benachrichtige mich sobald wieder verfügbar!</a>
 
-        {%- comment -%}Payment Icons on PDP{%- endcomment -%}
-        {% render 'payment-icons' %}
+              {%- if block.settings.show_payment_button and template.suffix != 'quick-buy-popover' -%}
+                {{ form | payment_button }}
 
-        {%- if template.suffix != 'quick-buy-popover' -%}
-          <store-pickup form-id="{{ product_form_id }}" class="product-form__store-availability-container">
-            {%- render 'store-availability', product_variant: product.selected_or_first_available_variant -%}
-          </store-pickup>
-        {%- endif -%}
-    {%- endcase -%}
-  {%- endfor -%}
+                {%- unless product.selected_or_first_available_variant.available -%}
+                  <style>
+                    #shopify-section-{{ section.id }} .shopify-payment-button {
+                      display: none;
+                    }
+                  </style>
+                {%- endunless -%}
+              {%- endif -%}
+            </product-payment-container>
+          {%- endform -%}
+        </div>
+
+        
+      {%- endif -%}
+
+      {%- comment -%}Payment Icons on PDP{%- endcomment -%}
+      {% render 'payment-icons' %}
+
+      {%- if template.suffix != 'quick-buy-popover' -%}
+        <store-pickup form-id="{{ product_form_id }}" class="product-form__store-availability-container">
+          {%- render 'store-availability', product_variant: product.selected_or_first_available_variant -%}
+        </store-pickup>
+      {%- endif -%}
+  {%- endcase -%}
+{%- endfor -%}
 
   {%- comment -%}
   IMPLEMENTATION NOTE: under rare circumstances, merchant may want to show selectors but hide the add to cart button. This
