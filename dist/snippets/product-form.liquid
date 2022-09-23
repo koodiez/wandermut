@@ -370,7 +370,6 @@
       {%- endcomment -%}
       {%- when 'buy_buttons' -%}
         {%- if request.page_type != 'password' -%}
-          {% if product.available %}
           <div class="product-form__buy-buttons" {{ block.shopify_attributes }}>
             {%- form 'product', product, is: 'product-form', id: product_form_id -%}
               <input type="hidden" disabled name="id" value="{{ product.selected_or_first_available_variant.id }}">
@@ -387,6 +386,10 @@
                     {{- 'product.form.sold_out' | t -}}
                   {%- endif -%}
                 </button>
+                {%- comment -%}Back in Stock button Platzierung{%- endcomment -%}
+          
+                 <a class="klaviyo-bis-trigger product-form__add-button button button--primary button--full" {% unless current_variant.available %}style="display:none;"{% endunless %} href="#">Benachrichtige mich sobald wieder verfügbar!</a>
+                
 
                 {%- if block.settings.show_payment_button and template.suffix != 'quick-buy-popover' -%}
                   {{ form | payment_button }}
@@ -402,9 +405,7 @@
               </product-payment-container>
             {%- endform -%}
           </div>
-          {% else %}
-          <a class="klaviyo-bis-trigger" href="#">Benachrichtige mich sobald wieder verfügbar!</a>
-          {% endif %}
+
         {%- endif -%}
 
         {%- comment -%}Payment Icons on PDP{%- endcomment -%}

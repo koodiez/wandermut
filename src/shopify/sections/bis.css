@@ -1,13 +1,6 @@
 .klaviyo-bis-trigger {
-  padding-left: 35px;
-  padding-right: 35px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
   font-size: calc(var(--base-font-size) - 2px);
-  letter-spacing: 2px;
-  font-family: var(--text-font-family);
-  font-weight: var(--text-font-bold-weight);
-  text-transform: uppercase;
-  width: 100%;
-  background-color: #c5a333;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  letter-spacing: 0px !important;
 }
