@@ -289,27 +289,9 @@
         "imageheadingcolor": "#030000",
         "headingsize": 48,
         "sectionparagraph": "Schau dir den Plan an und bewirb dich, um mitzukommen.",
-        "overlaybackground": 0,
-        "overlayadv": 0.5,
+        "overlaybackground": 0.5,
+        "overlayadv": 0.2,
         "overlay_color": "#030000"
-      }
-    },
-    "16621138700ab99ea3": {
-      "type": "apps",
-      "blocks": {
-        "dc2cc54d-7206-4f4f-a99e-9bc086b6d8fb": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "Sx56Lv"
-          }
-        }
-      },
-      "block_order": [
-        "dc2cc54d-7206-4f4f-a99e-9bc086b6d8fb"
-      ],
-      "settings": {
-        "include_horizontal_margins": true,
-        "include_vertical_margins": true
       }
     },
     "16590838846fb9a45a": {
@@ -641,6 +623,24 @@
         "cycle_speed": 10,
         "background": "rgba(0,0,0,0)"
       }
+    },
+    "16621138700ab99ea3": {
+      "type": "apps",
+      "blocks": {
+        "dc2cc54d-7206-4f4f-a99e-9bc086b6d8fb": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Sx56Lv"
+          }
+        }
+      },
+      "block_order": [
+        "dc2cc54d-7206-4f4f-a99e-9bc086b6d8fb"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
     }
   },
   "order": [
@@ -650,11 +650,11 @@
     "1659083248ec7e442b",
     "16593405519d479995",
     "16602815824145cdee",
-    "16621138700ab99ea3",
     "16590838846fb9a45a",
     "1659749780901481b8",
     "1659084086315c6a06",
     "16590840747c49f635",
-    "16597508388392f127"
+    "16597508388392f127",
+    "16621138700ab99ea3"
   ]
 }

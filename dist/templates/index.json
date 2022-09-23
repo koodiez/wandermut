@@ -5,27 +5,66 @@
       "blocks": {
         "1659974857c13f980b-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_6.jpg",
             "split_image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_8.jpg",
             "mobile_image": "shopify:\/\/shop_images\/31.png",
             "text_position": "middle_center",
             "subheading": "WANDERMUT",
-            "title": "OUTDOOR KLAMOTTEN GETESTE AM LIMIT",
+            "title": "OUTDOOR BEKLEIDUNG FÜR EINSTEIGER & PROFIS",
             "button_1_text": "Frauen",
             "button_1_link": "shopify:\/\/collections\/frauen-bekleidung",
             "button_2_text": "Männer",
             "button_2_link": "shopify:\/\/collections\/manner-bekleidung",
             "text_color": "#ffffff",
-            "button_background": "#ffffff",
+            "button_background": "#d4af37",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 38
           }
+        },
+        "1d2f55b0-c75c-4b45-97ab-b62ff75ce18b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_136.jpg",
+            "text_position": "middle_center",
+            "subheading": "WANDERMUT",
+            "title": "OUTDOOR BEKLEIDUNG FÜR EINSTEIGER & PROFIS",
+            "button_1_text": "Für Männer",
+            "button_1_link": "shopify:\/\/collections\/outdoor-begleidung-herren",
+            "button_2_text": "Für Frauen",
+            "button_2_link": "shopify:\/\/collections\/outdoor-bekleidung-damen",
+            "text_color": "#ffffff",
+            "button_background": "#d4af37",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1596e0fc-ab92-4e84-ac70-66b5ffe7301c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-08-15_163016.png",
+            "text_position": "middle_left",
+            "subheading": "Lass dich auf einer einsamen Insel aussetzen",
+            "title": "Wandermut Island Survival",
+            "button_1_text": "Zum Plan",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#d4af37",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
-        "1659974857c13f980b-0"
+        "1659974857c13f980b-0",
+        "1d2f55b0-c75c-4b45-97ab-b62ff75ce18b",
+        "1596e0fc-ab92-4e84-ac70-66b5ffe7301c"
       ],
       "settings": {
         "section_height": "large",
@@ -51,25 +90,6 @@
         "text_color": "#ffffff"
       }
     },
-    "1659868575a59a3e67": {
-      "type": "rich-text",
-      "disabled": true,
-      "settings": {
-        "subheading": "Willkommen bei Wandermut",
-        "title": "Abenteuer & Outdoor BEKLEIDUNG",
-        "content": "<p>Wir stehen auf Abenteuer. Du auch? – Dann komm mit, wenn du dich traust oder statte dich für dein nächstes Abenteuer aus.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
     "16598725948945d6a0": {
       "type": "collection-list",
       "disabled": true,
@@ -78,7 +98,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/World_Map_Design.png",
+            "image": "shopify:\/\/shop_images\/Auf-Pferden-durch-die-Monolei-45.jpg",
             "subheading": "",
             "title": "ABENTEUER",
             "link_text_1": "zu den Abenteuern",
@@ -184,7 +204,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Chachapoya-Expedition-2018-536-1-scaled.jpg",
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_133.jpg",
             "subheading": "Entickelt von Profis",
             "title": "DIE BESTE WANDERHOSE",
             "link_text_1": "Für Frauen",
@@ -195,41 +215,41 @@
             "overlay_color": "#000000",
             "overlay_opacity": 56,
             "button_css": true,
-            "button_color1": "#000000",
-            "button_color2": "#000000",
-            "text_color1": "#ffffff",
-            "text_color2": "#ffffff"
+            "button_color1": "#d4af37",
+            "button_color2": "#d4af37",
+            "text_color1": "#0d0d0d",
+            "text_color2": "#0d0d0d"
           }
         },
         "1659529324222cae35-1": {
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-2.jpg",
-            "subheading": "Für beinahe jedes Abenteuer",
-            "title": "WANDERMUT ADVENTURE SHIRT",
-            "link_text_1": "FÜR FRAUEN",
-            "link_text_2": "FÜR MÄNNER",
-            "link_url_1": "shopify:\/\/products\/outdoor-hemd-frauen",
-            "link_url_2": "shopify:\/\/products\/outdoor-hemd-herren",
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_00253.jpg",
+            "subheading": "Mitorganisatoren der 2. Staffel",
+            "title": "Unsere Rolle bei \"7 vs. Wild\"",
+            "link_text_1": "Mehr erfahren",
+            "link_text_2": "",
+            "link_url_1": "shopify:\/\/pages\/7-vs-wild",
+            "link_url_2": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 50,
             "button_css": true,
-            "button_color1": "#000000",
-            "button_color2": "#000000",
-            "text_color1": "#ffffff",
-            "text_color2": "#ffffff"
+            "button_color1": "#dfdfdf",
+            "button_color2": "#dfdfdf",
+            "text_color1": "#030000",
+            "text_color2": "#030000"
           }
         },
         "1659529324222cae35-2": {
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/IMG_1160_photo-full-scaled.jpg",
-            "subheading": "ENTDECKE UNSERE ABENTEUER",
-            "title": "BEGINNE DIE REISE DEINES LEBENS",
-            "link_text_1": "ABENTEUER ENTDECKEN",
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-08-15_153019.png",
+            "subheading": "ENTDECKE UNSERE",
+            "title": "ABENTEUER & EXPEDITIONEN",
+            "link_text_1": "ZU DEN ABENTEUERN",
             "link_text_2": "",
             "link_url_1": "shopify:\/\/pages\/abenteuer",
             "link_url_2": "shopify:\/\/pages\/abenteuer",
@@ -237,9 +257,9 @@
             "overlay_color": "#000000",
             "overlay_opacity": 50,
             "button_css": true,
-            "button_color1": "#000000",
+            "button_color1": "#d4af37",
             "button_color2": "#000000",
-            "text_color1": "#ffffff",
+            "text_color1": "#030000",
             "text_color2": "#000000"
           }
         }
@@ -254,95 +274,8 @@
         "layout": "collage",
         "subheading": "",
         "title": "",
-        "background": "rgba(0,0,0,0)",
+        "background": "#dfdfdf",
         "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "16590136878b2643ff": {
-      "type": "multi-column",
-      "blocks": {
-        "16590136873e5c07e6-1": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website.jpg",
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "Anti Riss Garantie",
-            "content": "<p>Deine Wandermut Outdoor-Hose ist dir gerissen? Kein Problem! <strong>Wir ersetzen dir deine Outdoor-Hose kostenfrei.<\/strong><\/p>",
-            "link_text": "Überzeuge dich selbst",
-            "link_url": "shopify:\/\/collections\/alle-produkte",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
-        },
-        "16590136873e5c07e6-2": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-2.jpg",
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "Auf den härstesten Abenteuern getestet",
-            "content": "<p>Wir wissen, worauf es wirklich ankommt. Unser Anspruch: <strong>Wir entwickeln nur Produkte, die wir selbst bei unseren Expeditionen nutzen.<\/strong><\/p>",
-            "link_text": "",
-            "link_url": "shopify:\/\/pages\/abenteuer",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
-        },
-        "16590136873e5c07e6-3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website-2.jpg",
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "Stürze dich mit uns ins Abenteuer",
-            "content": "<p>Wir organisieren Abenteuer & Expeditionen in die abgelegensten Winkel dieser Erde.<br\/><strong>Komm mit, wenn du dich traust.<\/strong><\/p>",
-            "link_text": "",
-            "link_url": "shopify:\/\/pages\/abenteuer",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
-        }
-      },
-      "block_order": [
-        "16590136873e5c07e6-1",
-        "16590136873e5c07e6-2",
-        "16590136873e5c07e6-3"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "stack_items": true,
-        "subheading": "",
-        "title": "Was uns besonders macht",
-        "content": "<p>Wenn Wandermut drauf steht, ist Abenteuer drin.<\/p>",
-        "column_alignment": "center",
-        "mobile_item_size": "large",
-        "desktop_item_size": "large",
-        "spacing": "loose",
-        "background": "#ffffff",
-        "text_color": "#030000"
-      }
-    },
-    "16618546382498ce12": {
-      "type": "apps",
-      "blocks": {
-        "93838579-755f-4728-87d6-2f79092fb480": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "WXFCZm"
-          }
-        }
-      },
-      "block_order": [
-        "93838579-755f-4728-87d6-2f79092fb480"
-      ],
-      "settings": {
-        "include_horizontal_margins": true,
-        "include_vertical_margins": true
       }
     },
     "1659719728b804c975": {
@@ -392,45 +325,90 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
-    "1659014189f77ed609": {
-      "type": "shop-the-look",
-      "disabled": true,
+    "16590136878b2643ff": {
+      "type": "multi-column",
       "blocks": {
-        "1659014189ae7eadf4-0": {
-          "type": "look",
+        "16590136873e5c07e6-2": {
+          "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Simon-DSC_1818-scaled.jpg",
-            "dot_type": "normal",
-            "product_1": "",
-            "product_1_horizontal_position": 37,
-            "product_1_vertical_position": 52,
-            "product_1_horizontal_position_mobile": 30,
-            "product_1_vertical_position_mobile": 30,
-            "product_2": "wanderhose-allrounder-herren",
-            "product_2_horizontal_position": 54,
-            "product_2_vertical_position": 74,
-            "product_2_horizontal_position_mobile": 50,
-            "product_2_vertical_position_mobile": 50,
-            "product_3": "wanderhose-allrounder-damen",
-            "product_3_horizontal_position": 74,
-            "product_3_vertical_position": 71,
-            "product_3_horizontal_position_mobile": 70,
-            "product_3_vertical_position_mobile": 70
+            "image": "shopify:\/\/shop_images\/Design-ohne-Titel-2.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Auf den härstesten Abenteuern getestet",
+            "content": "<p>Wir wissen, worauf es wirklich ankommt. Unser Anspruch: <strong>Wir entwickeln nur Produkte, die wir selbst bei unseren Expeditionen nutzen.<\/strong><\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/pages\/abenteuer",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
           }
         },
-        "e53fa04e-76df-4554-904b-b4105f2f76ac": {
+        "16590136873e5c07e6-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Anti Riss Garantie",
+            "content": "<p>Deine Wandermut Outdoor-Hose ist dir gerissen? Kein Problem! Wir ersetzen dir deine Outdoor-Hose kostenfrei.<\/p>",
+            "link_text": "Überzeuge dich selbst",
+            "link_url": "shopify:\/\/collections\/alle-produkte",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16590136873e5c07e6-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website-2.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Stürze dich mit uns ins Abenteuer",
+            "content": "<p>Wir organisieren Abenteuer & Expeditionen in die abgelegensten Winkel dieser Erde.<\/p>",
+            "link_text": "Komm mit, wenn du dich traust 💪",
+            "link_url": "shopify:\/\/pages\/abenteuer",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16590136873e5c07e6-2",
+        "16590136873e5c07e6-1",
+        "16590136873e5c07e6-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "Was uns besonders macht",
+        "content": "<p>WENN WANDERMUT DRAUF STEHT, IST ABENTEUER DRIN.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "#2e2e2e",
+        "text_color": "#ffffff"
+      }
+    },
+    "1659014189f77ed609": {
+      "type": "shop-the-look",
+      "blocks": {
+        "5832b7ef-a2c4-4f6c-ba16-ac54ca1261cb": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF0192g_5deae032-fc7c-4e9c-a5db-4e91a5a9152a.jpg",
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_00253.jpg",
             "dot_type": "normal",
-            "product_1": "t-shirt",
-            "product_1_horizontal_position": 44,
-            "product_1_vertical_position": 46,
+            "product_1": "outdoor-hemd-herren",
+            "product_1_horizontal_position": 51,
+            "product_1_vertical_position": 48,
             "product_1_horizontal_position_mobile": 30,
             "product_1_vertical_position_mobile": 30,
             "product_2": "wanderhose-allrounder-herren",
-            "product_2_horizontal_position": 58,
-            "product_2_vertical_position": 55,
+            "product_2_horizontal_position": 44,
+            "product_2_vertical_position": 69,
             "product_2_horizontal_position_mobile": 50,
             "product_2_vertical_position_mobile": 50,
             "product_3": "",
@@ -439,273 +417,152 @@
             "product_3_horizontal_position_mobile": 70,
             "product_3_vertical_position_mobile": 70
           }
+        },
+        "e53fa04e-76df-4554-904b-b4105f2f76ac": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_88.jpg",
+            "dot_type": "normal",
+            "product_1": "outdoor-hemd-frauen",
+            "product_1_horizontal_position": 39,
+            "product_1_vertical_position": 31,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "outdoor-hemd-herren",
+            "product_2_horizontal_position": 59,
+            "product_2_vertical_position": 43,
+            "product_2_horizontal_position_mobile": 59,
+            "product_2_vertical_position_mobile": 56,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "99e009a7-47e1-46f7-98c3-2b7c12ab9862": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_00167.jpg",
+            "dot_type": "normal",
+            "product_1": "outdoor-hemd-frauen",
+            "product_1_horizontal_position": 53,
+            "product_1_vertical_position": 40,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "wanderhose-allrounder-damen",
+            "product_2_horizontal_position": 51,
+            "product_2_vertical_position": 52,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "1659014189ae7eadf4-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_136.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_136.jpg",
+            "dot_type": "normal",
+            "product_1": "",
+            "product_1_horizontal_position": 31,
+            "product_1_vertical_position": 52,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "wanderhose-allrounder-herren",
+            "product_2_horizontal_position": 50,
+            "product_2_vertical_position": 60,
+            "product_2_horizontal_position_mobile": 51,
+            "product_2_vertical_position_mobile": 63,
+            "product_3": "wanderhose-allrounder-damen",
+            "product_3_horizontal_position": 43,
+            "product_3_vertical_position": 78,
+            "product_3_horizontal_position_mobile": 41,
+            "product_3_vertical_position_mobile": 79
+          }
         }
       },
       "block_order": [
-        "1659014189ae7eadf4-0",
-        "e53fa04e-76df-4554-904b-b4105f2f76ac"
+        "5832b7ef-a2c4-4f6c-ba16-ac54ca1261cb",
+        "e53fa04e-76df-4554-904b-b4105f2f76ac",
+        "99e009a7-47e1-46f7-98c3-2b7c12ab9862",
+        "1659014189ae7eadf4-0"
       ],
       "settings": {
         "reveal_on_scroll": true,
         "label": ""
       }
     },
-    "1659014043b2495697": {
-      "type": "faq",
-      "disabled": true,
+    "16618546382498ce12": {
+      "type": "apps",
       "blocks": {
-        "165901404309f3945d-1": {
-          "type": "question",
+        "93838579-755f-4728-87d6-2f79092fb480": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "title": "Kostenloser Versand & Retoure",
-            "answer": "<p>Unsere Produkte kannst du<strong>kostenfrei bestellen<\/strong>. Sollten sie dir nicht gefallen oder nicht passen, kannst du sie auch<strong>kostenlos wieder zurückschicken<\/strong>.<\/p>"
-          }
-        },
-        "165901404309f3945d-2": {
-          "type": "question",
-          "settings": {
-            "title": "6 Monate Garantie auf alle Produkte",
-            "answer": "<p><strong>Alle Produkte besitzen eine 6-monatige Garantie<\/strong>. Solltest du Problme haben, kontaktiere uns einfach über E-Mail oder WhatsApp.<\/p>"
-          }
-        },
-        "165901404309f3945d-4": {
-          "type": "question",
-          "settings": {
-            "title": "Einfach, sicher & schnell bezahlen",
-            "answer": "<p>Wir bieten eine vielzahl vonn Zahlungsmöglichkeiten, um es dir so<strong>einfach, sicher und schnell<\/strong>wie möglich zu machen, dich für dein nächsten Abenteuer auszustatten.<\/p>"
+            "formId": "WXFCZm"
           }
         }
       },
       "block_order": [
-        "165901404309f3945d-1",
-        "165901404309f3945d-2",
-        "165901404309f3945d-4"
+        "93838579-755f-4728-87d6-2f79092fb480"
       ],
       "settings": {
-        "show_navigation": false,
-        "title": "Vorteile, wenn du bei uns bestellst",
-        "content": "",
-        "background": "rgba(0,0,0,0)",
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Kostenfreier Versand",
+            "content": "<p>Ab einem Einkaufswert i.H.v. 80€ innerhalb von Deutschland.<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Kundensupport",
+            "content": "<p>Wenn du Fragen hast, kannst du uns jederzeit <a href=\"\/pages\/contact\" title=\"Kontakt\">kontaktieren<\/a>.<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Sicheres Bezahlen",
+            "content": "<p>Egal ob Paypal oder eine andere präferierte Zahlungsmethode. Bei uns bist du sicher.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3"
+      ],
+      "settings": {
+        "background": "#dfdfdf",
         "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "16590146681089bc6d": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "1659014668cad92a22-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0350-scaled.jpg",
-            "text_position": "middle_center",
-            "subheading": "",
-            "title": "ÜBER UNS",
-            "button_1_text": "Mehr erfahren",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "329016ba-c759-4243-97d9-a16e27d5e9f1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Quadratische_Fotos_fuer_Website.jpg",
-            "text_position": "middle_center",
-            "subheading": "",
-            "title": "WARUM IR eigene outdoor-kleidung entwickeln",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "4d54e5f8-3df5-4cf2-b27f-74861a4f349d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0950.jpg",
-            "text_position": "middle_center",
-            "subheading": "\"Man lebt nur einmal. Daher wollen wir dich dazu bewegen, genau die Abenteuer zu erleben, von denen du schon immer geträumt hast.\"  Tom Schinker & Martin Druschel",
-            "title": "unser antrieb",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "1659014668cad92a22-1",
-        "329016ba-c759-4243-97d9-a16e27d5e9f1",
-        "4d54e5f8-3df5-4cf2-b27f-74861a4f349d"
-      ],
-      "settings": {
-        "section_height": "small",
-        "heading_size": 22,
-        "transition_type": "sweep",
-        "autoplay": true,
-        "cycle_speed": 10,
-        "background": "rgba(0,0,0,0)"
-      }
-    },
-    "1661765019e09e9c42": {
-      "type": "adventure-slider",
-      "blocks": {
-        "90cec650-51dc-4fda-a207-756bfac9a6ff": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/51.png",
-            "text-heading": "AUF PFERDEN DURCH DIE MONGOLEI",
-            "text": "Mongolei",
-            "url": "shopify:\/\/pages\/mongolei",
-            "urltext": "MEHR INFOS",
-            "tag": "AUSGEBUCHT",
-            "tagtextcolor": "#030000",
-            "tagcolor": "#de2a2a"
-          }
-        },
-        "76d57618-fb40-4b07-978b-014e64bec832": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
-            "text-heading": "ISLAND TOUR",
-            "text": "ISLAND",
-            "url": "shopify:\/\/pages\/island-tour",
-            "urltext": "MEHR INFOS",
-            "tag": "",
-            "tagtextcolor": "#ffffff",
-            "tagcolor": "#ffffff"
-          }
-        },
-        "af1dfdcf-872e-485e-a5a2-97587750a025": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/52.png",
-            "text-heading": "ISLAND SURVIVAL",
-            "text": "PANAMA",
-            "url": "shopify:\/\/pages\/panama-dschungel-tour",
-            "urltext": "MEHR INFOS",
-            "tag": "",
-            "tagtextcolor": "#ffffff",
-            "tagcolor": "#ffffff"
-          }
-        },
-        "a77d7d6c-997b-4161-ad11-ee6c04fbda53": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/31.png",
-            "text-heading": "AMAZONAS EXPEDITION",
-            "text": "PERU",
-            "url": "shopify:\/\/pages\/peru",
-            "urltext": "MEHR INFOS",
-            "tag": "",
-            "tagtextcolor": "#ffffff",
-            "tagcolor": "#ffffff"
-          }
-        },
-        "916cf784-c91f-4e71-b430-93373ce331c8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
-            "text-heading": "PANAMA DSCHUNGEL TOUR",
-            "text": "DARIEN PANAMA",
-            "url": "shopify:\/\/pages\/panama-dschungel-tour",
-            "urltext": "MEHR INFOS",
-            "tag": "",
-            "tagtextcolor": "#ffffff",
-            "tagcolor": "#ffffff"
-          }
-        },
-        "e15e3164-f101-4902-a72a-f6c85157773c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/53.png",
-            "text-heading": "MOLUKKEN EXPEDITION",
-            "text": "INDONESIEN",
-            "url": "shopify:\/\/pages\/molukken-abenteuer",
-            "urltext": "MEHR INFOS",
-            "tag": "",
-            "tagtextcolor": "#ffffff",
-            "tagcolor": "#ffffff"
-          }
-        },
-        "977eda4c-0132-4a7f-8878-35cfb60ad714": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_5f81694d-3c97-4010-bff7-d42bc0eefb11.png",
-            "text-heading": "SAHARA TOUR",
-            "text": "MAROKKO",
-            "url": "shopify:\/\/pages\/sahara",
-            "urltext": "MEHR INFOS",
-            "tag": "",
-            "tagtextcolor": "#ffffff",
-            "tagcolor": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "90cec650-51dc-4fda-a207-756bfac9a6ff",
-        "76d57618-fb40-4b07-978b-014e64bec832",
-        "af1dfdcf-872e-485e-a5a2-97587750a025",
-        "a77d7d6c-997b-4161-ad11-ee6c04fbda53",
-        "916cf784-c91f-4e71-b430-93373ce331c8",
-        "e15e3164-f101-4902-a72a-f6c85157773c",
-        "977eda4c-0132-4a7f-8878-35cfb60ad714"
-      ],
-      "settings": {
-        "image_background": "shopify:\/\/shop_images\/Wandermut-Hochland-Expedition-Blog-008.jpg",
-        "section-heading": "AKTUELLE ABENTEUER:",
-        "imagetextcolor": "#ffffff",
-        "imageheadingcolor": "#030000",
-        "headingsize": 48,
-        "sectionparagraph": "Schau dir unsere aktuellen Abenteuer an und bewirb dich, um Teil des Teams zu werden.",
-        "overlaybackground": 0,
-        "overlayadv": 0.5,
-        "overlay_color": "#000000"
-      }
-    },
-    "1659868051728b2aac": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "reveal_on_scroll": true,
-        "section_height": "medium",
-        "image": "shopify:\/\/shop_images\/Gibraleon_Island_4.jpg",
-        "subheading": "Panama",
-        "title": "Island Survival",
-        "content": "<p>Wir lassen uns vor einer einsamen Insel mitten im Pazifik aus einem fliegenden Helikopter ins Meer werfen. Dort müssen wir 10 Tage überleben und versuchen in der Zeit ein Floß bauen, um die Insel wieder zu verlassen.<\/p>",
-        "button_text": "Zum Plan",
-        "button_link": "",
-        "link_style": "button",
-        "background_type": "boxed",
-        "text_width": "large",
-        "text_position": "middle_left",
-        "text_color": "#ffffff",
-        "button_background": "#ffffff",
-        "button_text_color": "#000000",
-        "overlay_color": "#000000",
-        "overlay_opacity": 50
       }
     },
     "165972423596af5a71": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "1659724235a16b008f-0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0950.jpg",
@@ -778,81 +635,23 @@
         "layout": "collage",
         "subheading": "",
         "title": "Über WANDERMUT",
-        "background": "#ffffff",
-        "text_color": "#030000"
-      }
-    },
-    "text-with-icons": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item-1": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "custom_icon_width": 50,
-            "title": "Kostenfreier Versand",
-            "content": "<p>Ab einem Einkaufswert i.H.v. 80€ innerhalb von Deutschland.<\/p>"
-          }
-        },
-        "item-2": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-phone",
-            "custom_icon_width": 50,
-            "title": "Kundensupport",
-            "content": "<p>Wenn du Fragen hast, kannst du uns jederzeit <a href=\"\/pages\/contact\" title=\"Kontakt\">kontaktieren<\/a>.<\/p>"
-          }
-        },
-        "item-3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "custom_icon_width": 50,
-            "title": "Sicheres Bezahlen",
-            "content": "<p>Egal ob Paypal oder eine andere präferierte Zahlungsmethode. Bei uns bist du sicher.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-3"
-      ],
-      "settings": {
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "1660217670c6e96c60": {
-      "type": "slideshow",
-      "settings": {
-        "section_height": "auto",
-        "heading_size": 22,
-        "transition_type": "sweep",
-        "autoplay": true,
-        "cycle_speed": 5,
-        "background": "rgba(0,0,0,0)"
+        "background": "#2e2e2e",
+        "text_color": "#ffffff"
       }
     }
   },
   "order": [
     "1659974857ccc352b6",
     "1659722518bc32cb71",
-    "1659868575a59a3e67",
     "16598725948945d6a0",
     "16598915456c481938",
     "165934651807f83639",
     "1659529324f20321e6",
-    "16590136878b2643ff",
-    "16618546382498ce12",
     "1659719728b804c975",
+    "16590136878b2643ff",
     "1659014189f77ed609",
-    "1659014043b2495697",
-    "16590146681089bc6d",
-    "1661765019e09e9c42",
-    "1659868051728b2aac",
-    "165972423596af5a71",
+    "16618546382498ce12",
     "text-with-icons",
-    "1660217670c6e96c60"
+    "165972423596af5a71"
   ]
 }

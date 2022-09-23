@@ -21,8 +21,8 @@
         "reveal_on_scroll": true,
         "section_height": "small",
         "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_6.jpg",
-        "subheading": "",
-        "title": "Frauen OUTDOOR BEKLEIDUNG",
+        "subheading": "Wandermut",
+        "title": "Outdoor Bekleidung für Frauen",
         "content": "",
         "button_text": "",
         "button_link": "",
@@ -59,16 +59,16 @@
         "ad154242-d02b-4c1f-a91e-1062d597dd62": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Simon-DSC_1818-scaled.jpg",
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_00167.jpg",
             "dot_type": "normal",
-            "product_1": "",
-            "product_1_horizontal_position": 30,
-            "product_1_vertical_position": 30,
+            "product_1": "outdoor-hemd-frauen",
+            "product_1_horizontal_position": 53,
+            "product_1_vertical_position": 38,
             "product_1_horizontal_position_mobile": 30,
             "product_1_vertical_position_mobile": 30,
-            "product_2": "",
+            "product_2": "wanderhose-allrounder-damen",
             "product_2_horizontal_position": 50,
-            "product_2_vertical_position": 50,
+            "product_2_vertical_position": 52,
             "product_2_horizontal_position_mobile": 50,
             "product_2_vertical_position_mobile": 50,
             "product_3": "",
@@ -81,60 +81,16 @@
         "c27e11a0-e2c4-407a-8e99-72127997b83a": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Andi-DSC_0485-scaled.jpg",
+            "image": "shopify:\/\/shop_images\/Produkt_Fotoshooting_Isla_San_Jose_2022_88.jpg",
             "dot_type": "normal",
-            "product_1": "",
-            "product_1_horizontal_position": 30,
-            "product_1_vertical_position": 30,
+            "product_1": "outdoor-hemd-frauen",
+            "product_1_horizontal_position": 39,
+            "product_1_vertical_position": 42,
             "product_1_horizontal_position_mobile": 30,
             "product_1_vertical_position_mobile": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 50,
-            "product_2_vertical_position": 50,
-            "product_2_horizontal_position_mobile": 50,
-            "product_2_vertical_position_mobile": 50,
-            "product_3": "",
-            "product_3_horizontal_position": 70,
-            "product_3_vertical_position": 70,
-            "product_3_horizontal_position_mobile": 70,
-            "product_3_vertical_position_mobile": 70
-          }
-        },
-        "165989616938cd5a1c-0": {
-          "type": "look",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Amazonas_Expedition_Foto-Ad_7.jpg",
-            "dot_type": "inverted",
-            "product_1": "",
-            "product_1_horizontal_position": 41,
-            "product_1_vertical_position": 41,
-            "product_1_horizontal_position_mobile": 30,
-            "product_1_vertical_position_mobile": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 46,
-            "product_2_vertical_position": 64,
-            "product_2_horizontal_position_mobile": 50,
-            "product_2_vertical_position_mobile": 50,
-            "product_3": "",
-            "product_3_horizontal_position": 62,
-            "product_3_vertical_position": 50,
-            "product_3_horizontal_position_mobile": 70,
-            "product_3_vertical_position_mobile": 70
-          }
-        },
-        "260deb40-44e4-4d1a-b543-64390864c766": {
-          "type": "look",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sahara-2017-Doku-0350-scaled.jpg",
-            "dot_type": "normal",
-            "product_1": "",
-            "product_1_horizontal_position": 30,
-            "product_1_vertical_position": 30,
-            "product_1_horizontal_position_mobile": 30,
-            "product_1_vertical_position_mobile": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 50,
-            "product_2_vertical_position": 50,
+            "product_2": "wanderhose-allrounder-damen",
+            "product_2_horizontal_position": 30,
+            "product_2_vertical_position": 63,
             "product_2_horizontal_position_mobile": 50,
             "product_2_vertical_position_mobile": 50,
             "product_3": "",
@@ -147,13 +103,11 @@
       },
       "block_order": [
         "ad154242-d02b-4c1f-a91e-1062d597dd62",
-        "c27e11a0-e2c4-407a-8e99-72127997b83a",
-        "165989616938cd5a1c-0",
-        "260deb40-44e4-4d1a-b543-64390864c766"
+        "c27e11a0-e2c4-407a-8e99-72127997b83a"
       ],
       "settings": {
         "reveal_on_scroll": true,
-        "label": "Shop the looks"
+        "label": ""
       }
     },
     "165989592448c2aa01": {

@@ -14,7 +14,7 @@
           "type": "dropdown",
           "settings": {
             "title": "Betreff",
-            "values": "Fragen zum Produkt, Kundensupport, Anfrage Kooperation, Sonstigese"
+            "values": "Fragen zum Produkt, Fragen zu einer Tour, Kundensupport, Anfrage Kooperation, Sonstiges"
           }
         }
       },
@@ -22,8 +22,8 @@
         "6a73d864-9b9c-436d-8107-e752a7d29a53"
       ],
       "settings": {
-        "title": "",
-        "content": "",
+        "title": "Kontakt",
+        "content": "<p>Für Fragen, Retouren oder Fanpost. <\/p>",
         "text_1_heading": "",
         "text_1_text": "",
         "text_2_heading": "",

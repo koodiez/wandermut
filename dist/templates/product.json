@@ -53,18 +53,6 @@
     "product-content": {
       "type": "product-content",
       "blocks": {
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
-        "48d8dce3-535a-4925-b71f-242b076ad734": {
-          "type": "content",
-          "settings": {
-            "title": "Technische Daten",
-            "content": "<p>Lorem Ipsum <\/p>",
-            "page": ""
-          }
-        },
         "28c7ba1e-43be-4983-b327-0e617dba7ba8": {
           "type": "featured_products",
           "settings": {
@@ -72,19 +60,31 @@
             "products": "{{ product.metafields.custom.buy_it_with.value }}"
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "48d8dce3-535a-4925-b71f-242b076ad734": {
+          "type": "content",
+          "settings": {
+            "title": "Materialien & Details",
+            "content": "<p>{{ product.metafields.custom.materialien_details | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
         "d80973f2-1d29-4d95-82a6-8eef69c4c303": {
           "type": "content",
           "settings": {
-            "title": "BERATUNG",
-            "content": "<p>Bei deiner perfekten Wanderhose solltest du auf folgendes achten: <\/p>",
+            "title": "Wort von uns",
+            "content": "<p>{{ product.metafields.custom.wort_von_uns | metafield_tag }}<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
+        "28c7ba1e-43be-4983-b327-0e617dba7ba8",
         "description",
         "48d8dce3-535a-4925-b71f-242b076ad734",
-        "28c7ba1e-43be-4983-b327-0e617dba7ba8",
         "d80973f2-1d29-4d95-82a6-8eef69c4c303"
       ],
       "settings": {}
@@ -145,10 +145,10 @@
       ],
       "settings": {
         "subheading": "",
-        "title": "{{ product.metafields.custom.section_pdp_heading.value }}",
+        "title": "Was dieses Produkt besonders macht",
         "text_position": "top",
-        "background": "#ffffff",
-        "text_color": "rgba(0,0,0,0)",
+        "background": "#5b5b5b",
+        "text_color": "#ffffff",
         "item_background": "rgba(0,0,0,0)",
         "item_text_color": "rgba(0,0,0,0)"
       }
