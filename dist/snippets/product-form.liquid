@@ -386,10 +386,9 @@
                     {{- 'product.form.sold_out' | t -}}
                   {%- endif -%}
                 </button>
-                {%- comment -%}Back in Stock button Platzierung{%- endcomment -%}
-          
+                {%- comment -%}Back in Stock button Platzierung Sold Out Button wird angezeigt inkl. Bis Button{%- endcomment -%}
+    
                  <a class="klaviyo-bis-trigger product-form__add-button button button--primary button--full" {% unless current_variant.available %}style="display:none;"{% endunless %} href="#">Benachrichtige mich sobald wieder verfügbar!</a>
-                
 
                 {%- if block.settings.show_payment_button and template.suffix != 'quick-buy-popover' -%}
                   {{ form | payment_button }}
